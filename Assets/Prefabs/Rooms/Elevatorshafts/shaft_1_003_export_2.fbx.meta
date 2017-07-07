@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: f2715a89bf3fc554f925a3a6f0a187dc
+timeCreated: 1485888197
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bottom_ring
+    100002: brackets_1
+    100004: CINEMA_4D_Editor
+    100006: clasps
+    100008: generator_shaft_1
+    100010: lights_1
+    100012: lights_2
+    100014: pipes
+    100016: rect_light_0
+    100018: rect_light_0_2
+    100020: screws_1
+    100022: //RootNode
+    100024: smallrings
+    100026: temp_shaft
+    100028: top_ring
+    100030: tracks
+    100032: wires
+    100034: wires_2
+    100036: shaft_walls
+    400000: bottom_ring
+    400002: brackets_1
+    400004: CINEMA_4D_Editor
+    400006: clasps
+    400008: generator_shaft_1
+    400010: lights_1
+    400012: lights_2
+    400014: pipes
+    400016: rect_light_0
+    400018: rect_light_0_2
+    400020: screws_1
+    400022: //RootNode
+    400024: smallrings
+    400026: temp_shaft
+    400028: top_ring
+    400030: tracks
+    400032: wires
+    400034: wires_2
+    400036: shaft_walls
+    2300000: bottom_ring
+    2300002: brackets_1
+    2300004: clasps
+    2300006: pipes
+    2300008: rect_light_0
+    2300010: rect_light_0_2
+    2300012: screws_1
+    2300014: smallrings
+    2300016: temp_shaft
+    2300018: top_ring
+    2300020: tracks
+    2300022: wires
+    2300024: wires_2
+    2300026: shaft_walls
+    3300000: bottom_ring
+    3300002: brackets_1
+    3300004: clasps
+    3300006: pipes
+    3300008: rect_light_0
+    3300010: rect_light_0_2
+    3300012: screws_1
+    3300014: smallrings
+    3300016: temp_shaft
+    3300018: top_ring
+    3300020: tracks
+    3300022: wires
+    3300024: wires_2
+    3300026: shaft_walls
+    4300000: temp_shaft
+    4300002: top_ring
+    4300004: bottom_ring
+    4300006: rect_light_0
+    4300008: wires
+    4300010: rect_light_0_2
+    4300012: wires_2
+    4300014: tracks
+    4300016: screws_1
+    4300018: clasps
+    4300020: smallrings
+    4300022: pipes
+    4300024: brackets_1
+    4300026: shaft_walls
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

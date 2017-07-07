@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 743d39c42a3b84c57996ae14cc0307e1
+timeCreated: 1485559591
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ALL_SCREEN
+    100002: backplate_1
+    100004: border
+    100006: button_ring
+    100008: CINEMA_4D_Editor
+    100010: Extrude_Cylinder_1
+    100012: og__button_1
+    100014: oscilli_button
+    100016: oscilli_button_ring
+    100018: oscilli_ring
+    100020: oscilli_screen
+    100022: oscilliscope
+    100024: //RootNode
+    100026: screen
+    100028: screws
+    100030: speaker
+    100032: speaker_anim
+    100034: speaker_anim_z_1
+    100036: speaker_ring
+    100038: STAND
+    100040: text_ring
+    100042: text_screen
+    400000: ALL_SCREEN
+    400002: backplate_1
+    400004: border
+    400006: button_ring
+    400008: CINEMA_4D_Editor
+    400010: Extrude_Cylinder_1
+    400012: og__button_1
+    400014: oscilli_button
+    400016: oscilli_button_ring
+    400018: oscilli_ring
+    400020: oscilli_screen
+    400022: oscilliscope
+    400024: //RootNode
+    400026: screen
+    400028: screws
+    400030: speaker
+    400032: speaker_anim
+    400034: speaker_anim_z_1
+    400036: speaker_ring
+    400038: STAND
+    400040: text_ring
+    400042: text_screen
+    2300000: backplate_1
+    2300002: border
+    2300004: button_ring
+    2300006: Extrude_Cylinder_1
+    2300008: og__button_1
+    2300010: oscilli_button
+    2300012: oscilli_button_ring
+    2300014: oscilli_ring
+    2300016: oscilli_screen
+    2300018: screws
+    2300020: speaker_anim_z_1
+    2300022: speaker_ring
+    2300024: STAND
+    2300026: text_ring
+    2300028: text_screen
+    3300000: backplate_1
+    3300002: border
+    3300004: button_ring
+    3300006: Extrude_Cylinder_1
+    3300008: og__button_1
+    3300010: oscilli_button
+    3300012: oscilli_button_ring
+    3300014: oscilli_ring
+    3300016: oscilli_screen
+    3300018: screws
+    3300020: speaker_anim_z_1
+    3300022: speaker_ring
+    3300024: STAND
+    3300026: text_ring
+    3300028: text_screen
+    4300000: STAND
+    4300002: screws
+    4300004: Extrude_Cylinder_1
+    4300006: speaker_ring
+    4300008: speaker_anim_z_1
+    4300010: oscilli_button
+    4300012: oscilli_button_ring
+    4300014: oscilli_screen
+    4300016: oscilli_ring
+    4300018: button_ring
+    4300020: og__button_1
+    4300022: text_screen
+    4300024: text_ring
+    4300026: border
+    4300028: backplate_1
+    7400000: CINEMA_4D_Main
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

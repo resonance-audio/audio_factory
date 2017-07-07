@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 572d9953a9d02461993ab3d3f16342fc
+timeCreated: 1486072486
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Console
+    100002: //RootNode
+    100004: ControlPanel
+    100006: Cover
+    100008: Cover 1
+    100010: Cover 2
+    100012: Cover 3
+    100014: Switch
+    100016: Switch 1
+    100018: Switch 2
+    100020: Switch 3
+    100022: SwitchBase1
+    100024: SwitchBase2
+    100026: SwitchBase3
+    100028: SwitchBase4
+    100030: Dial
+    100032: Door
+    100034: polySurface1
+    100036: polySurface2
+    100038: polySurface3
+    100040: polySurface4
+    100042: polySurface5
+    100044: polySurface6
+    100046: polySurface7
+    100048: polySurface8
+    100050: Knob
+    100052: ConsolePanel
+    400000: Console
+    400002: //RootNode
+    400004: ControlPanel
+    400006: Cover
+    400008: Cover 1
+    400010: Cover 2
+    400012: Cover 3
+    400014: Switch
+    400016: Switch 1
+    400018: Switch 2
+    400020: Switch 3
+    400022: SwitchBase1
+    400024: SwitchBase2
+    400026: SwitchBase3
+    400028: SwitchBase4
+    400030: Dial
+    400032: Door
+    400034: polySurface1
+    400036: polySurface2
+    400038: polySurface3
+    400040: polySurface4
+    400042: polySurface5
+    400044: polySurface6
+    400046: polySurface7
+    400048: polySurface8
+    400050: Knob
+    400052: ConsolePanel
+    2300000: Console
+    2300002: ControlPanel
+    2300004: Cover
+    2300006: Cover 1
+    2300008: Cover 2
+    2300010: Cover 3
+    2300012: Switch
+    2300014: Switch 1
+    2300016: Switch 2
+    2300018: Switch 3
+    2300020: SwitchBase1
+    2300022: SwitchBase2
+    2300024: SwitchBase3
+    2300026: SwitchBase4
+    2300028: Dial
+    2300030: polySurface1
+    2300032: polySurface2
+    2300034: polySurface3
+    2300036: polySurface4
+    2300038: polySurface5
+    2300040: polySurface6
+    2300042: polySurface7
+    2300044: polySurface8
+    2300046: Knob
+    2300048: ConsolePanel
+    2300050: Door
+    3300000: Console
+    3300002: ControlPanel
+    3300004: Cover
+    3300006: Cover 1
+    3300008: Cover 2
+    3300010: Cover 3
+    3300012: Switch
+    3300014: Switch 1
+    3300016: Switch 2
+    3300018: Switch 3
+    3300020: SwitchBase1
+    3300022: SwitchBase2
+    3300024: SwitchBase3
+    3300026: SwitchBase4
+    3300028: Dial
+    3300030: polySurface1
+    3300032: polySurface2
+    3300034: polySurface3
+    3300036: polySurface4
+    3300038: polySurface5
+    3300040: polySurface6
+    3300042: polySurface7
+    3300044: polySurface8
+    3300046: Knob
+    3300048: ConsolePanel
+    3300050: Door
+    4300000: Console
+    4300002: ControlPanel
+    4300004: SwitchBase1
+    4300006: Cover
+    4300008: Switch
+    4300010: SwitchBase2
+    4300012: Cover
+    4300014: Switch
+    4300016: SwitchBase3
+    4300018: Cover
+    4300020: Switch
+    4300022: SwitchBase4
+    4300024: Cover
+    4300026: Switch
+    4300028: Dial
+    4300030: polySurface1
+    4300032: polySurface2
+    4300034: polySurface3
+    4300036: polySurface4
+    4300038: polySurface5
+    4300040: polySurface6
+    4300042: polySurface7
+    4300044: polySurface8
+    4300046: Knob
+    4300048: ConsolePanel
+    4300050: Door
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

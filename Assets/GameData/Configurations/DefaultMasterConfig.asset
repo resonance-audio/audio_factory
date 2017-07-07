@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 298711f8becdf4afeb9f6228c1da9513, type: 3}
+  m_Name: DefaultMasterConfig
+  m_EditorClassIdentifier: 
+  roomConfiguration: {fileID: 11400000, guid: 60683a87d6fbf418f85e6798032df7ca, type: 2}
+  persistentGameObjects:
+  - {fileID: 1000010682469132, guid: 6f93f45f9f2a9416b8b162b760513afc, type: 2}

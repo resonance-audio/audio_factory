@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eae53d1563ea74f93b2daaee96778917, type: 3}
+  m_Name: FINALE_BOILER_MANUAL_KICK_Mask
+  m_EditorClassIdentifier: 
+  clip: {fileID: 8300000, guid: d06b17423d55743bc828b606dae96204, type: 3}
+  values:
+  - 0.13678695
+  - 0.33634582
+  - 0.40853146
+  - 0.23260449
+  - 0.23635943
+  - 0.1390885
+  - 0.10944733
+  - 0.16725488
+  - 0.26215914
+  - 0.1348667
+  - 0.07723041
+  - 0.06871765
+  - 0.052199617
+  - 0.050866272
+  - 0.06996402
+  - 0.06378421
+  - 0.09070587
+  - 0.07957715
+  - 0.06925656
+  - 0.044690795
+  - 0.03020517
+  - 0.01444693

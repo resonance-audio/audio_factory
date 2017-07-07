@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 42fc3965b9f99264082a64056abdb46d
+timeCreated: 1485899706
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: big_rings
+    100002: brackets_2
+    100004: CINEMA_4D_Editor
+    100006: Cube
+    100008: Cube_2
+    100010: Cube_2_2
+    100012: Cube_2_3
+    100014: Cylinder
+    100016: Cylinder_1
+    100018: Cylinder_1_2
+    100020: Cylinder_2
+    100022: Cylinder_3
+    100024: Cylinder_4
+    100026: gasket_wheel_1
+    100028: gauge
+    100030: gauge_2
+    100032: //RootNode
+    100034: pipes
+    100036: screws_2
+    100038: shaft_booles_1
+    100040: wall_tracks_1
+    400000: big_rings
+    400002: brackets_2
+    400004: CINEMA_4D_Editor
+    400006: Cube
+    400008: Cube_2
+    400010: Cube_2_2
+    400012: Cube_2_3
+    400014: Cylinder
+    400016: Cylinder_1
+    400018: Cylinder_1_2
+    400020: Cylinder_2
+    400022: Cylinder_3
+    400024: Cylinder_4
+    400026: gasket_wheel_1
+    400028: gauge
+    400030: gauge_2
+    400032: //RootNode
+    400034: pipes
+    400036: screws_2
+    400038: shaft_booles_1
+    400040: wall_tracks_1
+    2300000: big_rings
+    2300002: brackets_2
+    2300004: Cube
+    2300006: Cube_2
+    2300008: Cube_2_2
+    2300010: Cube_2_3
+    2300012: Cylinder
+    2300014: Cylinder_1
+    2300016: Cylinder_1_2
+    2300018: Cylinder_2
+    2300020: Cylinder_3
+    2300022: Cylinder_4
+    2300024: gasket_wheel_1
+    2300026: gauge
+    2300028: gauge_2
+    2300030: pipes
+    2300032: screws_2
+    2300034: shaft_booles_1
+    2300036: wall_tracks_1
+    3300000: big_rings
+    3300002: brackets_2
+    3300004: Cube
+    3300006: Cube_2
+    3300008: Cube_2_2
+    3300010: Cube_2_3
+    3300012: Cylinder
+    3300014: Cylinder_1
+    3300016: Cylinder_1_2
+    3300018: Cylinder_2
+    3300020: Cylinder_3
+    3300022: Cylinder_4
+    3300024: gasket_wheel_1
+    3300026: gauge
+    3300028: gauge_2
+    3300030: pipes
+    3300032: screws_2
+    3300034: shaft_booles_1
+    3300036: wall_tracks_1
+    4300000: big_rings
+    4300002: screws_2
+    4300004: wall_tracks_1
+    4300006: brackets_2
+    4300008: shaft_booles_1
+    4300010: pipes
+    4300012: gauge
+    4300014: Cylinder_1
+    4300016: Cylinder
+    4300018: Cube_2
+    4300020: Cube
+    4300022: Cylinder_2
+    4300024: gauge_2
+    4300026: Cylinder_1_2
+    4300028: Cylinder_3
+    4300030: Cube_2_2
+    4300032: Cube_2_3
+    4300034: Cylinder_4
+    4300036: gasket_wheel_1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

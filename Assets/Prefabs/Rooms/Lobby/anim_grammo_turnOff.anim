@@ -1,0 +1,329 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: anim_grammo_turnOff
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -1.1427549e-15, y: -2.7524516e-17, z: -0.0002021983, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 1.4563686e-14, y: 2.1371058e-16, z: -0.12164292, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.0333333
+        value: {x: -1.1428711e-15, y: -2.2182347e-17, z: -0.0048767487, w: 0.9999881}
+        inSlope: {x: 1.02631906e-13, y: 2.3379124e-15, z: 0.30084077, w: 0}
+        outSlope: {x: 1.0259696e-13, y: 2.3253557e-15, z: 0.30260795, w: 0.0017881411}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.099999905
+        value: {x: -1.1404681e-15, y: -7.731985e-17, z: 0.043395728, w: 0.99905795}
+        inSlope: {x: 5.1065018e-14, y: 4.2578335e-15, z: 0.68714905, w: -0.030398399}
+        outSlope: {x: 5.1153512e-14, y: 4.2398387e-15, z: 0.6867294, w: -0.029951336}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.36666656
+        value: {x: -1.1219126e-15, y: -2.1899415e-16, z: 0.16769356, w: 0.9858392}
+        inSlope: {x: 1.2553029e-14, y: 2.4570243e-15, z: 0.00072643167, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: GRAMOPHONE/GRAMOPHONE_2
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 2070763629
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 0.36666656
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -1.1427549e-15
+        inSlope: 0
+        outSlope: 1.4563686e-14
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.0333333
+        value: -1.1428711e-15
+        inSlope: 1.02631906e-13
+        outSlope: 1.0259696e-13
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.099999905
+        value: -1.1404681e-15
+        inSlope: 5.1065018e-14
+        outSlope: 5.1153512e-14
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.36666656
+        value: -1.1219126e-15
+        inSlope: 1.2553029e-14
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: GRAMOPHONE/GRAMOPHONE_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -2.7524516e-17
+        inSlope: 0
+        outSlope: 2.1371058e-16
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.0333333
+        value: -2.2182347e-17
+        inSlope: 2.3379124e-15
+        outSlope: 2.3253557e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.099999905
+        value: -7.731985e-17
+        inSlope: 4.2578335e-15
+        outSlope: 4.2398387e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.36666656
+        value: -2.1899415e-16
+        inSlope: 2.4570243e-15
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: GRAMOPHONE/GRAMOPHONE_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.0002021983
+        inSlope: 0
+        outSlope: -0.12164292
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.0333333
+        value: -0.0048767487
+        inSlope: 0.30084077
+        outSlope: 0.30260795
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.099999905
+        value: 0.043395728
+        inSlope: 0.68714905
+        outSlope: 0.6867294
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.36666656
+        value: 0.16769356
+        inSlope: 0.00072643167
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: GRAMOPHONE/GRAMOPHONE_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.0333333
+        value: 0.9999881
+        inSlope: 0
+        outSlope: 0.0017881411
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.099999905
+        value: 0.99905795
+        inSlope: -0.030398399
+        outSlope: -0.029951336
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.36666656
+        value: 0.9858392
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: GRAMOPHONE/GRAMOPHONE_2
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -1.3095068e-13
+        inSlope: 1.6836515e-12
+        outSlope: 1.6836515e-12
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.0333333
+        value: -1.3097421e-13
+        inSlope: 1.178769e-11
+        outSlope: 1.178769e-11
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.099999905
+        value: -1.3018041e-13
+        inSlope: 5.858124e-12
+        outSlope: 5.858124e-12
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.36666656
+        value: -1.2253291e-13
+        inSlope: 1.3784954e-12
+        outSlope: 1.3784954e-12
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: GRAMOPHONE/GRAMOPHONE_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -3.1275989e-15
+        inSlope: 4.021198e-14
+        outSlope: 4.021198e-14
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.0333333
+        value: -1.9032038e-15
+        inSlope: 1.7128851e-13
+        outSlope: 1.7128851e-13
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.099999905
+        value: -1.4523156e-14
+        inSlope: 6.5354265e-13
+        outSlope: 6.5354265e-13
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.36666656
+        value: -4.6298482e-14
+        inSlope: 5.2085793e-13
+        outSlope: 5.2085793e-13
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: GRAMOPHONE/GRAMOPHONE_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.023170216
+        inSlope: -13.884269
+        outSlope: -13.884269
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.0333333
+        value: -0.5588364
+        inSlope: 34.575245
+        outSlope: 34.575245
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.099999905
+        value: 4.9743457
+        inSlope: 78.76537
+        outSlope: 78.76537
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.36666656
+        value: 19.307486
+        inSlope: -0.00023603441
+        outSlope: -0.00023603441
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: GRAMOPHONE/GRAMOPHONE_2
+    classID: 4
+    script: {fileID: 0}
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: animator_finale_greenroom_bamboo
+  m_Controller: {fileID: 9100000, guid: 2be05be583bfe48f691e2f869a9b07ca, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 7500772f6287f4e89b68b44214fe2c43, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1240d88b3f3024ac3ad0ae32ce5f6bb5, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7304bb8f675954fb2a71ea1d8ce60d3e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7db65365737dd456c9ddbd408a8c637b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 27e1211a9bb974c06b2a2d35f5d4e9e5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 365806ef0c0a049dca6d491d60601faa, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3705ab3a0117c425fbbf5b134f1a8267, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a9d22d154679948f0834eec117062c80, type: 2}

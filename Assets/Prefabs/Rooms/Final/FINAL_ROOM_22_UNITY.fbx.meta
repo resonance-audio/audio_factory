@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 283f11bea528f49739eb0c04e3018943
+timeCreated: 1486670934
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ARCHES
+    100002: ARCHES_MeshPart0
+    100004: ARCHES_MeshPart1
+    100006: CEILING
+    100008: CINEMA_4D_Editor
+    100010: DOOR_1
+    100012: DOOR_2
+    100014: DOOR_3
+    100016: DOORS
+    100018: //RootNode
+    100020: ROOM
+    100022: CABLES
+    100024: LIGHTS
+    100026: Q1_LIGHT
+    100028: Q2_CAPS
+    100030: Q2_CAPS_2
+    100032: Q2_LIGHT
+    100034: QUAD_1
+    100036: QUAD_2
+    100038: ROOM_MeshPart0
+    100040: ROOM_MeshPart1
+    100042: Sweep
+    400000: ARCHES
+    400002: ARCHES_MeshPart0
+    400004: ARCHES_MeshPart1
+    400006: CEILING
+    400008: CINEMA_4D_Editor
+    400010: DOOR_1
+    400012: DOOR_2
+    400014: DOOR_3
+    400016: DOORS
+    400018: //RootNode
+    400020: ROOM
+    400022: CABLES
+    400024: LIGHTS
+    400026: Q1_LIGHT
+    400028: Q2_CAPS
+    400030: Q2_CAPS_2
+    400032: Q2_LIGHT
+    400034: QUAD_1
+    400036: QUAD_2
+    400038: ROOM_MeshPart0
+    400040: ROOM_MeshPart1
+    400042: Sweep
+    2300000: ARCHES_MeshPart0
+    2300002: ARCHES_MeshPart1
+    2300004: CEILING
+    2300006: DOOR_1
+    2300008: DOOR_2
+    2300010: DOOR_3
+    2300012: ROOM
+    2300014: Q1_LIGHT
+    2300016: Q2_CAPS
+    2300018: Q2_CAPS_2
+    2300020: Q2_LIGHT
+    2300022: ROOM_MeshPart0
+    2300024: ROOM_MeshPart1
+    2300026: Sweep
+    3300000: ARCHES_MeshPart0
+    3300002: ARCHES_MeshPart1
+    3300004: CEILING
+    3300006: DOOR_1
+    3300008: DOOR_2
+    3300010: DOOR_3
+    3300012: ROOM
+    3300014: Q1_LIGHT
+    3300016: Q2_CAPS
+    3300018: Q2_CAPS_2
+    3300020: Q2_LIGHT
+    3300022: ROOM_MeshPart0
+    3300024: ROOM_MeshPart1
+    3300026: Sweep
+    4300000: CEILING
+    4300002: DOOR_3
+    4300004: DOOR_2
+    4300006: DOOR_1
+    4300008: ARCHES_MeshPart0
+    4300010: ARCHES_MeshPart1
+    4300012: ROOM
+    4300014: Sweep
+    4300016: Q1_LIGHT
+    4300018: Q2_CAPS
+    4300020: Q2_LIGHT
+    4300022: Q2_CAPS_2
+    4300024: ROOM_MeshPart0
+    4300026: ROOM_MeshPart1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,480 @@
+fileFormatVersion: 2
+guid: be9e1fdfa23885c4aae65ec1914896a0
+timeCreated: 1484688337
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 1to800
+    100002: arrow
+    100004: bar
+    100006: base_1
+    100008: belts
+    100010: belts_2
+    100012: Boole
+    100014: bottom_brace
+    100016: bottom_walls
+    100018: button
+    100020: CINEMA_4D_Editor
+    100022: cool_crank
+    100024: crank_1
+    100026: crank_1_2
+    100028: crank_center_null
+    100030: Cube
+    100032: Cube_2
+    100034: Cylinder
+    100036: Cylinder_1
+    100038: Cylinder_1_2
+    100040: Cylinder_1_3
+    100042: Cylinder_2
+    100044: Extrude
+    100046: Extrude_1
+    100048: Extrude_2
+    100050: Extrude_3
+    100052: gear_lever
+    100054: Group_walls_small_6
+    100056: handle
+    100058: handle_2
+    100060: handle_3
+    100062: handle_bar
+    100064: MED_02_Instance
+    100066: Null
+    100068: Null_1
+    100070: Null_1_2
+    100072: Null_2
+    100074: Null_3
+    100076: posts_1
+    100078: power_box_1_1
+    100080: pressure_gauge
+    100082: slider
+    100084: SMALL_01
+    100086: steam_barrel
+    100088: steam_engine
+    100090: steam_engine_center_null
+    100092: //RootNode
+    100094: Sweep
+    100096: top_brace
+    100098: top_walls
+    100100: walls_center_null
+    100102: Cylinder_10
+    100104: Cylinder_11
+    100106: Cylinder_3
+    100108: Cylinder_8
+    100110: Cylinder_8_2
+    100112: Cylinder_9
+    100114: Cylinder_9_2
+    100116: new_pipe
+    100118: Sweep_2
+    100120: Sweep_3
+    100122: starter_gear
+    100124: highlight
+    100126: pressure_gauge_face
+    400000: 1to800
+    400002: arrow
+    400004: bar
+    400006: base_1
+    400008: belts
+    400010: belts_2
+    400012: Boole
+    400014: bottom_brace
+    400016: bottom_walls
+    400018: button
+    400020: CINEMA_4D_Editor
+    400022: cool_crank
+    400024: crank_1
+    400026: crank_1_2
+    400028: crank_center_null
+    400030: Cube
+    400032: Cube_2
+    400034: Cylinder
+    400036: Cylinder_1
+    400038: Cylinder_1_2
+    400040: Cylinder_1_3
+    400042: Cylinder_2
+    400044: Extrude
+    400046: Extrude_1
+    400048: Extrude_2
+    400050: Extrude_3
+    400052: gear_lever
+    400054: Group_walls_small_6
+    400056: handle
+    400058: handle_2
+    400060: handle_3
+    400062: handle_bar
+    400064: MED_02_Instance
+    400066: Null
+    400068: Null_1
+    400070: Null_1_2
+    400072: Null_2
+    400074: Null_3
+    400076: posts_1
+    400078: power_box_1_1
+    400080: pressure_gauge
+    400082: slider
+    400084: SMALL_01
+    400086: steam_barrel
+    400088: steam_engine
+    400090: steam_engine_center_null
+    400092: //RootNode
+    400094: Sweep
+    400096: top_brace
+    400098: top_walls
+    400100: walls_center_null
+    400102: Cylinder_10
+    400104: Cylinder_11
+    400106: Cylinder_3
+    400108: Cylinder_8
+    400110: Cylinder_8_2
+    400112: Cylinder_9
+    400114: Cylinder_9_2
+    400116: new_pipe
+    400118: Sweep_2
+    400120: Sweep_3
+    400122: starter_gear
+    400124: highlight
+    400126: pressure_gauge_face
+    2300000: arrow
+    2300002: bar
+    2300004: base_1
+    2300006: belts
+    2300008: belts_2
+    2300010: Boole
+    2300012: bottom_brace
+    2300014: bottom_walls
+    2300016: button
+    2300018: cool_crank
+    2300020: Cube
+    2300022: Cube_2
+    2300024: Cylinder
+    2300026: Cylinder_1
+    2300028: Cylinder_1_2
+    2300030: Cylinder_1_3
+    2300032: Cylinder_2
+    2300034: Extrude
+    2300036: Extrude_1
+    2300038: Extrude_2
+    2300040: Extrude_3
+    2300042: handle
+    2300044: handle_3
+    2300046: handle_bar
+    2300048: MED_02_Instance
+    2300050: posts_1
+    2300052: pressure_gauge
+    2300054: slider
+    2300056: steam_barrel
+    2300058: Sweep
+    2300060: top_brace
+    2300062: top_walls
+    2300064: Cylinder_10
+    2300066: Cylinder_11
+    2300068: Cylinder_3
+    2300070: Cylinder_8
+    2300072: Cylinder_8_2
+    2300074: Cylinder_9
+    2300076: Cylinder_9_2
+    2300078: Sweep_2
+    2300080: Sweep_3
+    2300082: highlight
+    2300084: pressure_gauge_face
+    3300000: arrow
+    3300002: bar
+    3300004: base_1
+    3300006: belts
+    3300008: belts_2
+    3300010: Boole
+    3300012: bottom_brace
+    3300014: bottom_walls
+    3300016: button
+    3300018: cool_crank
+    3300020: Cube
+    3300022: Cube_2
+    3300024: Cylinder
+    3300026: Cylinder_1
+    3300028: Cylinder_1_2
+    3300030: Cylinder_1_3
+    3300032: Cylinder_2
+    3300034: Extrude
+    3300036: Extrude_1
+    3300038: Extrude_2
+    3300040: Extrude_3
+    3300042: handle
+    3300044: handle_3
+    3300046: handle_bar
+    3300048: MED_02_Instance
+    3300050: posts_1
+    3300052: pressure_gauge
+    3300054: slider
+    3300056: steam_barrel
+    3300058: Sweep
+    3300060: top_brace
+    3300062: top_walls
+    3300064: Cylinder_10
+    3300066: Cylinder_11
+    3300068: Cylinder_3
+    3300070: Cylinder_8
+    3300072: Cylinder_8_2
+    3300074: Cylinder_9
+    3300076: Cylinder_9_2
+    3300078: Sweep_2
+    3300080: Sweep_3
+    3300082: highlight
+    3300084: pressure_gauge_face
+    4300000: bottom_walls
+    4300002: bottom_brace
+    4300004: top_walls
+    4300006: top_brace
+    4300008: base_1
+    4300010: cool_crank
+    4300012: Cylinder
+    4300014: handle
+    4300016: handle_bar
+    4300018: button
+    4300020: Cylinder_1
+    4300022: bar
+    4300024: handle_3
+    4300026: Boole
+    4300028: pressure_gauge
+    4300030: Cylinder_1_2
+    4300032: Sweep
+    4300034: arrow
+    4300036: Cube_2
+    4300038: Cube
+    4300040: Cylinder_2
+    4300042: steam_barrel
+    4300044: slider
+    4300046: Extrude
+    4300048: Extrude_2
+    4300050: MED_02_Instance
+    4300052: Cylinder_1_3
+    4300054: posts_1
+    4300056: belts
+    4300058: belts_2
+    4300060: Extrude_1
+    4300062: Extrude_3
+    4300064: Cylinder_10
+    4300066: Cylinder_11
+    4300068: Cylinder_9
+    4300070: Cylinder_8
+    4300072: Cylinder_9_2
+    4300074: Cylinder_8_2
+    4300076: Sweep_2
+    4300078: Sweep_3
+    4300080: Cylinder_3
+    4300082: pressure_gauge_face
+    4300084: highlight
+    7400000: CINEMA_4D_Main
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: CINEMA_4D_Main
+      takeName: CINEMA_4D_Main
+      firstFrame: 1
+      lastFrame: 800
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 1to800
+        weight: 1
+      - path: 1to800/crank_center_null
+        weight: 1
+      - path: 1to800/crank_center_null/crank_1
+        weight: 1
+      - path: 1to800/crank_center_null/crank_1/base_1
+        weight: 1
+      - path: 1to800/crank_center_null/crank_1/cool_crank
+        weight: 1
+      - path: 1to800/crank_center_null/crank_1/cool_crank/Cylinder
+        weight: 1
+      - path: 1to800/crank_center_null/crank_1/cool_crank/Null
+        weight: 1
+      - path: 1to800/crank_center_null/crank_1/cool_crank/Null/handle
+        weight: 1
+      - path: 1to800/crank_center_null/crank_1/cool_crank/Null/handle_bar
+        weight: 1
+      - path: 1to800/Group_walls_small_6
+        weight: 1
+      - path: 1to800/Group_walls_small_6/bottom_walls
+        weight: 1
+      - path: 1to800/Group_walls_small_6/bottom_walls/bottom_brace
+        weight: 1
+      - path: 1to800/Group_walls_small_6/top_walls
+        weight: 1
+      - path: 1to800/Group_walls_small_6/top_walls/top_brace
+        weight: 1
+      - path: 1to800/steam_engine_center_null
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/Cylinder_1_2
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/Cylinder_1_2/Cube
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/Cylinder_1_2/Cube/Cylinder_3
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/Cylinder_1_2/Cylinder_2
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/Cylinder_1_2/Cylinder_2/arrow
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/Cylinder_1_2/Cylinder_2/Sweep_3
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/gear_lever
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/gear_lever/crank_1_2
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/gear_lever/crank_1_2/Boole
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/gear_lever/crank_1_2/button
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/gear_lever/crank_1_2/button/Cylinder_1
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/gear_lever/crank_1_2/handle_2
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/gear_lever/crank_1_2/handle_2/bar
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/gear_lever/crank_1_2/handle_2/bar/handle_3
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/new_pipe
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/new_pipe/Cylinder_8_2
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/new_pipe/Cylinder_9_2
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/new_pipe/Cylinder_10
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/new_pipe/Cylinder_11
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/new_pipe/Cylinder_11/Cylinder_9
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/new_pipe/Cylinder_11/Cylinder_9/Cylinder_8
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/new_pipe/Cylinder_11/Sweep
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/new_pipe/Sweep_2
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/power_box_1_1
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/power_box_1_1/Null_1
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/power_box_1_1/Null_1/Cylinder_1_3
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/power_box_1_1/Null_1/Extrude_2
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/power_box_1_1/Null_1/MED_02_Instance
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/power_box_1_1/Null_2
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/power_box_1_1/Null_2/belts
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/power_box_1_1/Null_2/belts_2
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/power_box_1_1/Null_2/Null_1_2
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/power_box_1_1/Null_2/Null_1_2/Extrude_3
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/power_box_1_1/Null_2/Null_3
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/power_box_1_1/Null_2/Null_3/Extrude_1
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/power_box_1_1/Null_2/posts_1
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/power_box_1_1/slider
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/power_box_1_1/starter_gear
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/power_box_1_1/starter_gear/Extrude
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/power_box_1_1/starter_gear/highlight
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/pressure_gauge
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/pressure_gauge_face
+        weight: 1
+      - path: 1to800/steam_engine_center_null/steam_engine/steam_barrel
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 77570d7d16b8d4446b215b4be79b363e
+timeCreated: 1484335196
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BAMBOO_01
+    100002: BAMBOO___293
+    100004: //RootNode
+    100006: CINEMA_4D_Editor
+    100008: LAIFS_01
+    100010: LAIFS_ONE_294
+    100012: LAIFS_ONE_295
+    100014: LAIFS_ONE_296
+    100016: LAIFS_ONE_297
+    100018: LAIFS_ONE_298
+    100020: BambooLeaves01
+    100022: BambooLeaves02
+    100024: BambooLeaves03
+    100026: BambooLeaves04
+    100028: BambooLeaves05
+    100030: BambooStem01
+    100032: BambooStem02
+    100034: BambooStem03
+    100036: BambooStem04
+    100038: BambooStem05
+    100040: Stalk
+    400000: BAMBOO_01
+    400002: BAMBOO___293
+    400004: //RootNode
+    400006: CINEMA_4D_Editor
+    400008: LAIFS_01
+    400010: LAIFS_ONE_294
+    400012: LAIFS_ONE_295
+    400014: LAIFS_ONE_296
+    400016: LAIFS_ONE_297
+    400018: LAIFS_ONE_298
+    400020: BambooLeaves01
+    400022: BambooLeaves02
+    400024: BambooLeaves03
+    400026: BambooLeaves04
+    400028: BambooLeaves05
+    400030: BambooStem01
+    400032: BambooStem02
+    400034: BambooStem03
+    400036: BambooStem04
+    400038: BambooStem05
+    400040: Stalk
+    2300000: BAMBOO___293
+    2300002: LAIFS_ONE_294
+    2300004: LAIFS_ONE_295
+    2300006: LAIFS_ONE_296
+    2300008: LAIFS_ONE_297
+    2300010: LAIFS_ONE_298
+    2300012: BambooLeaves01
+    2300014: BambooLeaves02
+    2300016: BambooLeaves03
+    2300018: BambooLeaves04
+    2300020: BambooLeaves05
+    2300022: BambooStem01
+    2300024: BambooStem02
+    2300026: BambooStem03
+    2300028: BambooStem04
+    2300030: BambooStem05
+    2300032: Stalk
+    2300034: //RootNode
+    3300000: BAMBOO___293
+    3300002: LAIFS_ONE_294
+    3300004: LAIFS_ONE_295
+    3300006: LAIFS_ONE_296
+    3300008: LAIFS_ONE_297
+    3300010: LAIFS_ONE_298
+    3300012: BambooLeaves01
+    3300014: BambooLeaves02
+    3300016: BambooLeaves03
+    3300018: BambooLeaves04
+    3300020: BambooLeaves05
+    3300022: BambooStem01
+    3300024: BambooStem02
+    3300026: BambooStem03
+    3300028: BambooStem04
+    3300030: BambooStem05
+    3300032: Stalk
+    3300034: //RootNode
+    4300000: BAMBOO___293
+    4300002: LAIFS_ONE_298
+    4300004: LAIFS_ONE_297
+    4300006: LAIFS_ONE_296
+    4300008: LAIFS_ONE_295
+    4300010: LAIFS_ONE_294
+    4300012: Stalk
+    4300014: BambooStem01
+    4300016: BambooLeaves01
+    4300018: BambooStem02
+    4300020: BambooLeaves02
+    4300022: BambooStem03
+    4300024: BambooLeaves04
+    4300026: BambooStem05
+    4300028: BambooLeaves03
+    4300030: BambooStem04
+    4300032: BambooLeaves05
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

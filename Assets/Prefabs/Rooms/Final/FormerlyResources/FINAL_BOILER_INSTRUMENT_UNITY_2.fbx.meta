@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: 8eaf482321d934de8ab2b8532f7da55a
+timeCreated: 1487373871
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BIG_COG
+    100002: BODY
+    100004: BOILER_INSTRUMENT
+    100006: CINEMA_4D_Editor
+    100008: Cylinder_1
+    100010: CYMBAL
+    100012: Extrude_1
+    100014: Extrude_1_2
+    100016: //RootNode
+    100018: gears
+    100020: POUNDER
+    100022: SMALL_COG
+    100024: SPOKES
+    100026: STEAM_CAP_1
+    100028: STEAM_CAP_2
+    100030: DRUM_FRAME
+    100032: DRUMPAD
+    100034: KICK
+    100036: PAD_0
+    100038: PAD_1
+    100040: PAD_2
+    100042: PAD_3
+    100044: SNARE
+    100046: HIHAT
+    100048: PAD_0_1
+    100050: PAD_1_1
+    100052: PAD_2_1
+    100054: PAD_3_1
+    400000: BIG_COG
+    400002: BODY
+    400004: BOILER_INSTRUMENT
+    400006: CINEMA_4D_Editor
+    400008: Cylinder_1
+    400010: CYMBAL
+    400012: Extrude_1
+    400014: Extrude_1_2
+    400016: //RootNode
+    400018: gears
+    400020: POUNDER
+    400022: SMALL_COG
+    400024: SPOKES
+    400026: STEAM_CAP_1
+    400028: STEAM_CAP_2
+    400030: DRUM_FRAME
+    400032: DRUMPAD
+    400034: KICK
+    400036: PAD_0
+    400038: PAD_1
+    400040: PAD_2
+    400042: PAD_3
+    400044: SNARE
+    400046: HIHAT
+    400048: PAD_0_1
+    400050: PAD_1_1
+    400052: PAD_2_1
+    400054: PAD_3_1
+    2300000: BODY
+    2300002: Cylinder_1
+    2300004: CYMBAL
+    2300006: Extrude_1
+    2300008: Extrude_1_2
+    2300010: POUNDER
+    2300012: STEAM_CAP_1
+    2300014: STEAM_CAP_2
+    2300016: DRUM_FRAME
+    2300018: KICK
+    2300020: PAD_0
+    2300022: PAD_1
+    2300024: PAD_2
+    2300026: PAD_3
+    2300028: SNARE
+    2300030: HIHAT
+    2300032: PAD_0_1
+    2300034: PAD_1_1
+    2300036: PAD_2_1
+    2300038: PAD_3_1
+    3300000: BODY
+    3300002: Cylinder_1
+    3300004: CYMBAL
+    3300006: Extrude_1
+    3300008: Extrude_1_2
+    3300010: POUNDER
+    3300012: STEAM_CAP_1
+    3300014: STEAM_CAP_2
+    3300016: DRUM_FRAME
+    3300018: KICK
+    3300020: PAD_0
+    3300022: PAD_1
+    3300024: PAD_2
+    3300026: PAD_3
+    3300028: SNARE
+    3300030: HIHAT
+    3300032: PAD_0_1
+    3300034: PAD_1_1
+    3300036: PAD_2_1
+    3300038: PAD_3_1
+    4300000: Cylinder_1
+    4300002: Extrude_1
+    4300004: Extrude_1_2
+    4300006: POUNDER
+    4300008: CYMBAL
+    4300010: STEAM_CAP_1
+    4300012: STEAM_CAP_2
+    4300014: BODY
+    4300016: PAD_0
+    4300018: PAD_1
+    4300020: PAD_2
+    4300022: PAD_3
+    4300024: DRUM_FRAME
+    4300026: KICK
+    4300028: SNARE
+    4300030: HIHAT
+    4300032: PAD_0_1
+    4300034: PAD_1_1
+    4300036: PAD_2_1
+    4300038: PAD_3_1
+    7400000: Main
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Main
+      takeName: Main
+      firstFrame: 0
+      lastFrame: 360
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BOILER_INSTRUMENT
+        weight: 1
+      - path: BOILER_INSTRUMENT/BODY
+        weight: 1
+      - path: BOILER_INSTRUMENT/gears
+        weight: 1
+      - path: BOILER_INSTRUMENT/gears/BIG_COG
+        weight: 1
+      - path: BOILER_INSTRUMENT/gears/BIG_COG/Extrude_1
+        weight: 1
+      - path: BOILER_INSTRUMENT/gears/SMALL_COG
+        weight: 1
+      - path: BOILER_INSTRUMENT/gears/SMALL_COG/Cylinder_1
+        weight: 1
+      - path: BOILER_INSTRUMENT/gears/SPOKES
+        weight: 1
+      - path: BOILER_INSTRUMENT/gears/SPOKES/Extrude_1_2
+        weight: 1
+      - path: BOILER_INSTRUMENT/HIHAT
+        weight: 1
+      - path: BOILER_INSTRUMENT/KICK
+        weight: 1
+      - path: BOILER_INSTRUMENT/SNARE
+        weight: 1
+      - path: BOILER_INSTRUMENT/STEAM_CAP_1
+        weight: 1
+      - path: BOILER_INSTRUMENT/STEAM_CAP_2
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: DRUMPAD
+        weight: 1
+      - path: DRUMPAD/DRUM_FRAME
+        weight: 1
+      - path: DRUMPAD/PAD_0
+        weight: 1
+      - path: DRUMPAD/PAD_1
+        weight: 1
+      - path: DRUMPAD/PAD_2
+        weight: 1
+      - path: DRUMPAD/PAD_3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

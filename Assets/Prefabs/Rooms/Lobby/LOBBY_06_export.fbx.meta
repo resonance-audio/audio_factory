@@ -1,0 +1,408 @@
+fileFormatVersion: 2
+guid: 15f3d6ec65b6ace4fad12dd34a1d13e9
+timeCreated: 1484854214
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BUCKET
+    100002: CINEMA_4D_Editor
+    100004: city_1
+    100006: Cloner
+    100008: Cloner_2
+    100010: Cloner_3
+    100012: Cloner_4
+    100014: Cloner_5
+    100016: Cloner_6
+    100018: Cloner_7
+    100020: Cloner_8
+    100022: CURTAIN_big_left
+    100024: CURTAIN_big_left_2
+    100026: CURTAIN_big_left_3
+    100028: CURTAIN_big_right
+    100030: CURTAIN_big_right_2
+    100032: CURTAIN_big_right_3
+    100034: CURTAIN_doors_left
+    100036: CURTAIN_doors_right
+    100038: curtain_rod
+    100040: curtain_rod_2
+    100042: curtain_rod_3
+    100044: curtain_rod_4
+    100046: curtain_rod_5
+    100048: curtain_rod_6
+    100050: curtain_rod_7
+    100052: curtain_rod_8
+    100054: curtains_big_center
+    100056: curtains_big_left
+    100058: curtains_big_right
+    100060: curtains_doors
+    100062: DESK_02_1
+    100064: FAUCET
+    100066: FLOOR_1
+    100068: FURNITURE_1
+    100070: LIGHTS_1
+    100072: //RootNode
+    100074: Null_0_1
+    100076: Null_0_1_2
+    100078: Null_0_1_3
+    100080: Null_0_1_4
+    100082: Null_0_1_5
+    100084: Null_0_1_6
+    100086: Null_0_1_7
+    100088: Null_0_1_8
+    100090: old_walls
+    100092: PAPER_DIVIDER_1
+    100094: RHODES_1
+    100096: ROCK_GARDEN_1
+    100098: room_with_windows
+    100100: TATAMI_1
+    100102: TATAMI_2
+    100104: WATER_SCULPTURE
+    100106: Cube
+    400000: BUCKET
+    400002: CINEMA_4D_Editor
+    400004: city_1
+    400006: Cloner
+    400008: Cloner_2
+    400010: Cloner_3
+    400012: Cloner_4
+    400014: Cloner_5
+    400016: Cloner_6
+    400018: Cloner_7
+    400020: Cloner_8
+    400022: CURTAIN_big_left
+    400024: CURTAIN_big_left_2
+    400026: CURTAIN_big_left_3
+    400028: CURTAIN_big_right
+    400030: CURTAIN_big_right_2
+    400032: CURTAIN_big_right_3
+    400034: CURTAIN_doors_left
+    400036: CURTAIN_doors_right
+    400038: curtain_rod
+    400040: curtain_rod_2
+    400042: curtain_rod_3
+    400044: curtain_rod_4
+    400046: curtain_rod_5
+    400048: curtain_rod_6
+    400050: curtain_rod_7
+    400052: curtain_rod_8
+    400054: curtains_big_center
+    400056: curtains_big_left
+    400058: curtains_big_right
+    400060: curtains_doors
+    400062: DESK_02_1
+    400064: FAUCET
+    400066: FLOOR_1
+    400068: FURNITURE_1
+    400070: LIGHTS_1
+    400072: //RootNode
+    400074: Null_0_1
+    400076: Null_0_1_2
+    400078: Null_0_1_3
+    400080: Null_0_1_4
+    400082: Null_0_1_5
+    400084: Null_0_1_6
+    400086: Null_0_1_7
+    400088: Null_0_1_8
+    400090: old_walls
+    400092: PAPER_DIVIDER_1
+    400094: RHODES_1
+    400096: ROCK_GARDEN_1
+    400098: room_with_windows
+    400100: TATAMI_1
+    400102: TATAMI_2
+    400104: WATER_SCULPTURE
+    400106: Cube
+    2300000: BUCKET
+    2300002: city_1
+    2300004: curtain_rod
+    2300006: curtain_rod_2
+    2300008: curtain_rod_3
+    2300010: curtain_rod_4
+    2300012: curtain_rod_5
+    2300014: curtain_rod_6
+    2300016: curtain_rod_7
+    2300018: curtain_rod_8
+    2300020: DESK_02_1
+    2300022: FAUCET
+    2300024: FLOOR_1
+    2300026: FURNITURE_1
+    2300028: LIGHTS_1
+    2300030: Null_0_1
+    2300032: Null_0_1_2
+    2300034: Null_0_1_3
+    2300036: Null_0_1_4
+    2300038: Null_0_1_5
+    2300040: Null_0_1_6
+    2300042: Null_0_1_7
+    2300044: Null_0_1_8
+    2300046: old_walls
+    2300048: PAPER_DIVIDER_1
+    2300050: RHODES_1
+    2300052: ROCK_GARDEN_1
+    2300054: room_with_windows
+    2300056: TATAMI_1
+    2300058: TATAMI_2
+    2300060: Cube
+    3300000: BUCKET
+    3300002: city_1
+    3300004: curtain_rod
+    3300006: curtain_rod_2
+    3300008: curtain_rod_3
+    3300010: curtain_rod_4
+    3300012: curtain_rod_5
+    3300014: curtain_rod_6
+    3300016: curtain_rod_7
+    3300018: curtain_rod_8
+    3300020: DESK_02_1
+    3300022: FAUCET
+    3300024: FLOOR_1
+    3300026: FURNITURE_1
+    3300028: LIGHTS_1
+    3300030: Null_0_1
+    3300032: Null_0_1_2
+    3300034: Null_0_1_3
+    3300036: Null_0_1_4
+    3300038: Null_0_1_5
+    3300040: Null_0_1_6
+    3300042: Null_0_1_7
+    3300044: Null_0_1_8
+    3300046: old_walls
+    3300048: PAPER_DIVIDER_1
+    3300050: RHODES_1
+    3300052: ROCK_GARDEN_1
+    3300054: room_with_windows
+    3300056: TATAMI_1
+    3300058: TATAMI_2
+    3300060: Cube
+    4300000: curtain_rod
+    4300002: Null_0_1
+    4300004: curtain_rod_2
+    4300006: Null_0_1_2
+    4300008: curtain_rod_3
+    4300010: Null_0_1_3
+    4300012: curtain_rod_4
+    4300014: Null_0_1_4
+    4300016: curtain_rod_5
+    4300018: Null_0_1_5
+    4300020: curtain_rod_6
+    4300022: Null_0_1_6
+    4300024: curtain_rod_7
+    4300026: Null_0_1_7
+    4300028: curtain_rod_8
+    4300030: Null_0_1_8
+    4300032: city_1
+    4300034: room_with_windows
+    4300036: FLOOR_1
+    4300038: TATAMI_1
+    4300040: PAPER_DIVIDER_1
+    4300042: RHODES_1
+    4300044: ROCK_GARDEN_1
+    4300046: DESK_02_1
+    4300048: FURNITURE_1
+    4300050: BUCKET
+    4300052: FAUCET
+    4300054: LIGHTS_1
+    4300056: old_walls
+    4300058: TATAMI_2
+    4300060: Cube
+    7400000: Main
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Main
+      takeName: Main
+      firstFrame: 0
+      lastFrame: 299
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: city_1
+        weight: 1
+      - path: curtains_big_center
+        weight: 1
+      - path: curtains_big_center/CURTAIN_big_left_2
+        weight: 1
+      - path: curtains_big_center/CURTAIN_big_left_2/Cloner_5
+        weight: 1
+      - path: curtains_big_center/CURTAIN_big_left_2/Cloner_5/Null_0_1_5
+        weight: 1
+      - path: curtains_big_center/CURTAIN_big_left_2/curtain_rod_5
+        weight: 1
+      - path: curtains_big_center/CURTAIN_big_right_2
+        weight: 1
+      - path: curtains_big_center/CURTAIN_big_right_2/Cloner_6
+        weight: 1
+      - path: curtains_big_center/CURTAIN_big_right_2/Cloner_6/Null_0_1_6
+        weight: 1
+      - path: curtains_big_center/CURTAIN_big_right_2/curtain_rod_6
+        weight: 1
+      - path: curtains_big_left
+        weight: 1
+      - path: curtains_big_left/CURTAIN_big_left_3
+        weight: 1
+      - path: curtains_big_left/CURTAIN_big_left_3/Cloner_7
+        weight: 1
+      - path: curtains_big_left/CURTAIN_big_left_3/Cloner_7/Null_0_1_7
+        weight: 1
+      - path: curtains_big_left/CURTAIN_big_left_3/curtain_rod_7
+        weight: 1
+      - path: curtains_big_left/CURTAIN_big_right_3
+        weight: 1
+      - path: curtains_big_left/CURTAIN_big_right_3/Cloner_8
+        weight: 1
+      - path: curtains_big_left/CURTAIN_big_right_3/Cloner_8/Null_0_1_8
+        weight: 1
+      - path: curtains_big_left/CURTAIN_big_right_3/curtain_rod_8
+        weight: 1
+      - path: curtains_big_right
+        weight: 1
+      - path: curtains_big_right/CURTAIN_big_left
+        weight: 1
+      - path: curtains_big_right/CURTAIN_big_left/Cloner_3
+        weight: 1
+      - path: curtains_big_right/CURTAIN_big_left/Cloner_3/Null_0_1_3
+        weight: 1
+      - path: curtains_big_right/CURTAIN_big_left/curtain_rod_3
+        weight: 1
+      - path: curtains_big_right/CURTAIN_big_right
+        weight: 1
+      - path: curtains_big_right/CURTAIN_big_right/Cloner_4
+        weight: 1
+      - path: curtains_big_right/CURTAIN_big_right/Cloner_4/Null_0_1_4
+        weight: 1
+      - path: curtains_big_right/CURTAIN_big_right/curtain_rod_4
+        weight: 1
+      - path: curtains_doors
+        weight: 1
+      - path: curtains_doors/CURTAIN_doors_left
+        weight: 1
+      - path: curtains_doors/CURTAIN_doors_left/Cloner_2
+        weight: 1
+      - path: curtains_doors/CURTAIN_doors_left/Cloner_2/Null_0_1_2
+        weight: 1
+      - path: curtains_doors/CURTAIN_doors_left/curtain_rod_2
+        weight: 1
+      - path: curtains_doors/CURTAIN_doors_right
+        weight: 1
+      - path: curtains_doors/CURTAIN_doors_right/Cloner
+        weight: 1
+      - path: curtains_doors/CURTAIN_doors_right/Cloner/Null_0_1
+        weight: 1
+      - path: curtains_doors/CURTAIN_doors_right/curtain_rod
+        weight: 1
+      - path: DESK_02_1
+        weight: 1
+      - path: FLOOR_1
+        weight: 1
+      - path: FURNITURE_1
+        weight: 1
+      - path: LIGHTS_1
+        weight: 1
+      - path: old_walls
+        weight: 1
+      - path: PAPER_DIVIDER_1
+        weight: 1
+      - path: RHODES_1
+        weight: 1
+      - path: ROCK_GARDEN_1
+        weight: 1
+      - path: room_with_windows
+        weight: 1
+      - path: TATAMI_1
+        weight: 1
+      - path: TATAMI_2
+        weight: 1
+      - path: WATER_SCULPTURE
+        weight: 1
+      - path: WATER_SCULPTURE/BUCKET
+        weight: 1
+      - path: WATER_SCULPTURE/FAUCET
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

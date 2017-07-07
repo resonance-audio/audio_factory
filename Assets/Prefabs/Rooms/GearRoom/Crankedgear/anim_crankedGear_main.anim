@@ -1,0 +1,3207 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: anim_crankedGear_main
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -4.0034612e-17, y: 0.0780241, z: 4.8319236e-17, w: 0.99695146}
+        inSlope: {x: -1.1109266e-17, y: 0.26090896, z: 8.562708e-18, w: -0.021564959}
+        outSlope: {x: -1.1109266e-17, y: 0.26090896, z: 8.562708e-18, w: -0.021564959}
+        tangentMode: 0
+      - time: 1.6333334
+        value: {x: -5.409992e-17, y: 0.484428, z: 5.7619615e-17, w: 0.87483114}
+        inSlope: {x: -5.804332e-18, y: 0.22902735, z: 2.5961916e-18, w: -0.12682122}
+        outSlope: {x: -5.804332e-18, y: 0.22902735, z: 2.5961916e-18, w: -0.12682122}
+        tangentMode: 0
+      - time: 3.266667
+        value: {x: -8.5650006e-17, y: 0.8035973, z: 8.5650006e-17, w: 0.5951734}
+        inSlope: {x: 3.3411512e-18, y: 0.15581414, z: -3.3411512e-18, w: -0.21037927}
+        outSlope: {x: 3.3411512e-18, y: 0.15581414, z: -3.3411512e-18, w: -0.21037927}
+        tangentMode: 0
+      - time: 4.9333334
+        value: {x: -7.22317e-17, y: 0.97983766, z: 7.22317e-17, w: 0.19979553}
+        inSlope: {x: 1.25044116e-17, y: 0.052305445, z: -1.25044116e-17, w: -0.2565182}
+        outSlope: {x: 1.25044116e-17, y: 0.052305445, z: -1.25044116e-17, w: -0.2565182}
+        tangentMode: 0
+      - time: 6.566667
+        value: {x: -4.592071e-17, y: 0.9744681, z: 4.592071e-17, w: -0.22452599}
+        inSlope: {x: 1.9220403e-17, y: -0.058780666, z: -1.9220403e-17, w: -0.25511184}
+        outSlope: {x: 1.9220403e-17, y: -0.058780666, z: -1.9220403e-17, w: -0.25511184}
+        tangentMode: 0
+      - time: 8.2
+        value: {x: -1.1340457e-17, y: 0.7936189, z: 1.1340457e-17, w: -0.6084152}
+        inSlope: {x: 2.2475147e-17, y: -0.15928043, z: -2.2475147e-17, w: -0.2077668}
+        outSlope: {x: 2.2475147e-17, y: -0.15928043, z: -2.2475147e-17, w: -0.2077668}
+        tangentMode: 0
+      - time: 9.833333
+        value: {x: 1.0870653e-17, y: 0.46985668, z: -2.3065066e-17, w: -0.8827427}
+        inSlope: {x: 1.5039487e-17, y: -0.23109889, z: -1.4064972e-17, w: -0.12300713}
+        outSlope: {x: 1.5039487e-17, y: -0.23109889, z: -1.4064972e-17, w: -0.12300713}
+        tangentMode: 0
+      - time: 11.466667
+        value: {x: 3.3714883e-17, y: 0.06148368, z: -4.3267674e-17, w: -0.9981081}
+        inSlope: {x: 1.25050965e-17, y: -0.2613011, z: -1.0294487e-17, w: -0.016095934}
+        outSlope: {x: 1.25050965e-17, y: -0.2613011, z: -1.0294487e-17, w: -0.016095934}
+        tangentMode: 0
+      - time: 11.966667
+        value: {x: 3.966126e-17, y: -0.06932131, z: -4.803014e-17, w: -0.9975944}
+        inSlope: {x: 1.1291361e-17, y: -0.2612422, z: -8.782754e-18, w: 0.017006766}
+        outSlope: {x: 1.1291361e-17, y: -0.2612422, z: -8.782754e-18, w: 0.017006766}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: triple_gear/gear/weird_circle_gear_60/side_GEAR/Null/Tube
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -1.9760939e-23, y: -1.9027619e-24, z: 0.09584575, w: 0.9953962}
+        inSlope: {x: -4.755411e-25, y: 5.175509e-24, z: -0.2607002, w: 0.0239557}
+        outSlope: {x: -4.755411e-25, y: 5.175509e-24, z: -0.2607002, w: 0.0239557}
+        tangentMode: 0
+      - time: 1.6333334
+        value: {x: -1.8770751e-23, y: 6.4632885e-24, z: -0.3255682, w: 0.94551855}
+        inSlope: {x: 1.6920609e-24, y: 4.9141072e-24, z: -0.24753281, w: -0.08523264}
+        outSlope: {x: 1.6920609e-24, y: 4.9141072e-24, z: -0.24753281, w: -0.08523264}
+        tangentMode: 0
+      - time: 3.266667
+        value: {x: -1.4400373e-23, y: 1.3665447e-23, z: -0.6883546, w: 0.72537434}
+        inSlope: {x: 3.577543e-24, y: 3.7699935e-24, z: -0.18990058, w: -0.18020797}
+        outSlope: {x: 3.577543e-24, y: 3.7699935e-24, z: -0.18990058, w: -0.18020797}
+        tangentMode: 0
+      - time: 4.9333334
+        value: {x: -7.275905e-24, y: 1.847096e-23, z: -0.9304176, w: 0.3665012}
+        inSlope: {x: 4.835632e-24, y: 1.9048033e-24, z: -0.09594829, w: -0.24357972}
+        outSlope: {x: 4.835632e-24, y: 1.9048033e-24, z: -0.09594829, w: -0.24357972}
+        tangentMode: 0
+      - time: 6.566667
+        value: {x: 1.0389935e-24, y: 1.9825127e-23, z: -0.9986295, w: -0.05233609}
+        inSlope: {x: 5.1901455e-24, y: -2.7201526e-25, z: 0.013701631, w: -0.2614375}
+        outSlope: {x: 5.1901455e-24, y: -2.7201526e-25, z: 0.013701631, w: -0.2614375}
+        tangentMode: 0
+      - time: 8.2
+        value: {x: 9.1667885e-24, y: 1.7609237e-23, z: -0.8870109, w: -0.46174863}
+        inSlope: {x: 4.6100487e-24, y: -2.3998115e-24, z: 0.12088369, w: -0.23221694}
+        outSlope: {x: 4.6100487e-24, y: -2.3998115e-24, z: 0.12088369, w: -0.23221694}
+        tangentMode: 0
+      - time: 9.833333
+        value: {x: 1.5643853e-23, y: 1.22223174e-23, z: -0.6156615, w: -0.7880108}
+        inSlope: {x: 3.1997415e-24, y: -4.0955055e-24, z: 0.20629872, w: -0.16117768}
+        outSlope: {x: 3.1997415e-24, y: -4.0955055e-24, z: 0.20629872, w: -0.16117768}
+        tangentMode: 0
+      - time: 11.466667
+        value: {x: 1.9303814e-23, y: 4.6344304e-24, z: -0.23344511, w: -0.97236997}
+        inSlope: {x: 1.21327675e-24, y: -5.053671e-24, z: 0.25456288, w: -0.06111507}
+        outSlope: {x: 1.21327675e-24, y: -5.053671e-24, z: 0.25456288, w: -0.06111507}
+        tangentMode: 0
+      - time: 11.966667
+        value: {x: 1.974358e-23, y: 2.0751341e-24, z: -0.104528464, w: -0.9945219}
+        inSlope: {x: 5.6579505e-25, y: -5.1663526e-24, z: 0.26023898, w: -0.028500773}
+        outSlope: {x: 5.6579505e-25, y: -5.1663526e-24, z: 0.26023898, w: -0.028500773}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: triple_gear/gear/weird_circle_gear_60/center_gear
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 4.5346815e-10, w: 1}
+        inSlope: {x: 0, y: 0, z: 0.2617961, w: -0.0011426209}
+        outSlope: {x: 0, y: 0, z: 0.2617961, w: -0.0011426209}
+        tangentMode: 0
+      - time: 1.6333334
+        value: {x: 0, y: 0, z: 0.41469327, w: 0.9099613}
+        inSlope: {x: 0, y: 0, z: 0.2382242, w: -0.1085643}
+        outSlope: {x: 0, y: 0, z: 0.2382242, w: -0.1085643}
+        tangentMode: 0
+      - time: 3.266667
+        value: {x: 0, y: 0, z: 0.75470966, w: 0.656059}
+        inSlope: {x: 0, y: 0, z: 0.17175363, w: -0.19758065}
+        outSlope: {x: 0, y: 0, z: 0.17175363, w: -0.19758065}
+        tangentMode: 0
+      - time: 4.9333334
+        value: {x: 0, y: 0, z: 0.9612617, w: 0.27563736}
+        inSlope: {x: 0, y: 0, z: 0.07216082, w: -0.25165492}
+        outSlope: {x: 0, y: 0, z: 0.07216082, w: -0.25165492}
+        tangentMode: 0
+      - time: 6.566667
+        value: {x: -0, y: 0, z: 0.9890159, w: -0.14780957}
+        inSlope: {x: 0, y: 0, z: -0.038695373, w: -0.2589208}
+        outSlope: {x: 0, y: 0, z: -0.038695373, w: -0.2589208}
+        tangentMode: 0
+      - time: 8.2
+        value: {x: -0, y: -0, z: 0.83867055, w: -0.54463905}
+        inSlope: {x: 0, y: 0, z: -0.14258546, w: -0.21956047}
+        outSlope: {x: 0, y: 0, z: -0.14258546, w: -0.21956047}
+        tangentMode: 0
+      - time: 9.833333
+        value: {x: -0, y: -0, z: 0.53729963, w: -0.8433914}
+        inSlope: {x: 0, y: 0, z: -0.22079608, w: -0.14066324}
+        outSlope: {x: 0, y: 0, z: -0.22079608, w: -0.14066324}
+        tangentMode: 0
+      - time: 11.466667
+        value: {x: -0, y: -0, z: 0.13917284, w: -0.9902681}
+        inSlope: {x: 0, y: 0, z: -0.25924873, w: -0.036435146}
+        outSlope: {x: 0, y: 0, z: -0.25924873, w: -0.036435146}
+        tangentMode: 0
+      - time: 11.966667
+        value: {x: -0, y: -0, z: 0.008726535, w: -0.9999619}
+        inSlope: {x: 0, y: 0, z: -0.2617726, w: -0.0034260293}
+        outSlope: {x: 0, y: 0, z: -0.2617726, w: -0.0034260293}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: triple_gear/gear/weird_circle_gear_60/Cloner/trio_0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 4.5346815e-10, w: 1}
+        inSlope: {x: 0, y: 0, z: 0.2617961, w: -0.0011426209}
+        outSlope: {x: 0, y: 0, z: 0.2617961, w: -0.0011426209}
+        tangentMode: 0
+      - time: 1.6333334
+        value: {x: 0, y: 0, z: 0.41469327, w: 0.9099613}
+        inSlope: {x: 0, y: 0, z: 0.2382242, w: -0.1085643}
+        outSlope: {x: 0, y: 0, z: 0.2382242, w: -0.1085643}
+        tangentMode: 0
+      - time: 3.266667
+        value: {x: 0, y: 0, z: 0.75470966, w: 0.656059}
+        inSlope: {x: 0, y: 0, z: 0.17175363, w: -0.19758065}
+        outSlope: {x: 0, y: 0, z: 0.17175363, w: -0.19758065}
+        tangentMode: 0
+      - time: 4.9333334
+        value: {x: 0, y: 0, z: 0.9612617, w: 0.27563736}
+        inSlope: {x: 0, y: 0, z: 0.07216082, w: -0.25165492}
+        outSlope: {x: 0, y: 0, z: 0.07216082, w: -0.25165492}
+        tangentMode: 0
+      - time: 6.566667
+        value: {x: -0, y: 0, z: 0.9890159, w: -0.14780957}
+        inSlope: {x: 0, y: 0, z: -0.038695373, w: -0.2589208}
+        outSlope: {x: 0, y: 0, z: -0.038695373, w: -0.2589208}
+        tangentMode: 0
+      - time: 8.2
+        value: {x: -0, y: -0, z: 0.83867055, w: -0.54463905}
+        inSlope: {x: 0, y: 0, z: -0.14258546, w: -0.21956047}
+        outSlope: {x: 0, y: 0, z: -0.14258546, w: -0.21956047}
+        tangentMode: 0
+      - time: 9.833333
+        value: {x: -0, y: -0, z: 0.53729963, w: -0.8433914}
+        inSlope: {x: 0, y: 0, z: -0.22079608, w: -0.14066324}
+        outSlope: {x: 0, y: 0, z: -0.22079608, w: -0.14066324}
+        tangentMode: 0
+      - time: 11.466667
+        value: {x: -0, y: -0, z: 0.13917284, w: -0.9902681}
+        inSlope: {x: 0, y: 0, z: -0.25924873, w: -0.036435146}
+        outSlope: {x: 0, y: 0, z: -0.25924873, w: -0.036435146}
+        tangentMode: 0
+      - time: 11.966667
+        value: {x: -0, y: -0, z: 0.008726535, w: -0.9999619}
+        inSlope: {x: 0, y: 0, z: -0.2617726, w: -0.0034260293}
+        outSlope: {x: 0, y: 0, z: -0.2617726, w: -0.0034260293}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: triple_gear/gear/weird_circle_gear_60/Cloner/trio_1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 4.5346815e-10, w: 1}
+        inSlope: {x: 0, y: 0, z: 0.2617961, w: -0.0011426209}
+        outSlope: {x: 0, y: 0, z: 0.2617961, w: -0.0011426209}
+        tangentMode: 0
+      - time: 1.6333334
+        value: {x: 0, y: 0, z: 0.41469327, w: 0.9099613}
+        inSlope: {x: 0, y: 0, z: 0.2382242, w: -0.1085643}
+        outSlope: {x: 0, y: 0, z: 0.2382242, w: -0.1085643}
+        tangentMode: 0
+      - time: 3.266667
+        value: {x: 0, y: 0, z: 0.75470966, w: 0.656059}
+        inSlope: {x: 0, y: 0, z: 0.17175363, w: -0.19758065}
+        outSlope: {x: 0, y: 0, z: 0.17175363, w: -0.19758065}
+        tangentMode: 0
+      - time: 4.9333334
+        value: {x: 0, y: 0, z: 0.9612617, w: 0.27563736}
+        inSlope: {x: 0, y: 0, z: 0.07216082, w: -0.25165492}
+        outSlope: {x: 0, y: 0, z: 0.07216082, w: -0.25165492}
+        tangentMode: 0
+      - time: 6.566667
+        value: {x: -0, y: 0, z: 0.9890159, w: -0.14780957}
+        inSlope: {x: 0, y: 0, z: -0.038695373, w: -0.2589208}
+        outSlope: {x: 0, y: 0, z: -0.038695373, w: -0.2589208}
+        tangentMode: 0
+      - time: 8.2
+        value: {x: -0, y: -0, z: 0.83867055, w: -0.54463905}
+        inSlope: {x: 0, y: 0, z: -0.14258546, w: -0.21956047}
+        outSlope: {x: 0, y: 0, z: -0.14258546, w: -0.21956047}
+        tangentMode: 0
+      - time: 9.833333
+        value: {x: -0, y: -0, z: 0.53729963, w: -0.8433914}
+        inSlope: {x: 0, y: 0, z: -0.22079608, w: -0.14066324}
+        outSlope: {x: 0, y: 0, z: -0.22079608, w: -0.14066324}
+        tangentMode: 0
+      - time: 11.466667
+        value: {x: -0, y: -0, z: 0.13917284, w: -0.9902681}
+        inSlope: {x: 0, y: 0, z: -0.25924873, w: -0.036435146}
+        outSlope: {x: 0, y: 0, z: -0.25924873, w: -0.036435146}
+        tangentMode: 0
+      - time: 11.966667
+        value: {x: -0, y: -0, z: 0.008726535, w: -0.9999619}
+        inSlope: {x: 0, y: 0, z: -0.2617726, w: -0.0034260293}
+        outSlope: {x: 0, y: 0, z: -0.2617726, w: -0.0034260293}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: triple_gear/gear/weird_circle_gear_60/Cloner/trio_2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 1.1336704e-10, w: 1}
+        inSlope: {x: 0, y: 0, z: 0.065449804, w: -0.00007152557}
+        outSlope: {x: 0, y: 0, z: 0.065449804, w: -0.00007152557}
+        tangentMode: 0
+      - time: 1.6333334
+        value: {x: 0, y: 0, z: 0.10669793, w: 0.9942915}
+        inSlope: {x: 0, y: 0, z: 0.06507615, w: -0.0069835847}
+        outSlope: {x: 0, y: 0, z: 0.06507615, w: -0.0069835847}
+        tangentMode: 0
+      - time: 3.266667
+        value: {x: 0, y: 0, z: 0.2121777, w: 0.9772311}
+        inSlope: {x: 0, y: 0, z: 0.063959345, w: -0.013887597}
+        outSlope: {x: 0, y: 0, z: 0.063959345, w: -0.013887597}
+        tangentMode: 0
+      - time: 4.9333334
+        value: {x: 0, y: 0, z: 0.31730467, w: 0.94832367}
+        inSlope: {x: 0, y: 0, z: 0.06206772, w: -0.020767322}
+        outSlope: {x: 0, y: 0, z: 0.06206772, w: -0.020767322}
+        tangentMode: 0
+      - time: 6.566667
+        value: {x: 0, y: 0, z: 0.4166775, w: 0.9090544}
+        inSlope: {x: 0, y: 0, z: 0.05949771, w: -0.027271833}
+        outSlope: {x: 0, y: 0, z: 0.05949771, w: -0.027271833}
+        tangentMode: 0
+      - time: 8.2
+        value: {x: 0, y: 0, z: 0.5112931, w: 0.8594064}
+        inSlope: {x: 0, y: 0, z: 0.05624866, w: -0.033464164}
+        outSlope: {x: 0, y: 0, z: 0.05624866, w: -0.033464164}
+        tangentMode: 0
+      - time: 9.833333
+        value: {x: 0, y: 0, z: 0.60007125, w: 0.79994655}
+        inSlope: {x: 0, y: 0, z: 0.052356772, w: -0.03927473}
+        outSlope: {x: 0, y: 0, z: 0.052356772, w: -0.03927473}
+        tangentMode: 0
+      - time: 11.466667
+        value: {x: 0, y: 0, z: 0.68199843, w: 0.73135364}
+        inSlope: {x: 0, y: 0, z: 0.047866747, w: -0.044637367}
+        outSlope: {x: 0, y: 0, z: 0.047866747, w: -0.044637367}
+        tangentMode: 0
+      - time: 11.966667
+        value: {x: 0, y: 0, z: 0.7055624, w: 0.7086478}
+        inSlope: {x: 0, y: 0, z: 0.046430208, w: -0.046126228}
+        outSlope: {x: 0, y: 0, z: 0.046430208, w: -0.046126228}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: triple_gear/gear/weird_circle_gear_60/Null_2
+  m_CompressedRotationCurves: []
+  m_EulerCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 179.99998, z: 0}
+        inSlope: {x: -30.083567, y: 0, z: 0}
+        outSlope: {x: -30.083567, y: 0, z: 0}
+        tangentMode: 0
+      - time: 11.966666
+        value: {x: -360, y: 179.99998, z: 0}
+        inSlope: {x: -30.083567, y: 0, z: 0}
+        outSlope: {x: -30.083567, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: triple_gear/2nd_crank
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -2.9080286, y: -0.53290504, z: 1.8587595}
+        inSlope: {x: -0.12550963, y: 0.17562331, z: 1.7763567e-14}
+        outSlope: {x: -0.12550963, y: 0.17562331, z: 1.7763567e-14}
+        tangentMode: 0
+      - time: 1.3666667
+        value: {x: -2.9854376, y: -0.26037323, z: 1.8587595}
+        inSlope: {x: 0.01674501, y: 0.20227394, z: 7.612965e-15}
+        outSlope: {x: 0.020507831, y: 0.2022745, z: 1.7763585e-14}
+        tangentMode: 0
+      - time: 2.5
+        value: {x: -2.8953273, y: -0.031129355, z: 1.8587595}
+        inSlope: {x: 0.13422559, y: 0.20227422, z: 7.612965e-15}
+        outSlope: {x: 0.13715528, y: 0.16667992, z: 1.7763585e-14}
+        tangentMode: 0
+      - time: 2.6666667
+        value: {x: -2.8715198, y: -0.004172307, z: 1.8587595}
+        inSlope: {x: 0.1484529, y: 0.1567064, z: 7.612965e-15}
+        outSlope: {x: 0.15116286, y: 0.15409173, z: 1.7763585e-14}
+        tangentMode: 0
+      - time: 2.7
+        value: {x: -2.866481, y: 0.0009640792, z: 1.8587595}
+        inSlope: {x: 0.15116286, y: 0.15409173, z: 7.612965e-15}
+        outSlope: {x: 0.15382704, y: 0.15143012, z: 1.7763585e-14}
+        tangentMode: 0
+      - time: 2.7666667
+        value: {x: -2.8561385, y: 0.010969155, z: 1.8587595}
+        inSlope: {x: 0.15644546, y: 0.14872243, z: 7.612965e-15}
+        outSlope: {x: 0.1590181, y: 0.14596939, z: 1.7763585e-14}
+        tangentMode: 0
+      - time: 3.2666667
+        value: {x: -2.7679694, y: 0.07354175, z: 1.8587595}
+        inSlope: {x: 0.19780903, y: 0.10316329, z: 7.612965e-15}
+        outSlope: {x: 0.19780903, y: 0.09983864, z: 1.7763585e-14}
+        tangentMode: 0
+      - time: 4.3
+        value: {x: -2.5635686, y: 0.121420585, z: 1.8587595}
+        inSlope: {x: 0.19780903, y: -0.00922738, z: 7.612965e-15}
+        outSlope: {x: 0.19780445, y: -0.012989628, z: 1.7763585e-14}
+        tangentMode: 0
+      - time: 5.266667
+        value: {x: -2.3723555, y: 0.059513707, z: 1.8587595}
+        inSlope: {x: 0.19780903, y: -0.11262398, z: 7.612965e-15}
+        outSlope: {x: 0.19780445, y: -0.11582062, z: 1.7763585e-14}
+        tangentMode: 0
+      - time: 5.633333
+        value: {x: -2.2998264, y: 0.011459977, z: 1.8587595}
+        inSlope: {x: 0.19780445, y: -0.14569154, z: 7.612965e-15}
+        outSlope: {x: 0.19780903, y: -0.14844908, z: 1.7763585e-14}
+        tangentMode: 0
+      - time: 5.7
+        value: {x: -2.2866392, y: 0.0014729721, z: 1.8587595}
+        inSlope: {x: 0.19780445, y: -0.15116137, z: 7.612965e-15}
+        outSlope: {x: 0.1978062, y: -0.1538254, z: 1.7763331e-14}
+        tangentMode: 0
+      - time: 5.7333336
+        value: {x: -2.2800455, y: -0.00365461, z: 1.8587595}
+        inSlope: {x: 0.1978062, y: -0.1538254, z: 7.612857e-15}
+        outSlope: {x: 0.19780445, y: -0.15644702, z: 1.7763585e-14}
+        tangentMode: 0
+      - time: 5.9333334
+        value: {x: -2.2500708, y: -0.036197174, z: 1.8587595}
+        inSlope: {x: 0.13451855, y: -0.16881366, z: 7.612965e-15}
+        outSlope: {x: 0.13155682, y: -0.2023956, z: 1.7763585e-14}
+        tangentMode: 0
+      - time: 7.6
+        value: {x: -2.1713884, y: -0.37352267, z: 1.8587595}
+        inSlope: {x: -0.0428513, y: -0.20239466, z: 7.612965e-15}
+        outSlope: {x: -0.046536297, y: -0.20239581, z: 1.7763585e-14}
+        tangentMode: 0
+      - time: 8.833333
+        value: {x: -2.303976, y: -0.6011941, z: 1.8587595}
+        inSlope: {x: -0.16154264, y: -0.1431694, z: 7.612857e-15}
+        outSlope: {x: -0.16401921, y: -0.14033303, z: 1.776384e-14}
+        tangentMode: 0
+      - time: 10.466666
+        value: {x: -2.6335826, y: -0.6985916, z: 1.8587595}
+        inSlope: {x: -0.20258518, y: 0.027989585, z: 7.612857e-15}
+        outSlope: {x: -0.20258518, y: 0.03171802, z: 1.7763331e-14}
+        tangentMode: 0
+      - time: 11.966666
+        value: {x: -2.9037437, y: -0.5386852, z: 1.8587595}
+        inSlope: {x: -0.13155952, y: 0.17113265, z: 7.612857e-15}
+        outSlope: {x: -0.13155952, y: 0.17113265, z: 7.612857e-15}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: triple_gear/lotsa_keyframe_thing/Extrude
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 30
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 4175565932
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3185824680
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1565298186
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 532231404
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1757283450
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4055324096
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2669713068
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 476323912
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0.033333335
+    m_StartTime: 0
+    m_StopTime: 11.966667
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -4.0034612e-17
+        inSlope: -1.1109266e-17
+        outSlope: -1.1109266e-17
+        tangentMode: 0
+      - time: 1.6333334
+        value: -5.409992e-17
+        inSlope: -5.804332e-18
+        outSlope: -5.804332e-18
+        tangentMode: 0
+      - time: 3.266667
+        value: -8.5650006e-17
+        inSlope: 3.3411512e-18
+        outSlope: 3.3411512e-18
+        tangentMode: 0
+      - time: 4.9333334
+        value: -7.22317e-17
+        inSlope: 1.25044116e-17
+        outSlope: 1.25044116e-17
+        tangentMode: 0
+      - time: 6.566667
+        value: -4.592071e-17
+        inSlope: 1.9220403e-17
+        outSlope: 1.9220403e-17
+        tangentMode: 0
+      - time: 8.2
+        value: -1.1340457e-17
+        inSlope: 2.2475147e-17
+        outSlope: 2.2475147e-17
+        tangentMode: 0
+      - time: 9.833333
+        value: 1.0870653e-17
+        inSlope: 1.5039487e-17
+        outSlope: 1.5039487e-17
+        tangentMode: 0
+      - time: 11.466667
+        value: 3.3714883e-17
+        inSlope: 1.25050965e-17
+        outSlope: 1.25050965e-17
+        tangentMode: 0
+      - time: 11.966667
+        value: 3.966126e-17
+        inSlope: 1.1291361e-17
+        outSlope: 1.1291361e-17
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: triple_gear/gear/weird_circle_gear_60/side_GEAR/Null/Tube
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.0780241
+        inSlope: 0.26090896
+        outSlope: 0.26090896
+        tangentMode: 0
+      - time: 1.6333334
+        value: 0.484428
+        inSlope: 0.22902735
+        outSlope: 0.22902735
+        tangentMode: 0
+      - time: 3.266667
+        value: 0.8035973
+        inSlope: 0.15581414
+        outSlope: 0.15581414
+        tangentMode: 0
+      - time: 4.9333334
+        value: 0.97983766
+        inSlope: 0.052305445
+        outSlope: 0.052305445
+        tangentMode: 0
+      - time: 6.566667
+        value: 0.9744681
+        inSlope: -0.058780666
+        outSlope: -0.058780666
+        tangentMode: 0
+      - time: 8.2
+        value: 0.7936189
+        inSlope: -0.15928043
+        outSlope: -0.15928043
+        tangentMode: 0
+      - time: 9.833333
+        value: 0.46985668
+        inSlope: -0.23109889
+        outSlope: -0.23109889
+        tangentMode: 0
+      - time: 11.466667
+        value: 0.06148368
+        inSlope: -0.2613011
+        outSlope: -0.2613011
+        tangentMode: 0
+      - time: 11.966667
+        value: -0.06932131
+        inSlope: -0.2612422
+        outSlope: -0.2612422
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: triple_gear/gear/weird_circle_gear_60/side_GEAR/Null/Tube
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 4.8319236e-17
+        inSlope: 8.562708e-18
+        outSlope: 8.562708e-18
+        tangentMode: 0
+      - time: 1.6333334
+        value: 5.7619615e-17
+        inSlope: 2.5961916e-18
+        outSlope: 2.5961916e-18
+        tangentMode: 0
+      - time: 3.266667
+        value: 8.5650006e-17
+        inSlope: -3.3411512e-18
+        outSlope: -3.3411512e-18
+        tangentMode: 0
+      - time: 4.9333334
+        value: 7.22317e-17
+        inSlope: -1.25044116e-17
+        outSlope: -1.25044116e-17
+        tangentMode: 0
+      - time: 6.566667
+        value: 4.592071e-17
+        inSlope: -1.9220403e-17
+        outSlope: -1.9220403e-17
+        tangentMode: 0
+      - time: 8.2
+        value: 1.1340457e-17
+        inSlope: -2.2475147e-17
+        outSlope: -2.2475147e-17
+        tangentMode: 0
+      - time: 9.833333
+        value: -2.3065066e-17
+        inSlope: -1.4064972e-17
+        outSlope: -1.4064972e-17
+        tangentMode: 0
+      - time: 11.466667
+        value: -4.3267674e-17
+        inSlope: -1.0294487e-17
+        outSlope: -1.0294487e-17
+        tangentMode: 0
+      - time: 11.966667
+        value: -4.803014e-17
+        inSlope: -8.782754e-18
+        outSlope: -8.782754e-18
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: triple_gear/gear/weird_circle_gear_60/side_GEAR/Null/Tube
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.99695146
+        inSlope: -0.021564959
+        outSlope: -0.021564959
+        tangentMode: 0
+      - time: 1.6333334
+        value: 0.87483114
+        inSlope: -0.12682122
+        outSlope: -0.12682122
+        tangentMode: 0
+      - time: 3.266667
+        value: 0.5951734
+        inSlope: -0.21037927
+        outSlope: -0.21037927
+        tangentMode: 0
+      - time: 4.9333334
+        value: 0.19979553
+        inSlope: -0.2565182
+        outSlope: -0.2565182
+        tangentMode: 0
+      - time: 6.566667
+        value: -0.22452599
+        inSlope: -0.25511184
+        outSlope: -0.25511184
+        tangentMode: 0
+      - time: 8.2
+        value: -0.6084152
+        inSlope: -0.2077668
+        outSlope: -0.2077668
+        tangentMode: 0
+      - time: 9.833333
+        value: -0.8827427
+        inSlope: -0.12300713
+        outSlope: -0.12300713
+        tangentMode: 0
+      - time: 11.466667
+        value: -0.9981081
+        inSlope: -0.016095934
+        outSlope: -0.016095934
+        tangentMode: 0
+      - time: 11.966667
+        value: -0.9975944
+        inSlope: 0.017006766
+        outSlope: 0.017006766
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: triple_gear/gear/weird_circle_gear_60/side_GEAR/Null/Tube
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -1.9760939e-23
+        inSlope: -4.755411e-25
+        outSlope: -4.755411e-25
+        tangentMode: 0
+      - time: 1.6333334
+        value: -1.8770751e-23
+        inSlope: 1.6920609e-24
+        outSlope: 1.6920609e-24
+        tangentMode: 0
+      - time: 3.266667
+        value: -1.4400373e-23
+        inSlope: 3.577543e-24
+        outSlope: 3.577543e-24
+        tangentMode: 0
+      - time: 4.9333334
+        value: -7.275905e-24
+        inSlope: 4.835632e-24
+        outSlope: 4.835632e-24
+        tangentMode: 0
+      - time: 6.566667
+        value: 1.0389935e-24
+        inSlope: 5.1901455e-24
+        outSlope: 5.1901455e-24
+        tangentMode: 0
+      - time: 8.2
+        value: 9.1667885e-24
+        inSlope: 4.6100487e-24
+        outSlope: 4.6100487e-24
+        tangentMode: 0
+      - time: 9.833333
+        value: 1.5643853e-23
+        inSlope: 3.1997415e-24
+        outSlope: 3.1997415e-24
+        tangentMode: 0
+      - time: 11.466667
+        value: 1.9303814e-23
+        inSlope: 1.21327675e-24
+        outSlope: 1.21327675e-24
+        tangentMode: 0
+      - time: 11.966667
+        value: 1.974358e-23
+        inSlope: 5.6579505e-25
+        outSlope: 5.6579505e-25
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: triple_gear/gear/weird_circle_gear_60/center_gear
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -1.9027619e-24
+        inSlope: 5.175509e-24
+        outSlope: 5.175509e-24
+        tangentMode: 0
+      - time: 1.6333334
+        value: 6.4632885e-24
+        inSlope: 4.9141072e-24
+        outSlope: 4.9141072e-24
+        tangentMode: 0
+      - time: 3.266667
+        value: 1.3665447e-23
+        inSlope: 3.7699935e-24
+        outSlope: 3.7699935e-24
+        tangentMode: 0
+      - time: 4.9333334
+        value: 1.847096e-23
+        inSlope: 1.9048033e-24
+        outSlope: 1.9048033e-24
+        tangentMode: 0
+      - time: 6.566667
+        value: 1.9825127e-23
+        inSlope: -2.7201526e-25
+        outSlope: -2.7201526e-25
+        tangentMode: 0
+      - time: 8.2
+        value: 1.7609237e-23
+        inSlope: -2.3998115e-24
+        outSlope: -2.3998115e-24
+        tangentMode: 0
+      - time: 9.833333
+        value: 1.22223174e-23
+        inSlope: -4.0955055e-24
+        outSlope: -4.0955055e-24
+        tangentMode: 0
+      - time: 11.466667
+        value: 4.6344304e-24
+        inSlope: -5.053671e-24
+        outSlope: -5.053671e-24
+        tangentMode: 0
+      - time: 11.966667
+        value: 2.0751341e-24
+        inSlope: -5.1663526e-24
+        outSlope: -5.1663526e-24
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: triple_gear/gear/weird_circle_gear_60/center_gear
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.09584575
+        inSlope: -0.2607002
+        outSlope: -0.2607002
+        tangentMode: 0
+      - time: 1.6333334
+        value: -0.3255682
+        inSlope: -0.24753281
+        outSlope: -0.24753281
+        tangentMode: 0
+      - time: 3.266667
+        value: -0.6883546
+        inSlope: -0.18990058
+        outSlope: -0.18990058
+        tangentMode: 0
+      - time: 4.9333334
+        value: -0.9304176
+        inSlope: -0.09594829
+        outSlope: -0.09594829
+        tangentMode: 0
+      - time: 6.566667
+        value: -0.9986295
+        inSlope: 0.013701631
+        outSlope: 0.013701631
+        tangentMode: 0
+      - time: 8.2
+        value: -0.8870109
+        inSlope: 0.12088369
+        outSlope: 0.12088369
+        tangentMode: 0
+      - time: 9.833333
+        value: -0.6156615
+        inSlope: 0.20629872
+        outSlope: 0.20629872
+        tangentMode: 0
+      - time: 11.466667
+        value: -0.23344511
+        inSlope: 0.25456288
+        outSlope: 0.25456288
+        tangentMode: 0
+      - time: 11.966667
+        value: -0.104528464
+        inSlope: 0.26023898
+        outSlope: 0.26023898
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: triple_gear/gear/weird_circle_gear_60/center_gear
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.9953962
+        inSlope: 0.0239557
+        outSlope: 0.0239557
+        tangentMode: 0
+      - time: 1.6333334
+        value: 0.94551855
+        inSlope: -0.08523264
+        outSlope: -0.08523264
+        tangentMode: 0
+      - time: 3.266667
+        value: 0.72537434
+        inSlope: -0.18020797
+        outSlope: -0.18020797
+        tangentMode: 0
+      - time: 4.9333334
+        value: 0.3665012
+        inSlope: -0.24357972
+        outSlope: -0.24357972
+        tangentMode: 0
+      - time: 6.566667
+        value: -0.05233609
+        inSlope: -0.2614375
+        outSlope: -0.2614375
+        tangentMode: 0
+      - time: 8.2
+        value: -0.46174863
+        inSlope: -0.23221694
+        outSlope: -0.23221694
+        tangentMode: 0
+      - time: 9.833333
+        value: -0.7880108
+        inSlope: -0.16117768
+        outSlope: -0.16117768
+        tangentMode: 0
+      - time: 11.466667
+        value: -0.97236997
+        inSlope: -0.06111507
+        outSlope: -0.06111507
+        tangentMode: 0
+      - time: 11.966667
+        value: -0.9945219
+        inSlope: -0.028500773
+        outSlope: -0.028500773
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: triple_gear/gear/weird_circle_gear_60/center_gear
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.6333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.266667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 4.9333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 6.566667
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 8.2
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 9.833333
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 11.466667
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 11.966667
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: triple_gear/gear/weird_circle_gear_60/Cloner/trio_0
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.6333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.266667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 4.9333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 6.566667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 8.2
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 9.833333
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 11.466667
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 11.966667
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: triple_gear/gear/weird_circle_gear_60/Cloner/trio_0
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 4.5346815e-10
+        inSlope: 0.2617961
+        outSlope: 0.2617961
+        tangentMode: 0
+      - time: 1.6333334
+        value: 0.41469327
+        inSlope: 0.2382242
+        outSlope: 0.2382242
+        tangentMode: 0
+      - time: 3.266667
+        value: 0.75470966
+        inSlope: 0.17175363
+        outSlope: 0.17175363
+        tangentMode: 0
+      - time: 4.9333334
+        value: 0.9612617
+        inSlope: 0.07216082
+        outSlope: 0.07216082
+        tangentMode: 0
+      - time: 6.566667
+        value: 0.9890159
+        inSlope: -0.038695373
+        outSlope: -0.038695373
+        tangentMode: 0
+      - time: 8.2
+        value: 0.83867055
+        inSlope: -0.14258546
+        outSlope: -0.14258546
+        tangentMode: 0
+      - time: 9.833333
+        value: 0.53729963
+        inSlope: -0.22079608
+        outSlope: -0.22079608
+        tangentMode: 0
+      - time: 11.466667
+        value: 0.13917284
+        inSlope: -0.25924873
+        outSlope: -0.25924873
+        tangentMode: 0
+      - time: 11.966667
+        value: 0.008726535
+        inSlope: -0.2617726
+        outSlope: -0.2617726
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: triple_gear/gear/weird_circle_gear_60/Cloner/trio_0
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: -0.0011426209
+        outSlope: -0.0011426209
+        tangentMode: 0
+      - time: 1.6333334
+        value: 0.9099613
+        inSlope: -0.1085643
+        outSlope: -0.1085643
+        tangentMode: 0
+      - time: 3.266667
+        value: 0.656059
+        inSlope: -0.19758065
+        outSlope: -0.19758065
+        tangentMode: 0
+      - time: 4.9333334
+        value: 0.27563736
+        inSlope: -0.25165492
+        outSlope: -0.25165492
+        tangentMode: 0
+      - time: 6.566667
+        value: -0.14780957
+        inSlope: -0.2589208
+        outSlope: -0.2589208
+        tangentMode: 0
+      - time: 8.2
+        value: -0.54463905
+        inSlope: -0.21956047
+        outSlope: -0.21956047
+        tangentMode: 0
+      - time: 9.833333
+        value: -0.8433914
+        inSlope: -0.14066324
+        outSlope: -0.14066324
+        tangentMode: 0
+      - time: 11.466667
+        value: -0.9902681
+        inSlope: -0.036435146
+        outSlope: -0.036435146
+        tangentMode: 0
+      - time: 11.966667
+        value: -0.9999619
+        inSlope: -0.0034260293
+        outSlope: -0.0034260293
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: triple_gear/gear/weird_circle_gear_60/Cloner/trio_0
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.6333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.266667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 4.9333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 6.566667
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 8.2
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 9.833333
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 11.466667
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 11.966667
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: triple_gear/gear/weird_circle_gear_60/Cloner/trio_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.6333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.266667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 4.9333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 6.566667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 8.2
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 9.833333
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 11.466667
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 11.966667
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: triple_gear/gear/weird_circle_gear_60/Cloner/trio_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 4.5346815e-10
+        inSlope: 0.2617961
+        outSlope: 0.2617961
+        tangentMode: 0
+      - time: 1.6333334
+        value: 0.41469327
+        inSlope: 0.2382242
+        outSlope: 0.2382242
+        tangentMode: 0
+      - time: 3.266667
+        value: 0.75470966
+        inSlope: 0.17175363
+        outSlope: 0.17175363
+        tangentMode: 0
+      - time: 4.9333334
+        value: 0.9612617
+        inSlope: 0.07216082
+        outSlope: 0.07216082
+        tangentMode: 0
+      - time: 6.566667
+        value: 0.9890159
+        inSlope: -0.038695373
+        outSlope: -0.038695373
+        tangentMode: 0
+      - time: 8.2
+        value: 0.83867055
+        inSlope: -0.14258546
+        outSlope: -0.14258546
+        tangentMode: 0
+      - time: 9.833333
+        value: 0.53729963
+        inSlope: -0.22079608
+        outSlope: -0.22079608
+        tangentMode: 0
+      - time: 11.466667
+        value: 0.13917284
+        inSlope: -0.25924873
+        outSlope: -0.25924873
+        tangentMode: 0
+      - time: 11.966667
+        value: 0.008726535
+        inSlope: -0.2617726
+        outSlope: -0.2617726
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: triple_gear/gear/weird_circle_gear_60/Cloner/trio_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: -0.0011426209
+        outSlope: -0.0011426209
+        tangentMode: 0
+      - time: 1.6333334
+        value: 0.9099613
+        inSlope: -0.1085643
+        outSlope: -0.1085643
+        tangentMode: 0
+      - time: 3.266667
+        value: 0.656059
+        inSlope: -0.19758065
+        outSlope: -0.19758065
+        tangentMode: 0
+      - time: 4.9333334
+        value: 0.27563736
+        inSlope: -0.25165492
+        outSlope: -0.25165492
+        tangentMode: 0
+      - time: 6.566667
+        value: -0.14780957
+        inSlope: -0.2589208
+        outSlope: -0.2589208
+        tangentMode: 0
+      - time: 8.2
+        value: -0.54463905
+        inSlope: -0.21956047
+        outSlope: -0.21956047
+        tangentMode: 0
+      - time: 9.833333
+        value: -0.8433914
+        inSlope: -0.14066324
+        outSlope: -0.14066324
+        tangentMode: 0
+      - time: 11.466667
+        value: -0.9902681
+        inSlope: -0.036435146
+        outSlope: -0.036435146
+        tangentMode: 0
+      - time: 11.966667
+        value: -0.9999619
+        inSlope: -0.0034260293
+        outSlope: -0.0034260293
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: triple_gear/gear/weird_circle_gear_60/Cloner/trio_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.6333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.266667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 4.9333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 6.566667
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 8.2
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 9.833333
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 11.466667
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 11.966667
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: triple_gear/gear/weird_circle_gear_60/Cloner/trio_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.6333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.266667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 4.9333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 6.566667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 8.2
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 9.833333
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 11.466667
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 11.966667
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: triple_gear/gear/weird_circle_gear_60/Cloner/trio_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 4.5346815e-10
+        inSlope: 0.2617961
+        outSlope: 0.2617961
+        tangentMode: 0
+      - time: 1.6333334
+        value: 0.41469327
+        inSlope: 0.2382242
+        outSlope: 0.2382242
+        tangentMode: 0
+      - time: 3.266667
+        value: 0.75470966
+        inSlope: 0.17175363
+        outSlope: 0.17175363
+        tangentMode: 0
+      - time: 4.9333334
+        value: 0.9612617
+        inSlope: 0.07216082
+        outSlope: 0.07216082
+        tangentMode: 0
+      - time: 6.566667
+        value: 0.9890159
+        inSlope: -0.038695373
+        outSlope: -0.038695373
+        tangentMode: 0
+      - time: 8.2
+        value: 0.83867055
+        inSlope: -0.14258546
+        outSlope: -0.14258546
+        tangentMode: 0
+      - time: 9.833333
+        value: 0.53729963
+        inSlope: -0.22079608
+        outSlope: -0.22079608
+        tangentMode: 0
+      - time: 11.466667
+        value: 0.13917284
+        inSlope: -0.25924873
+        outSlope: -0.25924873
+        tangentMode: 0
+      - time: 11.966667
+        value: 0.008726535
+        inSlope: -0.2617726
+        outSlope: -0.2617726
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: triple_gear/gear/weird_circle_gear_60/Cloner/trio_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: -0.0011426209
+        outSlope: -0.0011426209
+        tangentMode: 0
+      - time: 1.6333334
+        value: 0.9099613
+        inSlope: -0.1085643
+        outSlope: -0.1085643
+        tangentMode: 0
+      - time: 3.266667
+        value: 0.656059
+        inSlope: -0.19758065
+        outSlope: -0.19758065
+        tangentMode: 0
+      - time: 4.9333334
+        value: 0.27563736
+        inSlope: -0.25165492
+        outSlope: -0.25165492
+        tangentMode: 0
+      - time: 6.566667
+        value: -0.14780957
+        inSlope: -0.2589208
+        outSlope: -0.2589208
+        tangentMode: 0
+      - time: 8.2
+        value: -0.54463905
+        inSlope: -0.21956047
+        outSlope: -0.21956047
+        tangentMode: 0
+      - time: 9.833333
+        value: -0.8433914
+        inSlope: -0.14066324
+        outSlope: -0.14066324
+        tangentMode: 0
+      - time: 11.466667
+        value: -0.9902681
+        inSlope: -0.036435146
+        outSlope: -0.036435146
+        tangentMode: 0
+      - time: 11.966667
+        value: -0.9999619
+        inSlope: -0.0034260293
+        outSlope: -0.0034260293
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: triple_gear/gear/weird_circle_gear_60/Cloner/trio_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.6333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.266667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 4.9333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 6.566667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 8.2
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 9.833333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 11.466667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 11.966667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: triple_gear/gear/weird_circle_gear_60/Null_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.6333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.266667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 4.9333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 6.566667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 8.2
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 9.833333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 11.466667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 11.966667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: triple_gear/gear/weird_circle_gear_60/Null_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1.1336704e-10
+        inSlope: 0.065449804
+        outSlope: 0.065449804
+        tangentMode: 0
+      - time: 1.6333334
+        value: 0.10669793
+        inSlope: 0.06507615
+        outSlope: 0.06507615
+        tangentMode: 0
+      - time: 3.266667
+        value: 0.2121777
+        inSlope: 0.063959345
+        outSlope: 0.063959345
+        tangentMode: 0
+      - time: 4.9333334
+        value: 0.31730467
+        inSlope: 0.06206772
+        outSlope: 0.06206772
+        tangentMode: 0
+      - time: 6.566667
+        value: 0.4166775
+        inSlope: 0.05949771
+        outSlope: 0.05949771
+        tangentMode: 0
+      - time: 8.2
+        value: 0.5112931
+        inSlope: 0.05624866
+        outSlope: 0.05624866
+        tangentMode: 0
+      - time: 9.833333
+        value: 0.60007125
+        inSlope: 0.052356772
+        outSlope: 0.052356772
+        tangentMode: 0
+      - time: 11.466667
+        value: 0.68199843
+        inSlope: 0.047866747
+        outSlope: 0.047866747
+        tangentMode: 0
+      - time: 11.966667
+        value: 0.7055624
+        inSlope: 0.046430208
+        outSlope: 0.046430208
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: triple_gear/gear/weird_circle_gear_60/Null_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: -0.00007152557
+        outSlope: -0.00007152557
+        tangentMode: 0
+      - time: 1.6333334
+        value: 0.9942915
+        inSlope: -0.0069835847
+        outSlope: -0.0069835847
+        tangentMode: 0
+      - time: 3.266667
+        value: 0.9772311
+        inSlope: -0.013887597
+        outSlope: -0.013887597
+        tangentMode: 0
+      - time: 4.9333334
+        value: 0.94832367
+        inSlope: -0.020767322
+        outSlope: -0.020767322
+        tangentMode: 0
+      - time: 6.566667
+        value: 0.9090544
+        inSlope: -0.027271833
+        outSlope: -0.027271833
+        tangentMode: 0
+      - time: 8.2
+        value: 0.8594064
+        inSlope: -0.033464164
+        outSlope: -0.033464164
+        tangentMode: 0
+      - time: 9.833333
+        value: 0.79994655
+        inSlope: -0.03927473
+        outSlope: -0.03927473
+        tangentMode: 0
+      - time: 11.466667
+        value: 0.73135364
+        inSlope: -0.044637367
+        outSlope: -0.044637367
+        tangentMode: 0
+      - time: 11.966667
+        value: 0.7086478
+        inSlope: -0.046126228
+        outSlope: -0.046126228
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: triple_gear/gear/weird_circle_gear_60/Null_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -2.9080286
+        inSlope: -0.12550963
+        outSlope: -0.12550963
+        tangentMode: 0
+      - time: 1.3666667
+        value: -2.9854376
+        inSlope: 0.01674501
+        outSlope: 0.020507831
+        tangentMode: 0
+      - time: 2.5
+        value: -2.8953273
+        inSlope: 0.13422559
+        outSlope: 0.13715528
+        tangentMode: 0
+      - time: 2.6666667
+        value: -2.8715198
+        inSlope: 0.1484529
+        outSlope: 0.15116286
+        tangentMode: 0
+      - time: 2.7
+        value: -2.866481
+        inSlope: 0.15116286
+        outSlope: 0.15382704
+        tangentMode: 0
+      - time: 2.7666667
+        value: -2.8561385
+        inSlope: 0.15644546
+        outSlope: 0.1590181
+        tangentMode: 0
+      - time: 3.2666667
+        value: -2.7679694
+        inSlope: 0.19780903
+        outSlope: 0.19780903
+        tangentMode: 0
+      - time: 4.3
+        value: -2.5635686
+        inSlope: 0.19780903
+        outSlope: 0.19780445
+        tangentMode: 0
+      - time: 5.266667
+        value: -2.3723555
+        inSlope: 0.19780903
+        outSlope: 0.19780445
+        tangentMode: 0
+      - time: 5.633333
+        value: -2.2998264
+        inSlope: 0.19780445
+        outSlope: 0.19780903
+        tangentMode: 0
+      - time: 5.7
+        value: -2.2866392
+        inSlope: 0.19780445
+        outSlope: 0.1978062
+        tangentMode: 0
+      - time: 5.7333336
+        value: -2.2800455
+        inSlope: 0.1978062
+        outSlope: 0.19780445
+        tangentMode: 0
+      - time: 5.9333334
+        value: -2.2500708
+        inSlope: 0.13451855
+        outSlope: 0.13155682
+        tangentMode: 0
+      - time: 7.6
+        value: -2.1713884
+        inSlope: -0.0428513
+        outSlope: -0.046536297
+        tangentMode: 0
+      - time: 8.833333
+        value: -2.303976
+        inSlope: -0.16154264
+        outSlope: -0.16401921
+        tangentMode: 0
+      - time: 10.466666
+        value: -2.6335826
+        inSlope: -0.20258518
+        outSlope: -0.20258518
+        tangentMode: 0
+      - time: 11.966666
+        value: -2.9037437
+        inSlope: -0.13155952
+        outSlope: -0.13155952
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: triple_gear/lotsa_keyframe_thing/Extrude
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.53290504
+        inSlope: 0.17562331
+        outSlope: 0.17562331
+        tangentMode: 0
+      - time: 1.3666667
+        value: -0.26037323
+        inSlope: 0.20227394
+        outSlope: 0.2022745
+        tangentMode: 0
+      - time: 2.5
+        value: -0.031129355
+        inSlope: 0.20227422
+        outSlope: 0.16667992
+        tangentMode: 0
+      - time: 2.6666667
+        value: -0.004172307
+        inSlope: 0.1567064
+        outSlope: 0.15409173
+        tangentMode: 0
+      - time: 2.7
+        value: 0.0009640792
+        inSlope: 0.15409173
+        outSlope: 0.15143012
+        tangentMode: 0
+      - time: 2.7666667
+        value: 0.010969155
+        inSlope: 0.14872243
+        outSlope: 0.14596939
+        tangentMode: 0
+      - time: 3.2666667
+        value: 0.07354175
+        inSlope: 0.10316329
+        outSlope: 0.09983864
+        tangentMode: 0
+      - time: 4.3
+        value: 0.121420585
+        inSlope: -0.00922738
+        outSlope: -0.012989628
+        tangentMode: 0
+      - time: 5.266667
+        value: 0.059513707
+        inSlope: -0.11262398
+        outSlope: -0.11582062
+        tangentMode: 0
+      - time: 5.633333
+        value: 0.011459977
+        inSlope: -0.14569154
+        outSlope: -0.14844908
+        tangentMode: 0
+      - time: 5.7
+        value: 0.0014729721
+        inSlope: -0.15116137
+        outSlope: -0.1538254
+        tangentMode: 0
+      - time: 5.7333336
+        value: -0.00365461
+        inSlope: -0.1538254
+        outSlope: -0.15644702
+        tangentMode: 0
+      - time: 5.9333334
+        value: -0.036197174
+        inSlope: -0.16881366
+        outSlope: -0.2023956
+        tangentMode: 0
+      - time: 7.6
+        value: -0.37352267
+        inSlope: -0.20239466
+        outSlope: -0.20239581
+        tangentMode: 0
+      - time: 8.833333
+        value: -0.6011941
+        inSlope: -0.1431694
+        outSlope: -0.14033303
+        tangentMode: 0
+      - time: 10.466666
+        value: -0.6985916
+        inSlope: 0.027989585
+        outSlope: 0.03171802
+        tangentMode: 0
+      - time: 11.966666
+        value: -0.5386852
+        inSlope: 0.17113265
+        outSlope: 0.17113265
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: triple_gear/lotsa_keyframe_thing/Extrude
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1.8587595
+        inSlope: 1.7763567e-14
+        outSlope: 1.7763567e-14
+        tangentMode: 0
+      - time: 1.3666667
+        value: 1.8587595
+        inSlope: 7.612965e-15
+        outSlope: 1.7763585e-14
+        tangentMode: 0
+      - time: 2.5
+        value: 1.8587595
+        inSlope: 7.612965e-15
+        outSlope: 1.7763585e-14
+        tangentMode: 0
+      - time: 2.6666667
+        value: 1.8587595
+        inSlope: 7.612965e-15
+        outSlope: 1.7763585e-14
+        tangentMode: 0
+      - time: 2.7
+        value: 1.8587595
+        inSlope: 7.612965e-15
+        outSlope: 1.7763585e-14
+        tangentMode: 0
+      - time: 2.7666667
+        value: 1.8587595
+        inSlope: 7.612965e-15
+        outSlope: 1.7763585e-14
+        tangentMode: 0
+      - time: 3.2666667
+        value: 1.8587595
+        inSlope: 7.612965e-15
+        outSlope: 1.7763585e-14
+        tangentMode: 0
+      - time: 4.3
+        value: 1.8587595
+        inSlope: 7.612965e-15
+        outSlope: 1.7763585e-14
+        tangentMode: 0
+      - time: 5.266667
+        value: 1.8587595
+        inSlope: 7.612965e-15
+        outSlope: 1.7763585e-14
+        tangentMode: 0
+      - time: 5.633333
+        value: 1.8587595
+        inSlope: 7.612965e-15
+        outSlope: 1.7763585e-14
+        tangentMode: 0
+      - time: 5.7
+        value: 1.8587595
+        inSlope: 7.612965e-15
+        outSlope: 1.7763331e-14
+        tangentMode: 0
+      - time: 5.7333336
+        value: 1.8587595
+        inSlope: 7.612857e-15
+        outSlope: 1.7763585e-14
+        tangentMode: 0
+      - time: 5.9333334
+        value: 1.8587595
+        inSlope: 7.612965e-15
+        outSlope: 1.7763585e-14
+        tangentMode: 0
+      - time: 7.6
+        value: 1.8587595
+        inSlope: 7.612965e-15
+        outSlope: 1.7763585e-14
+        tangentMode: 0
+      - time: 8.833333
+        value: 1.8587595
+        inSlope: 7.612857e-15
+        outSlope: 1.776384e-14
+        tangentMode: 0
+      - time: 10.466666
+        value: 1.8587595
+        inSlope: 7.612857e-15
+        outSlope: 1.7763331e-14
+        tangentMode: 0
+      - time: 11.966666
+        value: 1.8587595
+        inSlope: 7.612857e-15
+        outSlope: 7.612857e-15
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: triple_gear/lotsa_keyframe_thing/Extrude
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: -30.083567
+        outSlope: -30.083567
+        tangentMode: 10
+      - time: 11.966666
+        value: -360
+        inSlope: -30.083567
+        outSlope: -30.083567
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: triple_gear/2nd_crank
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 179.99998
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 11.966666
+        value: 179.99998
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: triple_gear/2nd_crank
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 11.966666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: triple_gear/2nd_crank
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -5.0056606e-15
+        inSlope: 9.194071e-15
+        outSlope: 9.194071e-15
+        tangentMode: 0
+      - time: 1.6333334
+        value: -8.621966e-15
+        inSlope: 1.5836264e-14
+        outSlope: 1.5836264e-14
+        tangentMode: 0
+      - time: 3.266667
+        value: -1.37286075e-14
+        inSlope: 2.5215808e-14
+        outSlope: 2.4711495e-14
+        tangentMode: 0
+      - time: 4.9333334
+        value: -9.763992e-15
+        inSlope: 1.7575187e-14
+        outSlope: 1.7933858e-14
+        tangentMode: 0
+      - time: 6.566667
+        value: -3.9462897e-15
+        inSlope: 7.248286e-15
+        outSlope: 7.2482905e-15
+        tangentMode: 0
+      - time: 8.2
+        value: -2.4067607e-16
+        inSlope: 4.4205826e-16
+        outSlope: 4.4205816e-16
+        tangentMode: 0
+      - time: 9.833333
+        value: 1.4224083e-16
+        inSlope: -2.6125868e-16
+        outSlope: -2.6125852e-16
+        tangentMode: 0
+      - time: 11.466667
+        value: -3.5512885e-15
+        inSlope: 6.522771e-15
+        outSlope: 2.130773e-14
+        tangentMode: 0
+      - time: 11.966667
+        value: -4.915446e-15
+        inSlope: 2.9492678e-14
+        outSlope: 2.9492678e-14
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: triple_gear/gear/weird_circle_gear_60/side_GEAR/Null/Tube
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 8.95
+        inSlope: 29.817194
+        outSlope: 29.817194
+        tangentMode: 0
+      - time: 1.6333334
+        value: 57.95
+        inSlope: 29.798893
+        outSlope: 29.798893
+        tangentMode: 0
+      - time: 3.266667
+        value: 106.95
+        inSlope: 29.798985
+        outSlope: 29.790833
+        tangentMode: 0
+      - time: 4.9333334
+        value: 156.95
+        inSlope: 29.790777
+        outSlope: 29.798979
+        tangentMode: 0
+      - time: 6.566667
+        value: -154.04997
+        inSlope: 29.798895
+        outSlope: 29.798885
+        tangentMode: 0
+      - time: 8.2
+        value: -105.049995
+        inSlope: 29.798912
+        outSlope: 29.798904
+        tangentMode: 0
+      - time: 9.833333
+        value: -56.049984
+        inSlope: 29.798952
+        outSlope: 29.798964
+        tangentMode: 0
+      - time: 11.466667
+        value: -7.049957
+        inSlope: 29.798943
+        outSlope: 29.980587
+        tangentMode: 0
+      - time: 11.966667
+        value: 7.9500127
+        inSlope: 29.974453
+        outSlope: 29.974453
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: triple_gear/gear/weird_circle_gear_60/side_GEAR/Null/Tube
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 5.162151e-15
+        inSlope: -9.4815005e-15
+        outSlope: -9.4815005e-15
+        tangentMode: 0
+      - time: 1.6333334
+        value: 2.7731062e-15
+        inSlope: -5.0934603e-15
+        outSlope: -5.0934603e-15
+        tangentMode: 0
+      - time: 3.266667
+        value: -2.0456316e-15
+        inSlope: 3.7572823e-15
+        outSlope: 3.6821373e-15
+        tangentMode: 0
+      - time: 4.9333334
+        value: -6.4565197e-15
+        inSlope: 1.1621737e-14
+        outSlope: 1.1858912e-14
+        tangentMode: 0
+      - time: 6.566667
+        value: -6.3092575e-15
+        inSlope: 1.158843e-14
+        outSlope: 1.15884365e-14
+        tangentMode: 0
+      - time: 8.2
+        value: -1.8219723e-15
+        inSlope: 3.346481e-15
+        outSlope: 3.3464802e-15
+        tangentMode: 0
+      - time: 9.833333
+        value: 2.9184368e-15
+        inSlope: -5.3603946e-15
+        outSlope: -5.3603913e-15
+        tangentMode: 0
+      - time: 11.466667
+        value: 5.1862684e-15
+        inSlope: -9.525794e-15
+        outSlope: -3.1117612e-14
+        tangentMode: 0
+      - time: 11.966667
+        value: 5.175554e-15
+        inSlope: -3.1053322e-14
+        outSlope: -3.1053322e-14
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: triple_gear/gear/weird_circle_gear_60/side_GEAR/Null/Tube
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -2.2331132e-21
+        inSlope: 4.1016365e-21
+        outSlope: 4.1016365e-21
+        tangentMode: 0
+      - time: 1.6333334
+        value: -1.7926535e-21
+        inSlope: 3.2926286e-21
+        outSlope: 3.2926286e-21
+        tangentMode: 0
+      - time: 3.266667
+        value: -1.1905927e-22
+        inSlope: 2.1868027e-22
+        outSlope: 2.143067e-22
+        tangentMode: 0
+      - time: 4.9333334
+        value: 1.6637638e-21
+        inSlope: -2.994775e-21
+        outSlope: -3.0558922e-21
+        tangentMode: 0
+      - time: 6.566667
+        value: 2.2624476e-21
+        inSlope: -4.1555155e-21
+        outSlope: -4.155518e-21
+        tangentMode: 0
+      - time: 8.2
+        value: 1.3048349e-21
+        inSlope: -2.3966363e-21
+        outSlope: -2.3966357e-21
+        tangentMode: 0
+      - time: 9.833333
+        value: -5.503505e-22
+        inSlope: 1.0108479e-21
+        outSlope: 1.0108473e-21
+        tangentMode: 0
+      - time: 11.466667
+        value: -2.02696e-21
+        inSlope: 3.722986e-21
+        outSlope: 1.216176e-20
+        tangentMode: 0
+      - time: 11.966667
+        value: -2.2251976e-21
+        inSlope: 1.3351186e-20
+        outSlope: 1.3351186e-20
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: triple_gear/gear/weird_circle_gear_60/center_gear
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -4.340733e-22
+        inSlope: 7.9727736e-22
+        outSlope: 7.9727736e-22
+        tangentMode: 0
+      - time: 1.6333334
+        value: 1.4005745e-21
+        inSlope: -2.5724836e-21
+        outSlope: -2.5724836e-21
+        tangentMode: 0
+      - time: 3.266667
+        value: 2.2717922e-21
+        inSlope: -4.1726795e-21
+        outSlope: -4.0892267e-21
+        tangentMode: 0
+      - time: 4.9333334
+        value: 1.5514848e-21
+        inSlope: -2.792673e-21
+        outSlope: -2.8496653e-21
+        tangentMode: 0
+      - time: 6.566667
+        value: -2.3779342e-22
+        inSlope: 4.3676333e-22
+        outSlope: 4.367636e-22
+        tangentMode: 0
+      - time: 8.2
+        value: -1.863497e-21
+        inSlope: 3.4227506e-21
+        outSlope: 3.4227498e-21
+        tangentMode: 0
+      - time: 9.833333
+        value: -2.207335e-21
+        inSlope: 4.0542893e-21
+        outSlope: 4.054287e-21
+        tangentMode: 0
+      - time: 11.466667
+        value: -1.0327864e-21
+        inSlope: 1.8969538e-21
+        outSlope: 6.1967185e-21
+        tangentMode: 0
+      - time: 11.966667
+        value: -4.7298035e-22
+        inSlope: 2.8378822e-21
+        outSlope: 2.8378822e-21
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: triple_gear/gear/weird_circle_gear_60/center_gear
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 10.999999
+        inSlope: -29.817173
+        outSlope: -29.817173
+        tangentMode: 0
+      - time: 1.6333334
+        value: -38.000004
+        inSlope: -29.798893
+        outSlope: -29.798893
+        tangentMode: 0
+      - time: 3.266667
+        value: -87
+        inSlope: -29.798899
+        outSlope: -29.790695
+        tangentMode: 0
+      - time: 4.9333334
+        value: -137
+        inSlope: -29.790722
+        outSlope: -29.798866
+        tangentMode: 0
+      - time: 6.566667
+        value: 173.99997
+        inSlope: -29.798895
+        outSlope: -29.798912
+        tangentMode: 0
+      - time: 8.2
+        value: 124.99999
+        inSlope: -29.798954
+        outSlope: -29.798946
+        tangentMode: 0
+      - time: 9.833333
+        value: 75.99999
+        inSlope: -29.798946
+        outSlope: -29.798985
+        tangentMode: 0
+      - time: 11.466667
+        value: 26.99997
+        inSlope: -29.798943
+        outSlope: -29.980682
+        tangentMode: 0
+      - time: 11.966667
+        value: 12
+        inSlope: -29.974548
+        outSlope: -29.974548
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: triple_gear/gear/weird_circle_gear_60/center_gear
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.6333334
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.266667
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 4.9333334
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 6.566667
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 8.2
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 9.833333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 11.466667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 11.966667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: triple_gear/gear/weird_circle_gear_60/Cloner/trio_0
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.6333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.266667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 4.9333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 6.566667
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 8.2
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 9.833333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 11.466667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 11.966667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: triple_gear/gear/weird_circle_gear_60/Cloner/trio_0
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.00000005196362
+        inSlope: 29.817202
+        outSlope: 29.817202
+        tangentMode: 0
+      - time: 1.6333334
+        value: 49
+        inSlope: 29.798843
+        outSlope: 29.798843
+        tangentMode: 0
+      - time: 3.266667
+        value: 98
+        inSlope: 29.798956
+        outSlope: 29.790804
+        tangentMode: 0
+      - time: 4.9333334
+        value: 147.99998
+        inSlope: 29.790777
+        outSlope: 29.798979
+        tangentMode: 0
+      - time: 6.566667
+        value: -162.99997
+        inSlope: 29.798923
+        outSlope: 29.798912
+        tangentMode: 0
+      - time: 8.2
+        value: -113.99999
+        inSlope: 29.79897
+        outSlope: 29.79896
+        tangentMode: 0
+      - time: 9.833333
+        value: -65.00001
+        inSlope: 29.798862
+        outSlope: 29.7989
+        tangentMode: 0
+      - time: 11.466667
+        value: -15.999969
+        inSlope: 29.798943
+        outSlope: 29.980677
+        tangentMode: 0
+      - time: 11.966667
+        value: -0.99999994
+        inSlope: 29.974548
+        outSlope: 29.974548
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: triple_gear/gear/weird_circle_gear_60/Cloner/trio_0
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.6333334
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.266667
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 4.9333334
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 6.566667
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 8.2
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 9.833333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 11.466667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 11.966667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: triple_gear/gear/weird_circle_gear_60/Cloner/trio_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.6333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.266667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 4.9333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 6.566667
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 8.2
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 9.833333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 11.466667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 11.966667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: triple_gear/gear/weird_circle_gear_60/Cloner/trio_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.00000005196362
+        inSlope: 29.817202
+        outSlope: 29.817202
+        tangentMode: 0
+      - time: 1.6333334
+        value: 49
+        inSlope: 29.798843
+        outSlope: 29.798843
+        tangentMode: 0
+      - time: 3.266667
+        value: 98
+        inSlope: 29.798956
+        outSlope: 29.790804
+        tangentMode: 0
+      - time: 4.9333334
+        value: 147.99998
+        inSlope: 29.790777
+        outSlope: 29.798979
+        tangentMode: 0
+      - time: 6.566667
+        value: -162.99997
+        inSlope: 29.798923
+        outSlope: 29.798912
+        tangentMode: 0
+      - time: 8.2
+        value: -113.99999
+        inSlope: 29.79897
+        outSlope: 29.79896
+        tangentMode: 0
+      - time: 9.833333
+        value: -65.00001
+        inSlope: 29.798862
+        outSlope: 29.7989
+        tangentMode: 0
+      - time: 11.466667
+        value: -15.999969
+        inSlope: 29.798943
+        outSlope: 29.980677
+        tangentMode: 0
+      - time: 11.966667
+        value: -0.99999994
+        inSlope: 29.974548
+        outSlope: 29.974548
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: triple_gear/gear/weird_circle_gear_60/Cloner/trio_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.6333334
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.266667
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 4.9333334
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 6.566667
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 8.2
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 9.833333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 11.466667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 11.966667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: triple_gear/gear/weird_circle_gear_60/Cloner/trio_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.6333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.266667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 4.9333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 6.566667
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 8.2
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 9.833333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 11.466667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 11.966667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: triple_gear/gear/weird_circle_gear_60/Cloner/trio_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.00000005196362
+        inSlope: 29.817202
+        outSlope: 29.817202
+        tangentMode: 0
+      - time: 1.6333334
+        value: 49
+        inSlope: 29.798843
+        outSlope: 29.798843
+        tangentMode: 0
+      - time: 3.266667
+        value: 98
+        inSlope: 29.798956
+        outSlope: 29.790804
+        tangentMode: 0
+      - time: 4.9333334
+        value: 147.99998
+        inSlope: 29.790777
+        outSlope: 29.798979
+        tangentMode: 0
+      - time: 6.566667
+        value: -162.99997
+        inSlope: 29.798923
+        outSlope: 29.798912
+        tangentMode: 0
+      - time: 8.2
+        value: -113.99999
+        inSlope: 29.79897
+        outSlope: 29.79896
+        tangentMode: 0
+      - time: 9.833333
+        value: -65.00001
+        inSlope: 29.798862
+        outSlope: 29.7989
+        tangentMode: 0
+      - time: 11.466667
+        value: -15.999969
+        inSlope: 29.798943
+        outSlope: 29.980677
+        tangentMode: 0
+      - time: 11.966667
+        value: -0.99999994
+        inSlope: 29.974548
+        outSlope: 29.974548
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: triple_gear/gear/weird_circle_gear_60/Cloner/trio_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.6333334
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.266667
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 4.9333334
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 6.566667
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 8.2
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 9.833333
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 11.466667
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 11.966667
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: triple_gear/gear/weird_circle_gear_60/Null_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.6333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.266667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 4.9333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 6.566667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 8.2
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 9.833333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 11.466667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 11.966667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: triple_gear/gear/weird_circle_gear_60/Null_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.000000012990905
+        inSlope: 7.497103
+        outSlope: 7.497103
+        tangentMode: 0
+      - time: 1.6333334
+        value: 12.25
+        inSlope: 7.4968233
+        outSlope: 7.4968233
+        tangentMode: 0
+      - time: 3.266667
+        value: 24.500002
+        inSlope: 7.4968195
+        outSlope: 7.496683
+        tangentMode: 0
+      - time: 4.9333334
+        value: 37
+        inSlope: 7.4966865
+        outSlope: 7.496822
+        tangentMode: 0
+      - time: 6.566667
+        value: 49.25
+        inSlope: 7.496878
+        outSlope: 7.4968824
+        tangentMode: 0
+      - time: 8.2
+        value: 61.499996
+        inSlope: 7.4968896
+        outSlope: 7.496887
+        tangentMode: 0
+      - time: 9.833333
+        value: 73.75
+        inSlope: 7.4968805
+        outSlope: 7.496876
+        tangentMode: 0
+      - time: 11.466667
+        value: 86.00001
+        inSlope: 7.496862
+        outSlope: 7.499771
+        tangentMode: 0
+      - time: 11.966667
+        value: 89.74999
+        inSlope: 7.4993134
+        outSlope: 7.4993134
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: triple_gear/gear/weird_circle_gear_60/Null_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: triple_gear/2nd_crank
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: triple_gear/2nd_crank
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: triple_gear/2nd_crank
+    classID: 4
+    script: {fileID: 0}
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []

@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: e075c27aa15354d4c95bfe2e1f7e0f87
+timeCreated: 1482194768
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BASE
+    100002: CINEMA_4D_Editor
+    100004: COMPUTER
+    100006: GARDEN
+    100008: //RootNode
+    100010: PAPER_DIVIDER
+    100012: PLANTER_BOX_1
+    100014: PLANTER_BOX_1_MeshPart0
+    100016: PLANTER_BOX_1_MeshPart1
+    100018: PLUG_1
+    100020: Retro_TV
+    100022: ROCK_GARDEN
+    100024: ROOM
+    100026: STONE_01
+    100028: STONE_03
+    100030: STONE_04
+    100032: TABLE
+    100034: TATAMI
+    100036: TRASHCAN
+    100038: WALL_LIGHTS
+    100040: WATER_SCULPTURE
+    400000: BASE
+    400002: CINEMA_4D_Editor
+    400004: COMPUTER
+    400006: GARDEN
+    400008: //RootNode
+    400010: PAPER_DIVIDER
+    400012: PLANTER_BOX_1
+    400014: PLANTER_BOX_1_MeshPart0
+    400016: PLANTER_BOX_1_MeshPart1
+    400018: PLUG_1
+    400020: Retro_TV
+    400022: ROCK_GARDEN
+    400024: ROOM
+    400026: STONE_01
+    400028: STONE_03
+    400030: STONE_04
+    400032: TABLE
+    400034: TATAMI
+    400036: TRASHCAN
+    400038: WALL_LIGHTS
+    400040: WATER_SCULPTURE
+    2300000: BASE
+    2300002: GARDEN
+    2300004: PAPER_DIVIDER
+    2300006: PLANTER_BOX_1_MeshPart0
+    2300008: PLANTER_BOX_1_MeshPart1
+    2300010: PLUG_1
+    2300012: Retro_TV
+    2300014: ROOM
+    2300016: STONE_01
+    2300018: STONE_03
+    2300020: STONE_04
+    2300022: TABLE
+    2300024: TATAMI
+    2300026: TRASHCAN
+    2300028: WALL_LIGHTS
+    3300000: BASE
+    3300002: GARDEN
+    3300004: PAPER_DIVIDER
+    3300006: PLANTER_BOX_1_MeshPart0
+    3300008: PLANTER_BOX_1_MeshPart1
+    3300010: PLUG_1
+    3300012: Retro_TV
+    3300014: ROOM
+    3300016: STONE_01
+    3300018: STONE_03
+    3300020: STONE_04
+    3300022: TABLE
+    3300024: TATAMI
+    3300026: TRASHCAN
+    3300028: WALL_LIGHTS
+    4300000: WALL_LIGHTS
+    4300002: PAPER_DIVIDER
+    4300004: TATAMI
+    4300006: GARDEN
+    4300008: STONE_04
+    4300010: STONE_03
+    4300012: STONE_01
+    4300014: TRASHCAN
+    4300016: PLUG_1
+    4300018: TABLE
+    4300020: Retro_TV
+    4300022: BASE
+    4300024: PLANTER_BOX_1_MeshPart0
+    4300026: PLANTER_BOX_1_MeshPart1
+    4300028: ROOM
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

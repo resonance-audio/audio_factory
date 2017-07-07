@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dd33f087743849dba9439f5cfa652c9, type: 3}
+  m_Name: Basement
+  m_EditorClassIdentifier: 
+  scenePath: Scenes/Rooms/Basement
+  roomSpecificElevatorAnimController: {fileID: 114000010638947812, guid: edd3e19540db14abe8158777ffded891,
+    type: 2}
+  maxLaserDistance: 3
+  maxReticleDistance: 9

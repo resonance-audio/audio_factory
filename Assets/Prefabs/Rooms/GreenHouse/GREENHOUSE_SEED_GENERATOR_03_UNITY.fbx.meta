@@ -1,0 +1,930 @@
+fileFormatVersion: 2
+guid: b15b7606180b7ff45b47f9621d4fd57d
+timeCreated: 1486421655
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ARM__1
+    100002: ARM__2
+    100004: ARM__3
+    100006: ARM__4
+    100008: ARM__5
+    100010: ARMS
+    100012: BASIN
+    100014: BASIN_2
+    100016: CINEMA_4D_Editor
+    100018: EXTRA_PIPES
+    100020: EXTRA_PIPES_2
+    100022: FUNNEL
+    100024: FUNNEL_2
+    100026: GENERATOR
+    100028: //RootNode
+    100030: HANDLE
+    100032: HANDLE_2
+    100034: HANDLE_3
+    100036: HANDLE_4
+    100038: JOINT
+    100040: JOINT_2
+    100042: JOINT_3
+    100044: JOINT_4
+    100046: PIPE
+    100048: PIPE_2
+    100050: PIPE_3
+    100052: PIPE_4
+    100054: PIPE_5
+    100056: PIPE_6
+    100058: PIPE_7
+    100060: PIPE_8
+    100062: RING
+    100064: RING_2
+    100066: RING_3
+    100068: RING_4
+    100070: SOURCE_A
+    100072: SOURCE_B
+    100074: SOURCE_C
+    100076: SOURCE_D
+    100078: SPIGOT_PIPES
+    100080: SPIGOT_PIPES_2
+    100082: SPIGOT_PIPES_3
+    100084: SPIGOT_PIPES_4
+    100086: SPIGOT_PIPES_A
+    100088: SPIGOT_PIPES_A_2
+    100090: SPIGOT_PIPES_A_3
+    100092: SPIGOT_PIPES_A_4
+    100094: SPIGOT_PIPES_B
+    100096: SPIGOT_PIPES_B_2
+    100098: SPIGOT_PIPES_B_3
+    100100: SPIGOT_PIPES_B_4
+    100102: FUNNEL_PIPES_1
+    100104: FUNNEL_PIPES_2
+    100106: FUNNEL_PIPES_3
+    100108: FUNNEL_PIPES_4
+    100110: HANDLE_1
+    100112: JOINT_1
+    100114: RING_1
+    100116: SOURCE_1
+    100118: SOURCE_2
+    100120: SOURCE_3
+    100122: SOURCE_4
+    100124: SPIGOT_PIPES_A_1
+    100126: SPIGOT_PIPES_B_1
+    100128: ARM_1
+    100130: ARM_2
+    100132: ARM_3
+    100134: ARM_4
+    100136: ARM_5
+    400000: ARM__1
+    400002: ARM__2
+    400004: ARM__3
+    400006: ARM__4
+    400008: ARM__5
+    400010: ARMS
+    400012: BASIN
+    400014: BASIN_2
+    400016: CINEMA_4D_Editor
+    400018: EXTRA_PIPES
+    400020: EXTRA_PIPES_2
+    400022: FUNNEL
+    400024: FUNNEL_2
+    400026: GENERATOR
+    400028: //RootNode
+    400030: HANDLE
+    400032: HANDLE_2
+    400034: HANDLE_3
+    400036: HANDLE_4
+    400038: JOINT
+    400040: JOINT_2
+    400042: JOINT_3
+    400044: JOINT_4
+    400046: PIPE
+    400048: PIPE_2
+    400050: PIPE_3
+    400052: PIPE_4
+    400054: PIPE_5
+    400056: PIPE_6
+    400058: PIPE_7
+    400060: PIPE_8
+    400062: RING
+    400064: RING_2
+    400066: RING_3
+    400068: RING_4
+    400070: SOURCE_A
+    400072: SOURCE_B
+    400074: SOURCE_C
+    400076: SOURCE_D
+    400078: SPIGOT_PIPES
+    400080: SPIGOT_PIPES_2
+    400082: SPIGOT_PIPES_3
+    400084: SPIGOT_PIPES_4
+    400086: SPIGOT_PIPES_A
+    400088: SPIGOT_PIPES_A_2
+    400090: SPIGOT_PIPES_A_3
+    400092: SPIGOT_PIPES_A_4
+    400094: SPIGOT_PIPES_B
+    400096: SPIGOT_PIPES_B_2
+    400098: SPIGOT_PIPES_B_3
+    400100: SPIGOT_PIPES_B_4
+    400102: FUNNEL_PIPES_1
+    400104: FUNNEL_PIPES_2
+    400106: FUNNEL_PIPES_3
+    400108: FUNNEL_PIPES_4
+    400110: HANDLE_1
+    400112: JOINT_1
+    400114: RING_1
+    400116: SOURCE_1
+    400118: SOURCE_2
+    400120: SOURCE_3
+    400122: SOURCE_4
+    400124: SPIGOT_PIPES_A_1
+    400126: SPIGOT_PIPES_B_1
+    400128: ARM_1
+    400130: ARM_2
+    400132: ARM_3
+    400134: ARM_4
+    400136: ARM_5
+    2300000: ARM__1
+    2300002: ARM__2
+    2300004: ARM__3
+    2300006: ARM__4
+    2300008: ARM__5
+    2300010: BASIN_2
+    2300012: EXTRA_PIPES
+    2300014: EXTRA_PIPES_2
+    2300016: FUNNEL_2
+    2300018: HANDLE
+    2300020: HANDLE_2
+    2300022: HANDLE_3
+    2300024: HANDLE_4
+    2300026: JOINT
+    2300028: JOINT_2
+    2300030: JOINT_3
+    2300032: JOINT_4
+    2300034: PIPE
+    2300036: PIPE_2
+    2300038: PIPE_3
+    2300040: PIPE_4
+    2300042: PIPE_5
+    2300044: PIPE_6
+    2300046: PIPE_7
+    2300048: PIPE_8
+    2300050: RING
+    2300052: RING_2
+    2300054: RING_3
+    2300056: RING_4
+    2300058: SPIGOT_PIPES
+    2300060: SPIGOT_PIPES_2
+    2300062: SPIGOT_PIPES_3
+    2300064: SPIGOT_PIPES_4
+    2300066: SPIGOT_PIPES_A
+    2300068: SPIGOT_PIPES_A_2
+    2300070: SPIGOT_PIPES_A_3
+    2300072: SPIGOT_PIPES_A_4
+    2300074: SPIGOT_PIPES_B
+    2300076: SPIGOT_PIPES_B_2
+    2300078: SPIGOT_PIPES_B_3
+    2300080: SPIGOT_PIPES_B_4
+    2300082: FUNNEL_PIPES_1
+    2300084: FUNNEL_PIPES_2
+    2300086: FUNNEL_PIPES_3
+    2300088: FUNNEL_PIPES_4
+    2300090: HANDLE_1
+    2300092: JOINT_1
+    2300094: RING_1
+    2300096: SPIGOT_PIPES_A_1
+    2300098: SPIGOT_PIPES_B_1
+    2300100: ARM_1
+    2300102: ARM_2
+    2300104: ARM_3
+    2300106: ARM_4
+    2300108: ARM_5
+    3300000: ARM__1
+    3300002: ARM__2
+    3300004: ARM__3
+    3300006: ARM__4
+    3300008: ARM__5
+    3300010: BASIN_2
+    3300012: EXTRA_PIPES
+    3300014: EXTRA_PIPES_2
+    3300016: FUNNEL_2
+    3300018: HANDLE
+    3300020: HANDLE_2
+    3300022: HANDLE_3
+    3300024: HANDLE_4
+    3300026: JOINT
+    3300028: JOINT_2
+    3300030: JOINT_3
+    3300032: JOINT_4
+    3300034: PIPE
+    3300036: PIPE_2
+    3300038: PIPE_3
+    3300040: PIPE_4
+    3300042: PIPE_5
+    3300044: PIPE_6
+    3300046: PIPE_7
+    3300048: PIPE_8
+    3300050: RING
+    3300052: RING_2
+    3300054: RING_3
+    3300056: RING_4
+    3300058: SPIGOT_PIPES
+    3300060: SPIGOT_PIPES_2
+    3300062: SPIGOT_PIPES_3
+    3300064: SPIGOT_PIPES_4
+    3300066: SPIGOT_PIPES_A
+    3300068: SPIGOT_PIPES_A_2
+    3300070: SPIGOT_PIPES_A_3
+    3300072: SPIGOT_PIPES_A_4
+    3300074: SPIGOT_PIPES_B
+    3300076: SPIGOT_PIPES_B_2
+    3300078: SPIGOT_PIPES_B_3
+    3300080: SPIGOT_PIPES_B_4
+    3300082: FUNNEL_PIPES_1
+    3300084: FUNNEL_PIPES_2
+    3300086: FUNNEL_PIPES_3
+    3300088: FUNNEL_PIPES_4
+    3300090: HANDLE_1
+    3300092: JOINT_1
+    3300094: RING_1
+    3300096: SPIGOT_PIPES_A_1
+    3300098: SPIGOT_PIPES_B_1
+    3300100: ARM_1
+    3300102: ARM_2
+    3300104: ARM_3
+    3300106: ARM_4
+    3300108: ARM_5
+    4300000: ARM__1
+    4300002: ARM__2
+    4300004: ARM__3
+    4300006: ARM__4
+    4300008: ARM__5
+    4300010: BASIN_2
+    4300012: EXTRA_PIPES
+    4300014: HANDLE
+    4300016: RING
+    4300018: JOINT
+    4300020: PIPE
+    4300022: HANDLE_2
+    4300024: RING_2
+    4300026: JOINT_2
+    4300028: PIPE_2
+    4300030: HANDLE_3
+    4300032: RING_3
+    4300034: JOINT_3
+    4300036: PIPE_3
+    4300038: HANDLE_4
+    4300040: RING_4
+    4300042: JOINT_4
+    4300044: PIPE_4
+    4300046: FUNNEL_2
+    4300048: EXTRA_PIPES_2
+    4300050: PIPE_5
+    4300052: PIPE_6
+    4300054: PIPE_7
+    4300056: PIPE_8
+    4300058: SPIGOT_PIPES_A
+    4300060: SPIGOT_PIPES_B
+    4300062: SPIGOT_PIPES_A_2
+    4300064: SPIGOT_PIPES_B_2
+    4300066: SPIGOT_PIPES_A_3
+    4300068: SPIGOT_PIPES_B_3
+    4300070: SPIGOT_PIPES_A_4
+    4300072: SPIGOT_PIPES_B_4
+    4300074: SPIGOT_PIPES
+    4300076: SPIGOT_PIPES_2
+    4300078: SPIGOT_PIPES_3
+    4300080: SPIGOT_PIPES_4
+    4300082: HANDLE_1
+    4300084: RING_1
+    4300086: JOINT_1
+    4300088: SPIGOT_PIPES_A_1
+    4300090: SPIGOT_PIPES_B_1
+    4300092: FUNNEL_PIPES_1
+    4300094: FUNNEL_PIPES_2
+    4300096: FUNNEL_PIPES_3
+    4300098: FUNNEL_PIPES_4
+    4300100: ARM_1
+    4300102: ARM_2
+    4300104: ARM_3
+    4300106: ARM_4
+    4300108: ARM_5
+    7400000: BuildingSeedLoop
+    7400002: ToSeedComplete
+    7400004: ToOffState
+    7400006: Off
+    7400008: SeedComplete
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: BuildingSeedLoop
+      takeName: Main
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: FUNNEL
+        weight: 1
+      - path: FUNNEL/FUNNEL_2
+        weight: 1
+      - path: FUNNEL/FUNNEL_PIPES_1
+        weight: 1
+      - path: FUNNEL/FUNNEL_PIPES_2
+        weight: 1
+      - path: FUNNEL/FUNNEL_PIPES_3
+        weight: 1
+      - path: FUNNEL/FUNNEL_PIPES_4
+        weight: 1
+      - path: GENERATOR
+        weight: 1
+      - path: GENERATOR/BASIN
+        weight: 1
+      - path: GENERATOR/BASIN/ARMS
+        weight: 1
+      - path: GENERATOR/BASIN/ARMS/ARM_1
+        weight: 1
+      - path: GENERATOR/BASIN/ARMS/ARM_2
+        weight: 1
+      - path: GENERATOR/BASIN/ARMS/ARM_3
+        weight: 1
+      - path: GENERATOR/BASIN/ARMS/ARM_4
+        weight: 1
+      - path: GENERATOR/BASIN/ARMS/ARM_5
+        weight: 1
+      - path: GENERATOR/BASIN/BASIN_2
+        weight: 1
+      - path: GENERATOR/SOURCE_1
+        weight: 1
+      - path: GENERATOR/SOURCE_1/HANDLE_1
+        weight: 1
+      - path: GENERATOR/SOURCE_1/JOINT_1
+        weight: 1
+      - path: GENERATOR/SOURCE_1/RING_1
+        weight: 1
+      - path: GENERATOR/SOURCE_1/SPIGOT_PIPES_A_1
+        weight: 1
+      - path: GENERATOR/SOURCE_1/SPIGOT_PIPES_B_1
+        weight: 1
+      - path: GENERATOR/SOURCE_2
+        weight: 1
+      - path: GENERATOR/SOURCE_2/HANDLE_2
+        weight: 1
+      - path: GENERATOR/SOURCE_2/JOINT_2
+        weight: 1
+      - path: GENERATOR/SOURCE_2/RING_2
+        weight: 1
+      - path: GENERATOR/SOURCE_2/SPIGOT_PIPES_A_2
+        weight: 1
+      - path: GENERATOR/SOURCE_2/SPIGOT_PIPES_B_2
+        weight: 1
+      - path: GENERATOR/SOURCE_3
+        weight: 1
+      - path: GENERATOR/SOURCE_3/HANDLE_3
+        weight: 1
+      - path: GENERATOR/SOURCE_3/JOINT_3
+        weight: 1
+      - path: GENERATOR/SOURCE_3/RING_3
+        weight: 1
+      - path: GENERATOR/SOURCE_3/SPIGOT_PIPES_A_3
+        weight: 1
+      - path: GENERATOR/SOURCE_3/SPIGOT_PIPES_B_3
+        weight: 1
+      - path: GENERATOR/SOURCE_4
+        weight: 1
+      - path: GENERATOR/SOURCE_4/HANDLE_4
+        weight: 1
+      - path: GENERATOR/SOURCE_4/JOINT_4
+        weight: 1
+      - path: GENERATOR/SOURCE_4/RING_4
+        weight: 1
+      - path: GENERATOR/SOURCE_4/SPIGOT_PIPES_A_4
+        weight: 1
+      - path: GENERATOR/SOURCE_4/SPIGOT_PIPES_B_4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ToSeedComplete
+      takeName: Main
+      firstFrame: 120
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: FUNNEL
+        weight: 1
+      - path: FUNNEL/FUNNEL_2
+        weight: 1
+      - path: FUNNEL/FUNNEL_PIPES_1
+        weight: 1
+      - path: FUNNEL/FUNNEL_PIPES_2
+        weight: 1
+      - path: FUNNEL/FUNNEL_PIPES_3
+        weight: 1
+      - path: FUNNEL/FUNNEL_PIPES_4
+        weight: 1
+      - path: GENERATOR
+        weight: 1
+      - path: GENERATOR/BASIN
+        weight: 1
+      - path: GENERATOR/BASIN/ARMS
+        weight: 1
+      - path: GENERATOR/BASIN/ARMS/ARM_1
+        weight: 1
+      - path: GENERATOR/BASIN/ARMS/ARM_2
+        weight: 1
+      - path: GENERATOR/BASIN/ARMS/ARM_3
+        weight: 1
+      - path: GENERATOR/BASIN/ARMS/ARM_4
+        weight: 1
+      - path: GENERATOR/BASIN/ARMS/ARM_5
+        weight: 1
+      - path: GENERATOR/BASIN/BASIN_2
+        weight: 1
+      - path: GENERATOR/SOURCE_1
+        weight: 1
+      - path: GENERATOR/SOURCE_1/HANDLE_1
+        weight: 1
+      - path: GENERATOR/SOURCE_1/JOINT_1
+        weight: 1
+      - path: GENERATOR/SOURCE_1/RING_1
+        weight: 1
+      - path: GENERATOR/SOURCE_1/SPIGOT_PIPES_A_1
+        weight: 1
+      - path: GENERATOR/SOURCE_1/SPIGOT_PIPES_B_1
+        weight: 1
+      - path: GENERATOR/SOURCE_2
+        weight: 1
+      - path: GENERATOR/SOURCE_2/HANDLE_2
+        weight: 1
+      - path: GENERATOR/SOURCE_2/JOINT_2
+        weight: 1
+      - path: GENERATOR/SOURCE_2/RING_2
+        weight: 1
+      - path: GENERATOR/SOURCE_2/SPIGOT_PIPES_A_2
+        weight: 1
+      - path: GENERATOR/SOURCE_2/SPIGOT_PIPES_B_2
+        weight: 1
+      - path: GENERATOR/SOURCE_3
+        weight: 1
+      - path: GENERATOR/SOURCE_3/HANDLE_3
+        weight: 1
+      - path: GENERATOR/SOURCE_3/JOINT_3
+        weight: 1
+      - path: GENERATOR/SOURCE_3/RING_3
+        weight: 1
+      - path: GENERATOR/SOURCE_3/SPIGOT_PIPES_A_3
+        weight: 1
+      - path: GENERATOR/SOURCE_3/SPIGOT_PIPES_B_3
+        weight: 1
+      - path: GENERATOR/SOURCE_4
+        weight: 1
+      - path: GENERATOR/SOURCE_4/HANDLE_4
+        weight: 1
+      - path: GENERATOR/SOURCE_4/JOINT_4
+        weight: 1
+      - path: GENERATOR/SOURCE_4/RING_4
+        weight: 1
+      - path: GENERATOR/SOURCE_4/SPIGOT_PIPES_A_4
+        weight: 1
+      - path: GENERATOR/SOURCE_4/SPIGOT_PIPES_B_4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ToOffState
+      takeName: Main
+      firstFrame: 260
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: FUNNEL
+        weight: 1
+      - path: FUNNEL/FUNNEL_2
+        weight: 1
+      - path: FUNNEL/FUNNEL_PIPES_1
+        weight: 1
+      - path: FUNNEL/FUNNEL_PIPES_2
+        weight: 1
+      - path: FUNNEL/FUNNEL_PIPES_3
+        weight: 1
+      - path: FUNNEL/FUNNEL_PIPES_4
+        weight: 1
+      - path: GENERATOR
+        weight: 1
+      - path: GENERATOR/BASIN
+        weight: 1
+      - path: GENERATOR/BASIN/ARMS
+        weight: 1
+      - path: GENERATOR/BASIN/ARMS/ARM_1
+        weight: 1
+      - path: GENERATOR/BASIN/ARMS/ARM_2
+        weight: 1
+      - path: GENERATOR/BASIN/ARMS/ARM_3
+        weight: 1
+      - path: GENERATOR/BASIN/ARMS/ARM_4
+        weight: 1
+      - path: GENERATOR/BASIN/ARMS/ARM_5
+        weight: 1
+      - path: GENERATOR/BASIN/BASIN_2
+        weight: 1
+      - path: GENERATOR/SOURCE_1
+        weight: 1
+      - path: GENERATOR/SOURCE_1/HANDLE_1
+        weight: 1
+      - path: GENERATOR/SOURCE_1/JOINT_1
+        weight: 1
+      - path: GENERATOR/SOURCE_1/RING_1
+        weight: 1
+      - path: GENERATOR/SOURCE_1/SPIGOT_PIPES_A_1
+        weight: 1
+      - path: GENERATOR/SOURCE_1/SPIGOT_PIPES_B_1
+        weight: 1
+      - path: GENERATOR/SOURCE_2
+        weight: 1
+      - path: GENERATOR/SOURCE_2/HANDLE_2
+        weight: 1
+      - path: GENERATOR/SOURCE_2/JOINT_2
+        weight: 1
+      - path: GENERATOR/SOURCE_2/RING_2
+        weight: 1
+      - path: GENERATOR/SOURCE_2/SPIGOT_PIPES_A_2
+        weight: 1
+      - path: GENERATOR/SOURCE_2/SPIGOT_PIPES_B_2
+        weight: 1
+      - path: GENERATOR/SOURCE_3
+        weight: 1
+      - path: GENERATOR/SOURCE_3/HANDLE_3
+        weight: 1
+      - path: GENERATOR/SOURCE_3/JOINT_3
+        weight: 1
+      - path: GENERATOR/SOURCE_3/RING_3
+        weight: 1
+      - path: GENERATOR/SOURCE_3/SPIGOT_PIPES_A_3
+        weight: 1
+      - path: GENERATOR/SOURCE_3/SPIGOT_PIPES_B_3
+        weight: 1
+      - path: GENERATOR/SOURCE_4
+        weight: 1
+      - path: GENERATOR/SOURCE_4/HANDLE_4
+        weight: 1
+      - path: GENERATOR/SOURCE_4/JOINT_4
+        weight: 1
+      - path: GENERATOR/SOURCE_4/RING_4
+        weight: 1
+      - path: GENERATOR/SOURCE_4/SPIGOT_PIPES_A_4
+        weight: 1
+      - path: GENERATOR/SOURCE_4/SPIGOT_PIPES_B_4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Off
+      takeName: Main
+      firstFrame: 299
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: FUNNEL
+        weight: 1
+      - path: FUNNEL/FUNNEL_2
+        weight: 1
+      - path: FUNNEL/FUNNEL_PIPES_1
+        weight: 1
+      - path: FUNNEL/FUNNEL_PIPES_2
+        weight: 1
+      - path: FUNNEL/FUNNEL_PIPES_3
+        weight: 1
+      - path: FUNNEL/FUNNEL_PIPES_4
+        weight: 1
+      - path: GENERATOR
+        weight: 1
+      - path: GENERATOR/BASIN
+        weight: 1
+      - path: GENERATOR/BASIN/ARMS
+        weight: 1
+      - path: GENERATOR/BASIN/ARMS/ARM_1
+        weight: 1
+      - path: GENERATOR/BASIN/ARMS/ARM_2
+        weight: 1
+      - path: GENERATOR/BASIN/ARMS/ARM_3
+        weight: 1
+      - path: GENERATOR/BASIN/ARMS/ARM_4
+        weight: 1
+      - path: GENERATOR/BASIN/ARMS/ARM_5
+        weight: 1
+      - path: GENERATOR/BASIN/BASIN_2
+        weight: 1
+      - path: GENERATOR/SOURCE_1
+        weight: 1
+      - path: GENERATOR/SOURCE_1/HANDLE_1
+        weight: 1
+      - path: GENERATOR/SOURCE_1/JOINT_1
+        weight: 1
+      - path: GENERATOR/SOURCE_1/RING_1
+        weight: 1
+      - path: GENERATOR/SOURCE_1/SPIGOT_PIPES_A_1
+        weight: 1
+      - path: GENERATOR/SOURCE_1/SPIGOT_PIPES_B_1
+        weight: 1
+      - path: GENERATOR/SOURCE_2
+        weight: 1
+      - path: GENERATOR/SOURCE_2/HANDLE_2
+        weight: 1
+      - path: GENERATOR/SOURCE_2/JOINT_2
+        weight: 1
+      - path: GENERATOR/SOURCE_2/RING_2
+        weight: 1
+      - path: GENERATOR/SOURCE_2/SPIGOT_PIPES_A_2
+        weight: 1
+      - path: GENERATOR/SOURCE_2/SPIGOT_PIPES_B_2
+        weight: 1
+      - path: GENERATOR/SOURCE_3
+        weight: 1
+      - path: GENERATOR/SOURCE_3/HANDLE_3
+        weight: 1
+      - path: GENERATOR/SOURCE_3/JOINT_3
+        weight: 1
+      - path: GENERATOR/SOURCE_3/RING_3
+        weight: 1
+      - path: GENERATOR/SOURCE_3/SPIGOT_PIPES_A_3
+        weight: 1
+      - path: GENERATOR/SOURCE_3/SPIGOT_PIPES_B_3
+        weight: 1
+      - path: GENERATOR/SOURCE_4
+        weight: 1
+      - path: GENERATOR/SOURCE_4/HANDLE_4
+        weight: 1
+      - path: GENERATOR/SOURCE_4/JOINT_4
+        weight: 1
+      - path: GENERATOR/SOURCE_4/RING_4
+        weight: 1
+      - path: GENERATOR/SOURCE_4/SPIGOT_PIPES_A_4
+        weight: 1
+      - path: GENERATOR/SOURCE_4/SPIGOT_PIPES_B_4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SeedComplete
+      takeName: Main
+      firstFrame: 140
+      lastFrame: 260
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: FUNNEL
+        weight: 1
+      - path: FUNNEL/FUNNEL_2
+        weight: 1
+      - path: FUNNEL/FUNNEL_PIPES_1
+        weight: 1
+      - path: FUNNEL/FUNNEL_PIPES_2
+        weight: 1
+      - path: FUNNEL/FUNNEL_PIPES_3
+        weight: 1
+      - path: FUNNEL/FUNNEL_PIPES_4
+        weight: 1
+      - path: GENERATOR
+        weight: 1
+      - path: GENERATOR/BASIN
+        weight: 1
+      - path: GENERATOR/BASIN/ARMS
+        weight: 1
+      - path: GENERATOR/BASIN/ARMS/ARM_1
+        weight: 1
+      - path: GENERATOR/BASIN/ARMS/ARM_2
+        weight: 1
+      - path: GENERATOR/BASIN/ARMS/ARM_3
+        weight: 1
+      - path: GENERATOR/BASIN/ARMS/ARM_4
+        weight: 1
+      - path: GENERATOR/BASIN/ARMS/ARM_5
+        weight: 1
+      - path: GENERATOR/BASIN/BASIN_2
+        weight: 1
+      - path: GENERATOR/SOURCE_1
+        weight: 1
+      - path: GENERATOR/SOURCE_1/HANDLE_1
+        weight: 1
+      - path: GENERATOR/SOURCE_1/JOINT_1
+        weight: 1
+      - path: GENERATOR/SOURCE_1/RING_1
+        weight: 1
+      - path: GENERATOR/SOURCE_1/SPIGOT_PIPES_A_1
+        weight: 1
+      - path: GENERATOR/SOURCE_1/SPIGOT_PIPES_B_1
+        weight: 1
+      - path: GENERATOR/SOURCE_2
+        weight: 1
+      - path: GENERATOR/SOURCE_2/HANDLE_2
+        weight: 1
+      - path: GENERATOR/SOURCE_2/JOINT_2
+        weight: 1
+      - path: GENERATOR/SOURCE_2/RING_2
+        weight: 1
+      - path: GENERATOR/SOURCE_2/SPIGOT_PIPES_A_2
+        weight: 1
+      - path: GENERATOR/SOURCE_2/SPIGOT_PIPES_B_2
+        weight: 1
+      - path: GENERATOR/SOURCE_3
+        weight: 1
+      - path: GENERATOR/SOURCE_3/HANDLE_3
+        weight: 1
+      - path: GENERATOR/SOURCE_3/JOINT_3
+        weight: 1
+      - path: GENERATOR/SOURCE_3/RING_3
+        weight: 1
+      - path: GENERATOR/SOURCE_3/SPIGOT_PIPES_A_3
+        weight: 1
+      - path: GENERATOR/SOURCE_3/SPIGOT_PIPES_B_3
+        weight: 1
+      - path: GENERATOR/SOURCE_4
+        weight: 1
+      - path: GENERATOR/SOURCE_4/HANDLE_4
+        weight: 1
+      - path: GENERATOR/SOURCE_4/JOINT_4
+        weight: 1
+      - path: GENERATOR/SOURCE_4/RING_4
+        weight: 1
+      - path: GENERATOR/SOURCE_4/SPIGOT_PIPES_A_4
+        weight: 1
+      - path: GENERATOR/SOURCE_4/SPIGOT_PIPES_B_4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

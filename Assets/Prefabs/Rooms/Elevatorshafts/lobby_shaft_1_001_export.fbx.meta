@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 113e3ac80a576414fbaae47f353f33a9
+timeCreated: 1485897353
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 9m
+    100002: big_rings
+    100004: brackets
+    100006: brackets_2
+    100008: CINEMA_4D_Editor
+    100010: inside_rings_rings
+    100012: //RootNode
+    100014: pipes_1
+    100016: screws_2
+    100018: shaft_booles
+    100020: smaller_rings_1
+    100022: wall_tracks_1
+    100024: light_1_1
+    100026: light_2_1
+    100028: light_3_1
+    100030: light_4_1
+    100032: light_ring_1
+    100034: light_ring_2
+    100036: light_ring_3
+    100038: light_ring_4
+    100040: lights
+    100042: lobby_shaft
+    100044: light_1
+    100046: light_2
+    100048: light_3
+    100050: light_4
+    100052: braces
+    100054: Cables
+    100056: CINEMA_4D_Editor_2
+    100058: light_braces_1
+    400000: 9m
+    400002: big_rings
+    400004: brackets
+    400006: brackets_2
+    400008: CINEMA_4D_Editor
+    400010: inside_rings_rings
+    400012: //RootNode
+    400014: pipes_1
+    400016: screws_2
+    400018: shaft_booles
+    400020: smaller_rings_1
+    400022: wall_tracks_1
+    400024: light_1_1
+    400026: light_2_1
+    400028: light_3_1
+    400030: light_4_1
+    400032: light_ring_1
+    400034: light_ring_2
+    400036: light_ring_3
+    400038: light_ring_4
+    400040: lights
+    400042: lobby_shaft
+    400044: light_1
+    400046: light_2
+    400048: light_3
+    400050: light_4
+    400052: braces
+    400054: Cables
+    400056: CINEMA_4D_Editor_2
+    400058: light_braces_1
+    2300000: big_rings
+    2300002: brackets
+    2300004: brackets_2
+    2300006: inside_rings_rings
+    2300008: pipes_1
+    2300010: screws_2
+    2300012: shaft_booles
+    2300014: smaller_rings_1
+    2300016: wall_tracks_1
+    2300018: light_1_1
+    2300020: light_2_1
+    2300022: light_3_1
+    2300024: light_4_1
+    2300026: light_1
+    2300028: light_2
+    2300030: light_3
+    2300032: light_4
+    2300034: braces
+    2300036: Cables
+    2300038: light_braces_1
+    3300000: big_rings
+    3300002: brackets
+    3300004: brackets_2
+    3300006: inside_rings_rings
+    3300008: pipes_1
+    3300010: screws_2
+    3300012: shaft_booles
+    3300014: smaller_rings_1
+    3300016: wall_tracks_1
+    3300018: light_1_1
+    3300020: light_2_1
+    3300022: light_3_1
+    3300024: light_4_1
+    3300026: light_1
+    3300028: light_2
+    3300030: light_3
+    3300032: light_4
+    3300034: braces
+    3300036: Cables
+    3300038: light_braces_1
+    4300000: big_rings
+    4300002: smaller_rings_1
+    4300004: screws_2
+    4300006: brackets
+    4300008: wall_tracks_1
+    4300010: inside_rings_rings
+    4300012: pipes_1
+    4300014: brackets_2
+    4300016: shaft_booles
+    4300018: light_1_1
+    4300020: light_2_1
+    4300022: light_3_1
+    4300024: light_4_1
+    4300026: light_1
+    4300028: light_2
+    4300030: light_3
+    4300032: light_4
+    4300034: braces
+    4300036: light_braces_1
+    4300038: Cables
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

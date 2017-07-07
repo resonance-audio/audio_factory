@@ -1,0 +1,593 @@
+fileFormatVersion: 2
+guid: f59cdacaf3930432fb9af6cb50ecae0c
+timeCreated: 1487810967
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 1_2
+    100002: 1_2_1
+    100004: 1_2_2
+    100006: 1_2_3
+    100008: 1_4_new
+    100010: 1_4_new_1
+    100012: 1_4_new_2
+    100014: 1_4_new_2_2
+    100016: big_gear_solo
+    100018: //RootNode
+    100020: BOTTOM
+    100022: bottom_pumper
+    100024: bottom_pumper_1
+    100026: bottom_pumper_1_2
+    100028: braces
+    100030: CENTER_COLUMN
+    100032: CINEMA_4D_Editor
+    100034: connector
+    100036: connector_2
+    100038: Cube
+    100040: Cylinder
+    100042: Cylinder_1
+    100044: Cylinder_10
+    100046: Cylinder_1_2
+    100048: Cylinder_1_3
+    100050: Cylinder_1_4
+    100052: Cylinder_1_5
+    100054: Cylinder_2
+    100056: Cylinder_3
+    100058: Cylinder_4
+    100060: Cylinder_4_2
+    100062: Cylinder_5
+    100064: Cylinder_6
+    100066: Cylinder_6_2
+    100068: Cylinder_6_3
+    100070: Cylinder_7
+    100072: Cylinder_8
+    100074: Cylinder_9
+    100076: leftside
+    100078: MED_01
+    100080: MED_01_2
+    100082: MED_01_3
+    100084: MED_01_Instance
+    100086: MED_01_Instance_2
+    100088: MED_02
+    100090: MED_02_Instance
+    100092: MED_02_Instance_2
+    100094: NitroBake_1
+    100096: NitroBake_1_2
+    100098: NitroBake_1_3
+    100100: NitroBake_7
+    100102: Null
+    100104: Null_2
+    100106: Null_3
+    100108: PLATFORM
+    100110: plunger
+    100112: pumper_side
+    100114: pumper_side_1
+    100116: pumper_side_1_2
+    100118: pumper_side_rotate
+    100120: pumper_side_rotate_2
+    100122: pumper_side_rotate_3
+    100124: SMALL_01
+    100126: SMALL_01_2
+    100128: SMALL_01_3
+    100130: SMALL_01_4
+    100132: SMALL_01_5
+    100134: SMALL_01_6
+    100136: SMALL_01_7
+    100138: SMALL_01_Instance
+    100140: SMALL_01_Instance_2
+    100142: SMALL_01_Instance_3
+    100144: SMALL_01_Instance_4
+    100146: SMALL_02
+    100148: SMALL_02_2
+    100150: SMALL_02_3
+    100152: SMALL_02_4
+    100154: SMALL_02_5
+    100156: SMALL_02_Instance
+    100158: SMALL_02_Instance_2
+    100160: Sweep
+    100162: Sweep_2
+    100164: Sweep_2_2
+    100166: Tube
+    100168: upanddown
+    100170: xtra_big_gear
+    100172: xtra_big_gear_add
+    400000: 1_2
+    400002: 1_2_1
+    400004: 1_2_2
+    400006: 1_2_3
+    400008: 1_4_new
+    400010: 1_4_new_1
+    400012: 1_4_new_2
+    400014: 1_4_new_2_2
+    400016: big_gear_solo
+    400018: //RootNode
+    400020: BOTTOM
+    400022: bottom_pumper
+    400024: bottom_pumper_1
+    400026: bottom_pumper_1_2
+    400028: braces
+    400030: CENTER_COLUMN
+    400032: CINEMA_4D_Editor
+    400034: connector
+    400036: connector_2
+    400038: Cube
+    400040: Cylinder
+    400042: Cylinder_1
+    400044: Cylinder_10
+    400046: Cylinder_1_2
+    400048: Cylinder_1_3
+    400050: Cylinder_1_4
+    400052: Cylinder_1_5
+    400054: Cylinder_2
+    400056: Cylinder_3
+    400058: Cylinder_4
+    400060: Cylinder_4_2
+    400062: Cylinder_5
+    400064: Cylinder_6
+    400066: Cylinder_6_2
+    400068: Cylinder_6_3
+    400070: Cylinder_7
+    400072: Cylinder_8
+    400074: Cylinder_9
+    400076: leftside
+    400078: MED_01
+    400080: MED_01_2
+    400082: MED_01_3
+    400084: MED_01_Instance
+    400086: MED_01_Instance_2
+    400088: MED_02
+    400090: MED_02_Instance
+    400092: MED_02_Instance_2
+    400094: NitroBake_1
+    400096: NitroBake_1_2
+    400098: NitroBake_1_3
+    400100: NitroBake_7
+    400102: Null
+    400104: Null_2
+    400106: Null_3
+    400108: PLATFORM
+    400110: plunger
+    400112: pumper_side
+    400114: pumper_side_1
+    400116: pumper_side_1_2
+    400118: pumper_side_rotate
+    400120: pumper_side_rotate_2
+    400122: pumper_side_rotate_3
+    400124: SMALL_01
+    400126: SMALL_01_2
+    400128: SMALL_01_3
+    400130: SMALL_01_4
+    400132: SMALL_01_5
+    400134: SMALL_01_6
+    400136: SMALL_01_7
+    400138: SMALL_01_Instance
+    400140: SMALL_01_Instance_2
+    400142: SMALL_01_Instance_3
+    400144: SMALL_01_Instance_4
+    400146: SMALL_02
+    400148: SMALL_02_2
+    400150: SMALL_02_3
+    400152: SMALL_02_4
+    400154: SMALL_02_5
+    400156: SMALL_02_Instance
+    400158: SMALL_02_Instance_2
+    400160: Sweep
+    400162: Sweep_2
+    400164: Sweep_2_2
+    400166: Tube
+    400168: upanddown
+    400170: xtra_big_gear
+    400172: xtra_big_gear_add
+    2300000: 1_2_1
+    2300002: 1_4_new
+    2300004: 1_4_new_1
+    2300006: 1_4_new_2
+    2300008: 1_4_new_2_2
+    2300010: bottom_pumper_1
+    2300012: bottom_pumper_1_2
+    2300014: braces
+    2300016: connector_2
+    2300018: Cube
+    2300020: Cylinder
+    2300022: Cylinder_1
+    2300024: Cylinder_10
+    2300026: Cylinder_1_2
+    2300028: Cylinder_1_3
+    2300030: Cylinder_1_4
+    2300032: Cylinder_1_5
+    2300034: Cylinder_2
+    2300036: Cylinder_3
+    2300038: Cylinder_4
+    2300040: Cylinder_4_2
+    2300042: Cylinder_5
+    2300044: Cylinder_6
+    2300046: Cylinder_6_2
+    2300048: Cylinder_6_3
+    2300050: Cylinder_7
+    2300052: Cylinder_8
+    2300054: Cylinder_9
+    2300056: MED_01
+    2300058: MED_01_2
+    2300060: MED_02_Instance
+    2300062: MED_02_Instance_2
+    2300064: Null
+    2300066: Null_2
+    2300068: PLATFORM
+    2300070: plunger
+    2300072: SMALL_01_Instance
+    2300074: SMALL_01_Instance_2
+    2300076: SMALL_01_Instance_3
+    2300078: SMALL_01_Instance_4
+    2300080: SMALL_02
+    2300082: SMALL_02_2
+    2300084: SMALL_02_3
+    2300086: SMALL_02_4
+    2300088: Sweep
+    2300090: Sweep_2
+    2300092: Sweep_2_2
+    2300094: Tube
+    3300000: 1_2_1
+    3300002: 1_4_new
+    3300004: 1_4_new_1
+    3300006: 1_4_new_2
+    3300008: 1_4_new_2_2
+    3300010: bottom_pumper_1
+    3300012: bottom_pumper_1_2
+    3300014: braces
+    3300016: connector_2
+    3300018: Cube
+    3300020: Cylinder
+    3300022: Cylinder_1
+    3300024: Cylinder_10
+    3300026: Cylinder_1_2
+    3300028: Cylinder_1_3
+    3300030: Cylinder_1_4
+    3300032: Cylinder_1_5
+    3300034: Cylinder_2
+    3300036: Cylinder_3
+    3300038: Cylinder_4
+    3300040: Cylinder_4_2
+    3300042: Cylinder_5
+    3300044: Cylinder_6
+    3300046: Cylinder_6_2
+    3300048: Cylinder_6_3
+    3300050: Cylinder_7
+    3300052: Cylinder_8
+    3300054: Cylinder_9
+    3300056: MED_01
+    3300058: MED_01_2
+    3300060: MED_02_Instance
+    3300062: MED_02_Instance_2
+    3300064: Null
+    3300066: Null_2
+    3300068: PLATFORM
+    3300070: plunger
+    3300072: SMALL_01_Instance
+    3300074: SMALL_01_Instance_2
+    3300076: SMALL_01_Instance_3
+    3300078: SMALL_01_Instance_4
+    3300080: SMALL_02
+    3300082: SMALL_02_2
+    3300084: SMALL_02_3
+    3300086: SMALL_02_4
+    3300088: Sweep
+    3300090: Sweep_2
+    3300092: Sweep_2_2
+    3300094: Tube
+    4300000: plunger
+    4300002: bottom_pumper_1
+    4300004: Null
+    4300006: Cylinder_6
+    4300008: Sweep_2
+    4300010: connector_2
+    4300012: Tube
+    4300014: Null_2
+    4300016: 1_4_new
+    4300018: Cylinder_1
+    4300020: Cylinder
+    4300022: 1_4_new_2
+    4300024: Cylinder_1_2
+    4300026: Cylinder_2
+    4300028: 1_4_new_1
+    4300030: Cylinder_1_3
+    4300032: Cylinder_3
+    4300034: SMALL_02
+    4300036: PLATFORM
+    4300038: Sweep_2_2
+    4300040: Cylinder_4
+    4300042: Cylinder_6_2
+    4300044: bottom_pumper_1_2
+    4300046: Sweep
+    4300048: Cube
+    4300050: Cylinder_1_4
+    4300052: 1_2_1
+    4300054: 1_4_new_2_2
+    4300056: Cylinder_1_5
+    4300058: braces
+    4300060: MED_02_Instance
+    4300062: SMALL_01_Instance
+    4300064: Cylinder_4_2
+    4300066: MED_01
+    4300068: SMALL_01_Instance_2
+    4300070: SMALL_02_2
+    4300072: Cylinder_5
+    4300074: SMALL_02_3
+    4300076: MED_02_Instance_2
+    4300078: Cylinder_6_3
+    4300080: SMALL_01_Instance_3
+    4300082: Cylinder_7
+    4300084: MED_01_2
+    4300086: Cylinder_8
+    4300088: SMALL_01_Instance_4
+    4300090: Cylinder_9
+    4300092: SMALL_02_4
+    4300094: Cylinder_10
+    7400000: CINEMA_4D_Main
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: CINEMA_4D_Main
+      takeName: CINEMA_4D_Main
+      firstFrame: 1
+      lastFrame: 360
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: big_gear_solo
+        weight: 1
+      - path: big_gear_solo/NitroBake_1
+        weight: 1
+      - path: big_gear_solo/NitroBake_1/plunger
+        weight: 1
+      - path: big_gear_solo/SMALL_02
+        weight: 1
+      - path: big_gear_solo/SMALL_02/PLATFORM
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/BOTTOM
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/BOTTOM/MED_01_Instance_2
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/BOTTOM/MED_01_Instance_2/MED_01_2
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/BOTTOM/MED_01_Instance_2/MED_01_2/MED_01_3
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/BOTTOM/MED_01_Instance_2/MED_01_2/MED_01_3/Cylinder_8
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/BOTTOM/MED_02_Instance_2
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/BOTTOM/MED_02_Instance_2/MED_02
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/BOTTOM/MED_02_Instance_2/MED_02/Cylinder_6_3
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/BOTTOM/SMALL_01_4
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/BOTTOM/SMALL_01_4/SMALL_01_Instance_3
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/BOTTOM/SMALL_01_4/SMALL_01_Instance_3/SMALL_01_5
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/BOTTOM/SMALL_01_4/SMALL_01_Instance_3/SMALL_01_5/Cylinder_7
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/BOTTOM/SMALL_01_6
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/BOTTOM/SMALL_01_6/SMALL_01_Instance_4
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/BOTTOM/SMALL_01_6/SMALL_01_Instance_4/SMALL_01_7
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/BOTTOM/SMALL_01_6/SMALL_01_Instance_4/SMALL_01_7/Cylinder_9
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/BOTTOM/SMALL_02_Instance_2
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/BOTTOM/SMALL_02_Instance_2/SMALL_02_4
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/BOTTOM/SMALL_02_Instance_2/SMALL_02_4/SMALL_02_5
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/BOTTOM/SMALL_02_Instance_2/SMALL_02_4/SMALL_02_5/Cylinder_10
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/braces
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/CENTER_COLUMN
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/CENTER_COLUMN/1_4_new_2_2
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/CENTER_COLUMN/Cylinder_1_5
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/CENTER_COLUMN/pumper_side_1_2
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/CENTER_COLUMN/pumper_side_1_2/bottom_pumper_1_2
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/CENTER_COLUMN/pumper_side_1_2/NitroBake_1_3
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/CENTER_COLUMN/pumper_side_1_2/NitroBake_1_3/Sweep_2_2
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/CENTER_COLUMN/pumper_side_1_2/NitroBake_7
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/CENTER_COLUMN/pumper_side_1_2/NitroBake_7/Cylinder_4
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/CENTER_COLUMN/pumper_side_1_2/NitroBake_7/Cylinder_4/Cylinder_6_2
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/CENTER_COLUMN/pumper_side_1_2/pumper_side_rotate_3
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/CENTER_COLUMN/pumper_side_1_2/pumper_side_rotate_3/1_2_1
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/CENTER_COLUMN/pumper_side_1_2/pumper_side_rotate_3/Null_3
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/CENTER_COLUMN/pumper_side_1_2/pumper_side_rotate_3/Null_3/Sweep
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/CENTER_COLUMN/pumper_side_1_2/pumper_side_rotate_3/Null_3/Sweep/leftside
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/CENTER_COLUMN/pumper_side_1_2/pumper_side_rotate_3/Null_3/Sweep/leftside/Cube
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/CENTER_COLUMN/pumper_side_1_2/pumper_side_rotate_3/Null_3/Sweep/leftside/Cube/Cylinder_1_4
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/MED_01_Instance
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/MED_01_Instance/MED_01
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/MED_02_Instance
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/SMALL_01
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/SMALL_01/SMALL_01_Instance
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/SMALL_01/SMALL_01_Instance/SMALL_01_2
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/SMALL_01/SMALL_01_Instance/SMALL_01_2/Cylinder_4_2
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/SMALL_01_3
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/SMALL_01_3/SMALL_01_Instance_2
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/SMALL_02_3
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/SMALL_02_Instance
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/SMALL_02_Instance/SMALL_02_2
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear/SMALL_02_Instance/SMALL_02_2/Cylinder_5
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear_add
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear_add/1_4_new
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear_add/1_4_new/1_2
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear_add/1_4_new/1_2/Cylinder
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear_add/1_4_new/1_2/Cylinder_1
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear_add/1_4_new_1
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear_add/1_4_new_1/1_2_3
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear_add/1_4_new_1/1_2_3/Cylinder_1_3
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear_add/1_4_new_1/1_2_3/Cylinder_3
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear_add/1_4_new_2
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear_add/1_4_new_2/1_2_2
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear_add/1_4_new_2/1_2_2/Cylinder_1_2
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear_add/1_4_new_2/1_2_2/Cylinder_2
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear_add/connector
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear_add/connector/connector_2
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear_add/NitroBake_1_2
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear_add/NitroBake_1_2/Sweep_2
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear_add/pumper_side
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear_add/pumper_side/bottom_pumper_1
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear_add/pumper_side/pumper_side_rotate
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear_add/pumper_side/pumper_side_rotate/Null
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear_add/pumper_side_1
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear_add/pumper_side_1/bottom_pumper
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear_add/pumper_side_1/bottom_pumper/Tube
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear_add/pumper_side_1/pumper_side_rotate_2
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear_add/pumper_side_1/pumper_side_rotate_2/Null_2
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear_add/upanddown
+        weight: 1
+      - path: big_gear_solo/xtra_big_gear_add/upanddown/Cylinder_6
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

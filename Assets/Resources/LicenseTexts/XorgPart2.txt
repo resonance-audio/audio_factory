@@ -1,0 +1,240 @@
+
+Copyright 1990, 1991 by OMRON Corporation
+
+Permission to use, copy, modify, distribute, and sell this software and its
+documentation for any purpose is hereby granted without fee, provided that
+the above copyright notice appear in all copies and that both that
+copyright notice and this permission notice appear in supporting
+documentation, and that the name OMRON not be used in
+advertising or publicity pertaining to distribution of the software without
+specific, written prior permission.  OMRON makes no representations
+about the suitability of this software for any purpose.  It is provided
+"as is" without express or implied warranty.
+
+OMRON DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE,
+INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS, IN NO
+EVENT SHALL OMRON BE LIABLE FOR ANY SPECIAL, INDIRECT OR
+CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE,
+DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER
+TORTUOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+PERFORMANCE OF THIS SOFTWARE.
+
+		----------------------------------------
+
+Copyright 1985, 1986, 1987, 1988, 1989, 1990, 1991 by
+Digital Equipment Corporation
+
+Portions Copyright 1990, 1991 by Tektronix, Inc
+
+Rewritten for X.org by Chris Lee <clee@freedesktop.org>
+
+Permission to use, copy, modify, distribute, and sell this documentation
+for any purpose and without fee is hereby granted, provided that the above
+copyright notice and this permission notice appear in all copies.
+Chris Lee makes no representations about the suitability for any purpose
+of the information in this document.  It is provided \`\`as-is'' without
+express or implied warranty.
+
+		----------------------------------------
+
+Copyright 1993 by Digital Equipment Corporation, Maynard, Massachusetts,
+Copyright 1994 by FUJITSU LIMITED
+Copyright 1994 by Sony Corporation
+
+                        All Rights Reserved
+
+Permission to use, copy, modify, and distribute this software and its
+documentation for any purpose and without fee is hereby granted,
+provided that the above copyright notice appear in all copies and that
+both that copyright notice and this permission notice appear in
+supporting documentation, and that the names of Digital, FUJITSU
+LIMITED and Sony Corporation not be used in advertising or publicity
+pertaining to distribution of the software without specific, written
+prior permission.
+
+DIGITAL, FUJITSU LIMITED AND SONY CORPORATION DISCLAIMS ALL WARRANTIES
+WITH REGARD TO THIS SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS, IN NO EVENT SHALL DIGITAL, FUJITSU LIMITED
+AND SONY CORPORATION BE LIABLE FOR ANY SPECIAL, INDIRECT OR
+CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF
+USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+PERFORMANCE OF THIS SOFTWARE.
+
+		----------------------------------------
+
+
+Copyright 1991 by the Open Software Foundation
+
+Permission to use, copy, modify, distribute, and sell this software and its
+documentation for any purpose is hereby granted without fee, provided that
+the above copyright notice appear in all copies and that both that
+copyright notice and this permission notice appear in supporting
+documentation, and that the name of Open Software Foundation
+not be used in advertising or publicity pertaining to distribution of the
+software without specific, written prior permission.  Open Software
+Foundation makes no representations about the suitability of this
+software for any purpose.  It is provided "as is" without express or
+implied warranty.
+
+OPEN SOFTWARE FOUNDATION DISCLAIMS ALL WARRANTIES WITH REGARD TO
+THIS SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND
+FITNESS, IN NO EVENT SHALL OPEN SOFTWARE FOUNDATIONN BE
+LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+		----------------------------------------
+
+Copyright 1990, 1991, 1992,1993, 1994 by FUJITSU LIMITED
+Copyright 1993, 1994                  by Sony Corporation
+
+Permission to use, copy, modify, distribute, and sell this software and
+its documentation for any purpose is hereby granted without fee, provided
+that the above copyright notice appear in all copies and that both that
+copyright notice and this permission notice appear in supporting
+documentation, and that the name of FUJITSU LIMITED and Sony Corporation
+not be used in advertising or publicity pertaining to distribution of the
+software without specific, written prior permission.  FUJITSU LIMITED and
+Sony Corporation makes no representations about the suitability of this
+software for any purpose.  It is provided "as is" without express or
+implied warranty.
+
+FUJITSU LIMITED AND SONY CORPORATION DISCLAIMS ALL WARRANTIES WITH REGARD
+TO THIS SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND
+FITNESS, IN NO EVENT SHALL FUJITSU LIMITED OR SONY CORPORATION BE LIABLE
+FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER
+RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT,
+NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE
+USE OR PERFORMANCE OF THIS SOFTWARE.
+
+		----------------------------------------
+
+Copyright (c) 1993, 1995 by Silicon Graphics Computer Systems, Inc.
+
+Permission to use, copy, modify, and distribute this
+software and its documentation for any purpose and without
+fee is hereby granted, provided that the above copyright
+notice appear in all copies and that both that copyright
+notice and this permission notice appear in supporting
+documentation, and that the name of Silicon Graphics not be
+used in advertising or publicity pertaining to distribution
+of the software without specific prior written permission.
+Silicon Graphics makes no representation about the suitability
+of this software for any purpose. It is provided "as is"
+without any express or implied warranty.
+
+SILICON GRAPHICS DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS
+SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+AND FITNESS FOR A PARTICULAR PURPOSE. IN NO EVENT SHALL SILICON
+GRAPHICS BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL
+DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE,
+DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE
+OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION  WITH
+THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+		----------------------------------------
+
+Copyright 1991, 1992, 1993, 1994 by FUJITSU LIMITED
+Copyright 1993 by Digital Equipment Corporation
+
+Permission to use, copy, modify, distribute, and sell this software
+and its documentation for any purpose is hereby granted without fee,
+provided that the above copyright notice appear in all copies and that
+both that copyright notice and this permission notice appear in
+supporting documentation, and that the name of FUJITSU LIMITED and
+Digital Equipment Corporation not be used in advertising or publicity
+pertaining to distribution of the software without specific, written
+prior permission.  FUJITSU LIMITED and Digital Equipment Corporation
+makes no representations about the suitability of this software for
+any purpose.  It is provided "as is" without express or implied
+warranty.
+
+FUJITSU LIMITED AND DIGITAL EQUIPMENT CORPORATION DISCLAIM ALL
+WARRANTIES WITH REGARD TO THIS SOFTWARE, INCLUDING ALL IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS, IN NO EVENT SHALL
+FUJITSU LIMITED AND DIGITAL EQUIPMENT CORPORATION BE LIABLE FOR
+ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER
+IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION,
+ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF
+THIS SOFTWARE.
+
+		----------------------------------------
+
+Copyright 1992, 1993 by FUJITSU LIMITED
+Copyright 1993 by Fujitsu Open Systems Solutions, Inc.
+Copyright 1994 by Sony Corporation
+
+Permission to use, copy, modify, distribute and sell this software
+and its documentation for any purpose is hereby granted without fee,
+provided that the above copyright notice appear in all copies and
+that both that copyright notice and this permission notice appear
+in supporting documentation, and that the name of FUJITSU LIMITED,
+Fujitsu Open Systems Solutions, Inc. and Sony Corporation  not be
+used in advertising or publicity pertaining to distribution of the
+software without specific, written prior permission.
+FUJITSU LIMITED, Fujitsu Open Systems Solutions, Inc. and
+Sony Corporation make no representations about the suitability of
+this software for any purpose.  It is provided "as is" without
+express or implied warranty.
+
+FUJITSU LIMITED, FUJITSU OPEN SYSTEMS SOLUTIONS, INC. AND SONY
+CORPORATION DISCLAIM ALL WARRANTIES WITH REGARD TO THIS SOFTWARE,
+INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS,
+IN NO EVENT SHALL FUJITSU OPEN SYSTEMS SOLUTIONS, INC., FUJITSU LIMITED
+AND SONY CORPORATION BE LIABLE FOR ANY SPECIAL, INDIRECT OR
+CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS
+OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE
+OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE
+OR PERFORMANCE OF THIS SOFTWARE.
+
+		----------------------------------------
+
+Copyright 1987, 1988, 1990, 1993 by Digital Equipment Corporation,
+Maynard, Massachusetts,
+
+                        All Rights Reserved
+
+Permission to use, copy, modify, and distribute this software and its
+documentation for any purpose and without fee is hereby granted,
+provided that the above copyright notice appear in all copies and that
+both that copyright notice and this permission notice appear in
+supporting documentation, and that the name of Digital not be
+used in advertising or publicity pertaining to distribution of the
+software without specific, written prior permission.
+
+DIGITAL DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE, INCLUDING
+ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS, IN NO EVENT SHALL
+DIGITAL BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR
+ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS,
+WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION,
+ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS
+SOFTWARE.
+
+		----------------------------------------
+
+Copyright 1993 by SunSoft, Inc.
+Copyright 1999-2000 by Bruno Haible
+
+Permission to use, copy, modify, distribute, and sell this software
+and its documentation for any purpose is hereby granted without fee,
+provided that the above copyright notice appear in all copies and
+that both that copyright notice and this permission notice appear
+in supporting documentation, and that the names of SunSoft, Inc. and
+Bruno Haible not be used in advertising or publicity pertaining to
+distribution of the software without specific, written prior
+permission.  SunSoft, Inc. and Bruno Haible make no representations
+about the suitability of this software for any purpose.  It is
+provided "as is" without express or implied warranty.
+
+SunSoft Inc. AND Bruno Haible DISCLAIM ALL WARRANTIES WITH REGARD
+TO THIS SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+AND FITNESS, IN NO EVENT SHALL SunSoft, Inc. OR Bruno Haible BE LIABLE
+FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT
+OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+		----------------------------------------

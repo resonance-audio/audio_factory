@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 94e5ccde4fb594bcdafd88038c833687
+timeCreated: 1487372955
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BAMBOO_01
+    100002: BAMBOO_01_1
+    100004: BAMBOO_01_2
+    100006: BAMBOO_01_2_2
+    100008: BAMBOO_01_3
+    100010: BAMBOO_01_3_2
+    100012: BAMBOO_01_4
+    100014: BAMBOO_01_5
+    100016: BRANCH_01_1
+    100018: BRANCH_01_1_2
+    100020: BRANCH_01_1_3
+    100022: BRANCH_01_1_4
+    100024: BRANCH_01_2
+    100026: BRANCH_01_2_2
+    100028: BRANCH_01_2_3
+    100030: BRANCH_01_2_4
+    100032: BRANCH_02_1
+    100034: BRANCH_02_1_2
+    100036: BRANCH_02_1_3
+    100038: BRANCH_02_1_4
+    100040: BRANCH_02_2
+    100042: BRANCH_02_2_2
+    100044: CINEMA_4D_Editor
+    100046: //RootNode
+    100048: GREENHOUSE_INSTRUMENT_1
+    100050: MONSTERA_02
+    100052: MONSTERA_LAIF
+    100054: MONSTERA_LAIF_2
+    100056: MONSTERA_LAIF_3
+    100058: MONSTERA_LAIF_4
+    100060: PIPES_1
+    100062: STEMS
+    400000: BAMBOO_01
+    400002: BAMBOO_01_1
+    400004: BAMBOO_01_2
+    400006: BAMBOO_01_2_2
+    400008: BAMBOO_01_3
+    400010: BAMBOO_01_3_2
+    400012: BAMBOO_01_4
+    400014: BAMBOO_01_5
+    400016: BRANCH_01_1
+    400018: BRANCH_01_1_2
+    400020: BRANCH_01_1_3
+    400022: BRANCH_01_1_4
+    400024: BRANCH_01_2
+    400026: BRANCH_01_2_2
+    400028: BRANCH_01_2_3
+    400030: BRANCH_01_2_4
+    400032: BRANCH_02_1
+    400034: BRANCH_02_1_2
+    400036: BRANCH_02_1_3
+    400038: BRANCH_02_1_4
+    400040: BRANCH_02_2
+    400042: BRANCH_02_2_2
+    400044: CINEMA_4D_Editor
+    400046: //RootNode
+    400048: GREENHOUSE_INSTRUMENT_1
+    400050: MONSTERA_02
+    400052: MONSTERA_LAIF
+    400054: MONSTERA_LAIF_2
+    400056: MONSTERA_LAIF_3
+    400058: MONSTERA_LAIF_4
+    400060: PIPES_1
+    400062: STEMS
+    2300000: BAMBOO_01_2
+    2300002: BAMBOO_01_3
+    2300004: BAMBOO_01_4
+    2300006: BAMBOO_01_5
+    2300008: BRANCH_01_1
+    2300010: BRANCH_01_1_2
+    2300012: BRANCH_01_1_3
+    2300014: BRANCH_01_1_4
+    2300016: BRANCH_01_2
+    2300018: BRANCH_01_2_2
+    2300020: BRANCH_01_2_3
+    2300022: BRANCH_01_2_4
+    2300024: BRANCH_02_1
+    2300026: BRANCH_02_1_2
+    2300028: BRANCH_02_1_3
+    2300030: BRANCH_02_1_4
+    2300032: BRANCH_02_2
+    2300034: BRANCH_02_2_2
+    2300036: MONSTERA_LAIF
+    2300038: MONSTERA_LAIF_2
+    2300040: MONSTERA_LAIF_3
+    2300042: MONSTERA_LAIF_4
+    2300044: PIPES_1
+    2300046: STEMS
+    3300000: BAMBOO_01_2
+    3300002: BAMBOO_01_3
+    3300004: BAMBOO_01_4
+    3300006: BAMBOO_01_5
+    3300008: BRANCH_01_1
+    3300010: BRANCH_01_1_2
+    3300012: BRANCH_01_1_3
+    3300014: BRANCH_01_1_4
+    3300016: BRANCH_01_2
+    3300018: BRANCH_01_2_2
+    3300020: BRANCH_01_2_3
+    3300022: BRANCH_01_2_4
+    3300024: BRANCH_02_1
+    3300026: BRANCH_02_1_2
+    3300028: BRANCH_02_1_3
+    3300030: BRANCH_02_1_4
+    3300032: BRANCH_02_2
+    3300034: BRANCH_02_2_2
+    3300036: MONSTERA_LAIF
+    3300038: MONSTERA_LAIF_2
+    3300040: MONSTERA_LAIF_3
+    3300042: MONSTERA_LAIF_4
+    3300044: PIPES_1
+    3300046: STEMS
+    4300000: PIPES_1
+    4300002: MONSTERA_LAIF
+    4300004: MONSTERA_LAIF_2
+    4300006: MONSTERA_LAIF_3
+    4300008: MONSTERA_LAIF_4
+    4300010: STEMS
+    4300012: BRANCH_02_1
+    4300014: BRANCH_02_2
+    4300016: BRANCH_01_1
+    4300018: BRANCH_01_2
+    4300020: BAMBOO_01_2
+    4300022: BRANCH_02_1_2
+    4300024: BRANCH_01_1_2
+    4300026: BRANCH_01_2_2
+    4300028: BAMBOO_01_3
+    4300030: BRANCH_02_1_3
+    4300032: BRANCH_02_2_2
+    4300034: BRANCH_01_1_3
+    4300036: BRANCH_01_2_3
+    4300038: BAMBOO_01_4
+    4300040: BRANCH_02_1_4
+    4300042: BRANCH_01_1_4
+    4300044: BRANCH_01_2_4
+    4300046: BAMBOO_01_5
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: ebe81d44da4fc4a8a917264d2033c7c4
+timeCreated: 1487287715
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: elevator_button
+    100002: oscilli_screen
+    100004: //RootNode
+    100006: Pedestal 1
+    100008: repeat_button
+    100010: text_screen
+    100012: Stand
+    100014: CINEMA_4D_Editor
+    100016: Light
+    100018: Pedestal
+    100020: 1
+    100022: Cap_1
+    100024: Cap_1_2
+    100026: Cap_1_3
+    100028: Cap_1_4
+    100030: Cap_1_5
+    100032: Cap_1_6
+    100034: Cap_1_7
+    100036: Cap_1_8
+    100038: Cap_1_9
+    100040: Cap_2
+    100042: Cap_2_2
+    100044: Cap_2_3
+    100046: Cap_2_4
+    100048: Cap_2_5
+    100050: Cap_2_6
+    100052: Cap_2_7
+    100054: Cap_2_8
+    100056: Cap_2_9
+    100058: E
+    100060: F
+    100062: FLOOR
+    100064: HANDLE
+    100066: HANDLE_CYLINDER
+    100068: L
+    100070: LED
+    100072: MoText
+    100074: N
+    100076: NEXT
+    100078: O
+    100080: O_2
+    100082: R
+    100084: Stand_1
+    100086: T
+    100088: Text
+    100090: X
+    100092: Next_Floor
+    400000: elevator_button
+    400002: oscilli_screen
+    400004: //RootNode
+    400006: Pedestal 1
+    400008: repeat_button
+    400010: text_screen
+    400012: Stand
+    400014: CINEMA_4D_Editor
+    400016: Light
+    400018: Pedestal
+    400020: 1
+    400022: Cap_1
+    400024: Cap_1_2
+    400026: Cap_1_3
+    400028: Cap_1_4
+    400030: Cap_1_5
+    400032: Cap_1_6
+    400034: Cap_1_7
+    400036: Cap_1_8
+    400038: Cap_1_9
+    400040: Cap_2
+    400042: Cap_2_2
+    400044: Cap_2_3
+    400046: Cap_2_4
+    400048: Cap_2_5
+    400050: Cap_2_6
+    400052: Cap_2_7
+    400054: Cap_2_8
+    400056: Cap_2_9
+    400058: E
+    400060: F
+    400062: FLOOR
+    400064: HANDLE
+    400066: HANDLE_CYLINDER
+    400068: L
+    400070: LED
+    400072: MoText
+    400074: N
+    400076: NEXT
+    400078: O
+    400080: O_2
+    400082: R
+    400084: Stand_1
+    400086: T
+    400088: Text
+    400090: X
+    400092: Next_Floor
+    2300000: elevator_button
+    2300002: oscilli_screen
+    2300004: Pedestal 1
+    2300006: repeat_button
+    2300008: text_screen
+    2300010: Stand
+    2300012: Cap_1
+    2300014: Cap_1_2
+    2300016: Cap_1_3
+    2300018: Cap_1_4
+    2300020: Cap_1_5
+    2300022: Cap_1_6
+    2300024: Cap_1_7
+    2300026: Cap_1_8
+    2300028: Cap_1_9
+    2300030: Cap_2
+    2300032: Cap_2_2
+    2300034: Cap_2_3
+    2300036: Cap_2_4
+    2300038: Cap_2_5
+    2300040: Cap_2_6
+    2300042: Cap_2_7
+    2300044: Cap_2_8
+    2300046: Cap_2_9
+    2300048: E
+    2300050: F
+    2300052: HANDLE
+    2300054: HANDLE_CYLINDER
+    2300056: L
+    2300058: LED
+    2300060: N
+    2300062: O
+    2300064: O_2
+    2300066: R
+    2300068: Stand_1
+    2300070: T
+    2300072: X
+    2300074: Next_Floor
+    3300000: elevator_button
+    3300002: oscilli_screen
+    3300004: Pedestal 1
+    3300006: repeat_button
+    3300008: text_screen
+    3300010: Stand
+    3300012: Cap_1
+    3300014: Cap_1_2
+    3300016: Cap_1_3
+    3300018: Cap_1_4
+    3300020: Cap_1_5
+    3300022: Cap_1_6
+    3300024: Cap_1_7
+    3300026: Cap_1_8
+    3300028: Cap_1_9
+    3300030: Cap_2
+    3300032: Cap_2_2
+    3300034: Cap_2_3
+    3300036: Cap_2_4
+    3300038: Cap_2_5
+    3300040: Cap_2_6
+    3300042: Cap_2_7
+    3300044: Cap_2_8
+    3300046: Cap_2_9
+    3300048: E
+    3300050: F
+    3300052: HANDLE
+    3300054: HANDLE_CYLINDER
+    3300056: L
+    3300058: LED
+    3300060: N
+    3300062: O
+    3300064: O_2
+    3300066: R
+    3300068: Stand_1
+    3300070: T
+    3300072: X
+    3300074: Next_Floor
+    4300000: elevator_button
+    4300002: repeat_button
+    4300004: oscilli_screen
+    4300006: text_screen
+    4300008: Pedestal
+    4300010: Stand
+    4300012: LED
+    4300014: N
+    4300016: Cap_1
+    4300018: Cap_2
+    4300020: E
+    4300022: Cap_1_2
+    4300024: Cap_2_2
+    4300026: X
+    4300028: Cap_1_3
+    4300030: Cap_2_3
+    4300032: T
+    4300034: Cap_1_4
+    4300036: Cap_2_4
+    4300038: F
+    4300040: Cap_1_5
+    4300042: Cap_2_5
+    4300044: L
+    4300046: Cap_1_6
+    4300048: Cap_2_6
+    4300050: O
+    4300052: Cap_1_7
+    4300054: Cap_2_7
+    4300056: O_2
+    4300058: Cap_1_8
+    4300060: Cap_2_8
+    4300062: R
+    4300064: Cap_1_9
+    4300066: Cap_2_9
+    4300068: HANDLE_CYLINDER
+    4300070: HANDLE
+    4300072: Stand_1
+    4300074: Next_Floor
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dd33f087743849dba9439f5cfa652c9, type: 3}
+  m_Name: GearRoom
+  m_EditorClassIdentifier: 
+  scenePath: Scenes/Rooms/GearRoom
+  roomSpecificElevatorAnimController: {fileID: 114000010560134722, guid: ef9ddb929a7d948889e216968c9e7367,
+    type: 2}
+  maxLaserDistance: 2
+  maxReticleDistance: 6

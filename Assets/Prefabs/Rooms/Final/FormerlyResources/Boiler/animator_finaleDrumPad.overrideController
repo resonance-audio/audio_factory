@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: animator_finaleDrumPad
+  m_Controller: {fileID: 9100000, guid: a7f2a015e5c1f4129b884f570e79346e, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 27e00d4bb250e48fc9aad7e00afb2a98, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d727f05197712420892b3e262eda6895, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 25d674f7a43614278b3bf3e5c715706d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a910487dea6214d3aaa575f0cad2a53b, type: 2}

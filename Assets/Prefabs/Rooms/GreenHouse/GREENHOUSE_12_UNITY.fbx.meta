@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: 5775154e421473240baf70e5d733a4f2
+timeCreated: 1484249062
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CINEMA_4D_Editor
+    100002: Cloner_1
+    100004: Cloner_2
+    100006: DIRT
+    100008: ELEVATOR
+    100010: FRAME
+    100012: GLASS
+    100014: //RootNode
+    100016: HANDLE_01
+    100018: HANDLE_02
+    100020: HANDLE_03
+    100022: HANDLE_04
+    100024: JOINTS
+    100026: LIGHTS
+    100028: SHOWER_PIPE_01
+    100030: SHOWER_PIPE_02
+    100032: SHOWER_PIPE_03
+    100034: SHOWER_PIPE_04
+    100036: SHOWER_PIPES
+    100038: SHOWERHEAD_01
+    100040: SHOWERHEAD_02
+    100042: SHOWERHEAD_03
+    100044: SHOWERHEAD_04
+    100046: SHOWERHEADS
+    100048: SPIGOT_HANDLES
+    100050: SPIGOT_PIPE_01
+    100052: SPIGOT_PIPE_02
+    100054: SPIGOT_PIPE_03
+    100056: SPIGOT_PIPE_04
+    100058: SPIGOT_PIPE_MAIN
+    100060: SPIGOT_PIPES
+    400000: CINEMA_4D_Editor
+    400002: Cloner_1
+    400004: Cloner_2
+    400006: DIRT
+    400008: ELEVATOR
+    400010: FRAME
+    400012: GLASS
+    400014: //RootNode
+    400016: HANDLE_01
+    400018: HANDLE_02
+    400020: HANDLE_03
+    400022: HANDLE_04
+    400024: JOINTS
+    400026: LIGHTS
+    400028: SHOWER_PIPE_01
+    400030: SHOWER_PIPE_02
+    400032: SHOWER_PIPE_03
+    400034: SHOWER_PIPE_04
+    400036: SHOWER_PIPES
+    400038: SHOWERHEAD_01
+    400040: SHOWERHEAD_02
+    400042: SHOWERHEAD_03
+    400044: SHOWERHEAD_04
+    400046: SHOWERHEADS
+    400048: SPIGOT_HANDLES
+    400050: SPIGOT_PIPE_01
+    400052: SPIGOT_PIPE_02
+    400054: SPIGOT_PIPE_03
+    400056: SPIGOT_PIPE_04
+    400058: SPIGOT_PIPE_MAIN
+    400060: SPIGOT_PIPES
+    2300000: Cloner_1
+    2300002: Cloner_2
+    2300004: DIRT
+    2300006: ELEVATOR
+    2300008: FRAME
+    2300010: GLASS
+    2300012: HANDLE_01
+    2300014: HANDLE_02
+    2300016: HANDLE_03
+    2300018: HANDLE_04
+    2300020: JOINTS
+    2300022: SHOWER_PIPE_01
+    2300024: SHOWER_PIPE_02
+    2300026: SHOWER_PIPE_03
+    2300028: SHOWER_PIPE_04
+    2300030: SHOWERHEAD_01
+    2300032: SHOWERHEAD_02
+    2300034: SHOWERHEAD_03
+    2300036: SHOWERHEAD_04
+    2300038: SPIGOT_PIPE_01
+    2300040: SPIGOT_PIPE_02
+    2300042: SPIGOT_PIPE_03
+    2300044: SPIGOT_PIPE_04
+    2300046: SPIGOT_PIPE_MAIN
+    3300000: Cloner_1
+    3300002: Cloner_2
+    3300004: DIRT
+    3300006: ELEVATOR
+    3300008: FRAME
+    3300010: GLASS
+    3300012: HANDLE_01
+    3300014: HANDLE_02
+    3300016: HANDLE_03
+    3300018: HANDLE_04
+    3300020: JOINTS
+    3300022: SHOWER_PIPE_01
+    3300024: SHOWER_PIPE_02
+    3300026: SHOWER_PIPE_03
+    3300028: SHOWER_PIPE_04
+    3300030: SHOWERHEAD_01
+    3300032: SHOWERHEAD_02
+    3300034: SHOWERHEAD_03
+    3300036: SHOWERHEAD_04
+    3300038: SPIGOT_PIPE_01
+    3300040: SPIGOT_PIPE_02
+    3300042: SPIGOT_PIPE_03
+    3300044: SPIGOT_PIPE_04
+    3300046: SPIGOT_PIPE_MAIN
+    4300000: JOINTS
+    4300002: SPIGOT_PIPE_MAIN
+    4300004: SPIGOT_PIPE_01
+    4300006: SPIGOT_PIPE_02
+    4300008: SPIGOT_PIPE_03
+    4300010: SPIGOT_PIPE_04
+    4300012: HANDLE_01
+    4300014: HANDLE_02
+    4300016: HANDLE_03
+    4300018: HANDLE_04
+    4300020: SHOWER_PIPE_01
+    4300022: SHOWER_PIPE_02
+    4300024: SHOWER_PIPE_03
+    4300026: SHOWER_PIPE_04
+    4300028: ELEVATOR
+    4300030: Cloner_1
+    4300032: Cloner_2
+    4300034: SHOWERHEAD_01
+    4300036: SHOWERHEAD_02
+    4300038: SHOWERHEAD_03
+    4300040: SHOWERHEAD_04
+    4300042: GLASS
+    4300044: FRAME
+    4300046: DIRT
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

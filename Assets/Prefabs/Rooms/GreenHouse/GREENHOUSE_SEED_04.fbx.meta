@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: 3a2768d2ce29f4fab9e749dfb4ca3f85
+timeCreated: 1486689912
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CINEMA_4D_Editor
+    100002: Cube__1
+    100004: Cube__2
+    100006: Cube__3
+    100008: Cube__4
+    100010: Cube__5
+    100012: Cube__6
+    100014: Glow
+    100016: //RootNode
+    100018: MOONS
+    100020: Platonic
+    100022: SEED
+    400000: CINEMA_4D_Editor
+    400002: Cube__1
+    400004: Cube__2
+    400006: Cube__3
+    400008: Cube__4
+    400010: Cube__5
+    400012: Cube__6
+    400014: Glow
+    400016: //RootNode
+    400018: MOONS
+    400020: Platonic
+    400022: SEED
+    2300000: Cube__1
+    2300002: Cube__2
+    2300004: Cube__3
+    2300006: Cube__4
+    2300008: Cube__5
+    2300010: Cube__6
+    2300012: Glow
+    2300014: Platonic
+    2300016: SEED
+    3300000: Cube__1
+    3300002: Cube__2
+    3300004: Cube__3
+    3300006: Cube__4
+    3300008: Cube__5
+    3300010: Cube__6
+    3300012: Glow
+    3300014: Platonic
+    3300016: SEED
+    4300000: Platonic
+    4300002: Cube__1
+    4300004: Cube__2
+    4300006: Cube__3
+    4300008: Cube__4
+    4300010: Cube__5
+    4300012: Cube__6
+    4300014: Glow
+    4300016: SEED
+    7400000: Main
+    7400002: Idle
+    7400004: Build
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Glow
+        weight: 1
+      - path: MOONS
+        weight: 1
+      - path: MOONS/Cube__1
+        weight: 1
+      - path: MOONS/Cube__2
+        weight: 1
+      - path: MOONS/Cube__3
+        weight: 1
+      - path: MOONS/Cube__4
+        weight: 1
+      - path: MOONS/Cube__5
+        weight: 1
+      - path: MOONS/Cube__6
+        weight: 1
+      - path: SEED
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Build
+      takeName: Take 001
+      firstFrame: 130
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Glow
+        weight: 1
+      - path: MOONS
+        weight: 1
+      - path: MOONS/Cube__1
+        weight: 1
+      - path: MOONS/Cube__2
+        weight: 1
+      - path: MOONS/Cube__3
+        weight: 1
+      - path: MOONS/Cube__4
+        weight: 1
+      - path: MOONS/Cube__5
+        weight: 1
+      - path: MOONS/Cube__6
+        weight: 1
+      - path: SEED
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1398 @@
+fileFormatVersion: 2
+guid: 0cc1a370eee13874293480bebe94d4fa
+timeCreated: 1487897667
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 1_2_1
+    100002: 1_2_1_2
+    100004: 1_2_1_3
+    100006: 1_2_1_4
+    100008: 1_2_1_5
+    100010: 1_2_1_6
+    100012: 1_2_1_7
+    100014: 1_2_1_8
+    100016: 1_4
+    100018: 1_4_2
+    100020: 1_4_3
+    100022: 1_4_4
+    100024: 1_4_5
+    100026: 1_4_6
+    100028: 1_4_7
+    100030: 1_4_8
+    100032: 1_4_new_1
+    100034: 1_4_new_1_2
+    100036: 1_4_new_1_3
+    100038: 1_4_new_1_4
+    100040: 1_4_new_2
+    100042: 1_4_new_2_2
+    100044: 1_4_new_2_3
+    100046: 1_4_new_2_4
+    100048: 1_4_new_3
+    100050: 1_4_new_3_2
+    100052: 1_4_new_3_3
+    100054: 1_4_new_3_4
+    100056: 1_8
+    100058: 1_8_2
+    100060: 1_8_3
+    100062: 1_8_4
+    100064: belts
+    100066: belts_2
+    100068: belts_3
+    100070: belts_4
+    100072: big_rings_1
+    100074: brackets_1
+    100076: CINEMA_4D_Editor
+    100078: Cube
+    100080: Cube_2
+    100082: Cube_3
+    100084: Cube_4
+    100086: Cylinder
+    100088: Cylinder_2
+    100090: Cylinder_3
+    100092: Cylinder_4
+    100094: Extrude
+    100096: Extrude_1
+    100098: Extrude_1_2
+    100100: Extrude_1_3
+    100102: Extrude_1_4
+    100104: Extrude_1_5
+    100106: Extrude_1_6
+    100108: Extrude_1_7
+    100110: Extrude_1_8
+    100112: Extrude_2
+    100114: Extrude_3
+    100116: Extrude_4
+    100118: full
+    100120: full_2
+    100122: full_3
+    100124: full_4
+    100126: gears
+    100128: gears_1
+    100130: gears_2
+    100132: gears_3
+    100134: gears_4
+    100136: //RootNode
+    100138: large
+    100140: large_2
+    100142: large_3
+    100144: large_4
+    100146: Null
+    100148: Null_1
+    100150: Null_10
+    100152: Null_11
+    100154: Null_12
+    100156: Null_13
+    100158: Null_14
+    100160: Null_15
+    100162: Null_16
+    100164: Null_1_10
+    100166: Null_1_11
+    100168: Null_1_12
+    100170: Null_1_13
+    100172: Null_1_14
+    100174: Null_1_15
+    100176: Null_1_16
+    100178: Null_1_17
+    100180: Null_1_18
+    100182: Null_1_19
+    100184: Null_1_2
+    100186: Null_1_20
+    100188: Null_1_21
+    100190: Null_1_22
+    100192: Null_1_23
+    100194: Null_1_24
+    100196: Null_1_25
+    100198: Null_1_26
+    100200: Null_1_27
+    100202: Null_1_28
+    100204: Null_1_3
+    100206: Null_1_4
+    100208: Null_1_5
+    100210: Null_1_6
+    100212: Null_1_7
+    100214: Null_1_8
+    100216: Null_1_9
+    100218: Null_2
+    100220: Null_3
+    100222: Null_4
+    100224: Null_5
+    100226: Null_6
+    100228: Null_7
+    100230: Null_8
+    100232: Null_9
+    100234: pipes
+    100236: power_box_1_1
+    100238: power_box_1_1_2
+    100240: power_box_1_1_3
+    100242: power_box_1_1_4
+    100244: pumper_side
+    100246: pumper_side_1
+    100248: pumper_side_1_2
+    100250: pumper_side_1_3
+    100252: pumper_side_1_4
+    100254: pumper_side_2
+    100256: pumper_side_3
+    100258: pumper_side_4
+    100260: pumper_side_rotate
+    100262: pumper_side_rotate_2
+    100264: pumper_side_rotate_3
+    100266: pumper_side_rotate_4
+    100268: pumper_side_rotate_5
+    100270: pumper_side_rotate_6
+    100272: pumper_side_rotate_7
+    100274: pumper_side_rotate_8
+    100276: screws_2
+    100278: shaft_booles_Tube
+    100280: xtra_big_gear_add
+    100282: xtra_big_gear_add_2
+    100284: xtra_big_gear_add_3
+    100286: xtra_big_gear_add_4
+    100288: 1_2
+    100290: 1_2_2
+    100292: 1_2_3
+    100294: 1_2_4
+    100296: 1_4_new
+    100298: 1_4_new_4
+    100300: 1_4_new_5
+    100302: 1_4_new_6
+    100304: 1_4_new_7
+    100306: 1_4_new_8
+    100308: 3_4_1
+    100310: 3_4_1_2
+    100312: 3_4_1_3
+    100314: 3_4_1_4
+    100316: Null_17
+    100318: Null_18
+    100320: Null_19
+    100322: Null_20
+    100324: Null_21
+    100326: Null_22
+    100328: Null_23
+    100330: Null_24
+    100332: Null_2_2
+    100334: Null_2_3
+    100336: Null_2_4
+    100338: Null_2_5
+    100340: Sweep
+    100342: Sweep_2
+    100344: Sweep_2_2
+    100346: Sweep_2_3
+    100348: Sweep_2_4
+    100350: Sweep_2_5
+    100352: Sweep_3
+    100354: Sweep_4
+    100356: 1_2_1_10
+    100358: 1_2_1_11
+    100360: 1_2_1_12
+    100362: 1_2_1_13
+    100364: 1_2_1_14
+    100366: 1_2_1_15
+    100368: 1_2_1_16
+    100370: 1_2_1_9
+    100372: 1_4_new_10
+    100374: 1_4_new_11
+    100376: 1_4_new_12
+    100378: 1_4_new_13
+    100380: 1_4_new_14
+    100382: 1_4_new_15
+    100384: 1_4_new_16
+    100386: 1_4_new_9
+    100388: Extrude_1_10
+    100390: Extrude_1_11
+    100392: Extrude_1_12
+    100394: Extrude_1_13
+    100396: Extrude_1_14
+    100398: Extrude_1_15
+    100400: Extrude_1_16
+    100402: Extrude_1_9
+    100404: Null_1_29
+    100406: Null_1_30
+    100408: Null_1_31
+    100410: Null_1_32
+    100412: Null_25
+    100414: Null_26
+    100416: Null_27
+    100418: Null_28
+    100420: Null_29
+    100422: Null_2_6
+    100424: Null_2_7
+    100426: Null_2_8
+    100428: Null_2_9
+    100430: Null_30
+    100432: Null_31
+    100434: Null_32
+    100436: pumper_side_1_5
+    100438: pumper_side_1_6
+    100440: pumper_side_1_7
+    100442: pumper_side_1_8
+    100444: pumper_side_5
+    100446: pumper_side_6
+    100448: pumper_side_7
+    100450: pumper_side_8
+    100452: pumper_side_rotate_10
+    100454: pumper_side_rotate_11
+    100456: pumper_side_rotate_12
+    100458: pumper_side_rotate_13
+    100460: pumper_side_rotate_14
+    100462: pumper_side_rotate_15
+    100464: pumper_side_rotate_16
+    100466: pumper_side_rotate_9
+    100468: Sweep_2_6
+    100470: Sweep_2_7
+    100472: Sweep_2_8
+    100474: Sweep_2_9
+    100476: xtra_big_gear_add_5
+    100478: xtra_big_gear_add_6
+    100480: xtra_big_gear_add_7
+    100482: xtra_big_gear_add_8
+    400000: 1_2_1
+    400002: 1_2_1_2
+    400004: 1_2_1_3
+    400006: 1_2_1_4
+    400008: 1_2_1_5
+    400010: 1_2_1_6
+    400012: 1_2_1_7
+    400014: 1_2_1_8
+    400016: 1_4
+    400018: 1_4_2
+    400020: 1_4_3
+    400022: 1_4_4
+    400024: 1_4_5
+    400026: 1_4_6
+    400028: 1_4_7
+    400030: 1_4_8
+    400032: 1_4_new_1
+    400034: 1_4_new_1_2
+    400036: 1_4_new_1_3
+    400038: 1_4_new_1_4
+    400040: 1_4_new_2
+    400042: 1_4_new_2_2
+    400044: 1_4_new_2_3
+    400046: 1_4_new_2_4
+    400048: 1_4_new_3
+    400050: 1_4_new_3_2
+    400052: 1_4_new_3_3
+    400054: 1_4_new_3_4
+    400056: 1_8
+    400058: 1_8_2
+    400060: 1_8_3
+    400062: 1_8_4
+    400064: belts
+    400066: belts_2
+    400068: belts_3
+    400070: belts_4
+    400072: big_rings_1
+    400074: brackets_1
+    400076: CINEMA_4D_Editor
+    400078: Cube
+    400080: Cube_2
+    400082: Cube_3
+    400084: Cube_4
+    400086: Cylinder
+    400088: Cylinder_2
+    400090: Cylinder_3
+    400092: Cylinder_4
+    400094: Extrude
+    400096: Extrude_1
+    400098: Extrude_1_2
+    400100: Extrude_1_3
+    400102: Extrude_1_4
+    400104: Extrude_1_5
+    400106: Extrude_1_6
+    400108: Extrude_1_7
+    400110: Extrude_1_8
+    400112: Extrude_2
+    400114: Extrude_3
+    400116: Extrude_4
+    400118: full
+    400120: full_2
+    400122: full_3
+    400124: full_4
+    400126: gears
+    400128: gears_1
+    400130: gears_2
+    400132: gears_3
+    400134: gears_4
+    400136: //RootNode
+    400138: large
+    400140: large_2
+    400142: large_3
+    400144: large_4
+    400146: Null
+    400148: Null_1
+    400150: Null_10
+    400152: Null_11
+    400154: Null_12
+    400156: Null_13
+    400158: Null_14
+    400160: Null_15
+    400162: Null_16
+    400164: Null_1_10
+    400166: Null_1_11
+    400168: Null_1_12
+    400170: Null_1_13
+    400172: Null_1_14
+    400174: Null_1_15
+    400176: Null_1_16
+    400178: Null_1_17
+    400180: Null_1_18
+    400182: Null_1_19
+    400184: Null_1_2
+    400186: Null_1_20
+    400188: Null_1_21
+    400190: Null_1_22
+    400192: Null_1_23
+    400194: Null_1_24
+    400196: Null_1_25
+    400198: Null_1_26
+    400200: Null_1_27
+    400202: Null_1_28
+    400204: Null_1_3
+    400206: Null_1_4
+    400208: Null_1_5
+    400210: Null_1_6
+    400212: Null_1_7
+    400214: Null_1_8
+    400216: Null_1_9
+    400218: Null_2
+    400220: Null_3
+    400222: Null_4
+    400224: Null_5
+    400226: Null_6
+    400228: Null_7
+    400230: Null_8
+    400232: Null_9
+    400234: pipes
+    400236: power_box_1_1
+    400238: power_box_1_1_2
+    400240: power_box_1_1_3
+    400242: power_box_1_1_4
+    400244: pumper_side
+    400246: pumper_side_1
+    400248: pumper_side_1_2
+    400250: pumper_side_1_3
+    400252: pumper_side_1_4
+    400254: pumper_side_2
+    400256: pumper_side_3
+    400258: pumper_side_4
+    400260: pumper_side_rotate
+    400262: pumper_side_rotate_2
+    400264: pumper_side_rotate_3
+    400266: pumper_side_rotate_4
+    400268: pumper_side_rotate_5
+    400270: pumper_side_rotate_6
+    400272: pumper_side_rotate_7
+    400274: pumper_side_rotate_8
+    400276: screws_2
+    400278: shaft_booles_Tube
+    400280: xtra_big_gear_add
+    400282: xtra_big_gear_add_2
+    400284: xtra_big_gear_add_3
+    400286: xtra_big_gear_add_4
+    400288: 1_2
+    400290: 1_2_2
+    400292: 1_2_3
+    400294: 1_2_4
+    400296: 1_4_new
+    400298: 1_4_new_4
+    400300: 1_4_new_5
+    400302: 1_4_new_6
+    400304: 1_4_new_7
+    400306: 1_4_new_8
+    400308: 3_4_1
+    400310: 3_4_1_2
+    400312: 3_4_1_3
+    400314: 3_4_1_4
+    400316: Null_17
+    400318: Null_18
+    400320: Null_19
+    400322: Null_20
+    400324: Null_21
+    400326: Null_22
+    400328: Null_23
+    400330: Null_24
+    400332: Null_2_2
+    400334: Null_2_3
+    400336: Null_2_4
+    400338: Null_2_5
+    400340: Sweep
+    400342: Sweep_2
+    400344: Sweep_2_2
+    400346: Sweep_2_3
+    400348: Sweep_2_4
+    400350: Sweep_2_5
+    400352: Sweep_3
+    400354: Sweep_4
+    400356: 1_2_1_10
+    400358: 1_2_1_11
+    400360: 1_2_1_12
+    400362: 1_2_1_13
+    400364: 1_2_1_14
+    400366: 1_2_1_15
+    400368: 1_2_1_16
+    400370: 1_2_1_9
+    400372: 1_4_new_10
+    400374: 1_4_new_11
+    400376: 1_4_new_12
+    400378: 1_4_new_13
+    400380: 1_4_new_14
+    400382: 1_4_new_15
+    400384: 1_4_new_16
+    400386: 1_4_new_9
+    400388: Extrude_1_10
+    400390: Extrude_1_11
+    400392: Extrude_1_12
+    400394: Extrude_1_13
+    400396: Extrude_1_14
+    400398: Extrude_1_15
+    400400: Extrude_1_16
+    400402: Extrude_1_9
+    400404: Null_1_29
+    400406: Null_1_30
+    400408: Null_1_31
+    400410: Null_1_32
+    400412: Null_25
+    400414: Null_26
+    400416: Null_27
+    400418: Null_28
+    400420: Null_29
+    400422: Null_2_6
+    400424: Null_2_7
+    400426: Null_2_8
+    400428: Null_2_9
+    400430: Null_30
+    400432: Null_31
+    400434: Null_32
+    400436: pumper_side_1_5
+    400438: pumper_side_1_6
+    400440: pumper_side_1_7
+    400442: pumper_side_1_8
+    400444: pumper_side_5
+    400446: pumper_side_6
+    400448: pumper_side_7
+    400450: pumper_side_8
+    400452: pumper_side_rotate_10
+    400454: pumper_side_rotate_11
+    400456: pumper_side_rotate_12
+    400458: pumper_side_rotate_13
+    400460: pumper_side_rotate_14
+    400462: pumper_side_rotate_15
+    400464: pumper_side_rotate_16
+    400466: pumper_side_rotate_9
+    400468: Sweep_2_6
+    400470: Sweep_2_7
+    400472: Sweep_2_8
+    400474: Sweep_2_9
+    400476: xtra_big_gear_add_5
+    400478: xtra_big_gear_add_6
+    400480: xtra_big_gear_add_7
+    400482: xtra_big_gear_add_8
+    2300000: 1_2_1
+    2300002: 1_2_1_2
+    2300004: 1_2_1_3
+    2300006: 1_2_1_4
+    2300008: 1_2_1_5
+    2300010: 1_2_1_6
+    2300012: 1_2_1_7
+    2300014: 1_2_1_8
+    2300016: 1_4_new_1
+    2300018: 1_4_new_1_2
+    2300020: 1_4_new_1_3
+    2300022: 1_4_new_1_4
+    2300024: 1_4_new_2
+    2300026: 1_4_new_2_2
+    2300028: 1_4_new_2_3
+    2300030: 1_4_new_2_4
+    2300032: 1_4_new_3
+    2300034: 1_4_new_3_2
+    2300036: 1_4_new_3_3
+    2300038: 1_4_new_3_4
+    2300040: belts
+    2300042: belts_2
+    2300044: belts_3
+    2300046: belts_4
+    2300048: big_rings_1
+    2300050: brackets_1
+    2300052: Cube
+    2300054: Cube_2
+    2300056: Cube_3
+    2300058: Cube_4
+    2300060: Cylinder
+    2300062: Cylinder_2
+    2300064: Cylinder_3
+    2300066: Cylinder_4
+    2300068: Extrude_1
+    2300070: Extrude_1_2
+    2300072: Extrude_1_3
+    2300074: Extrude_1_4
+    2300076: Extrude_1_5
+    2300078: Extrude_1_6
+    2300080: Extrude_1_7
+    2300082: Extrude_1_8
+    2300084: Null_1_11
+    2300086: Null_1_12
+    2300088: Null_1_13
+    2300090: Null_1_14
+    2300092: Null_1_18
+    2300094: Null_1_19
+    2300096: Null_1_20
+    2300098: Null_1_21
+    2300100: Null_1_25
+    2300102: Null_1_26
+    2300104: Null_1_27
+    2300106: Null_1_28
+    2300108: Null_1_4
+    2300110: Null_1_5
+    2300112: Null_1_6
+    2300114: Null_1_7
+    2300116: pipes
+    2300118: screws_2
+    2300120: shaft_booles_Tube
+    2300122: 1_2
+    2300124: 1_2_2
+    2300126: 1_2_3
+    2300128: 1_2_4
+    2300130: 1_4_new
+    2300132: 1_4_new_4
+    2300134: 1_4_new_5
+    2300136: 1_4_new_6
+    2300138: 1_4_new_7
+    2300140: 1_4_new_8
+    2300142: 3_4_1
+    2300144: 3_4_1_2
+    2300146: 3_4_1_3
+    2300148: 3_4_1_4
+    2300150: Null_1_17
+    2300152: Null_1_23
+    2300154: Null_1_24
+    2300156: Sweep
+    2300158: Sweep_2
+    2300160: Sweep_2_2
+    2300162: Sweep_2_3
+    2300164: Sweep_2_4
+    2300166: Sweep_2_5
+    2300168: Sweep_3
+    2300170: Sweep_4
+    2300172: 1_2_1_10
+    2300174: 1_2_1_11
+    2300176: 1_2_1_12
+    2300178: 1_2_1_13
+    2300180: 1_2_1_14
+    2300182: 1_2_1_15
+    2300184: 1_2_1_16
+    2300186: 1_2_1_9
+    2300188: 1_4_new_10
+    2300190: 1_4_new_11
+    2300192: 1_4_new_12
+    2300194: 1_4_new_13
+    2300196: 1_4_new_14
+    2300198: 1_4_new_15
+    2300200: 1_4_new_16
+    2300202: 1_4_new_9
+    2300204: Extrude_1_10
+    2300206: Extrude_1_11
+    2300208: Extrude_1_12
+    2300210: Extrude_1_13
+    2300212: Extrude_1_14
+    2300214: Extrude_1_15
+    2300216: Extrude_1_16
+    2300218: Extrude_1_9
+    2300220: Null_1_15
+    2300222: Null_1_16
+    2300224: Null_1_31
+    2300226: Null_1_32
+    2300228: Null_1_8
+    2300230: Sweep_2_6
+    2300232: Sweep_2_7
+    2300234: Sweep_2_8
+    2300236: Sweep_2_9
+    3300000: 1_2_1
+    3300002: 1_2_1_2
+    3300004: 1_2_1_3
+    3300006: 1_2_1_4
+    3300008: 1_2_1_5
+    3300010: 1_2_1_6
+    3300012: 1_2_1_7
+    3300014: 1_2_1_8
+    3300016: 1_4_new_1
+    3300018: 1_4_new_1_2
+    3300020: 1_4_new_1_3
+    3300022: 1_4_new_1_4
+    3300024: 1_4_new_2
+    3300026: 1_4_new_2_2
+    3300028: 1_4_new_2_3
+    3300030: 1_4_new_2_4
+    3300032: 1_4_new_3
+    3300034: 1_4_new_3_2
+    3300036: 1_4_new_3_3
+    3300038: 1_4_new_3_4
+    3300040: belts
+    3300042: belts_2
+    3300044: belts_3
+    3300046: belts_4
+    3300048: big_rings_1
+    3300050: brackets_1
+    3300052: Cube
+    3300054: Cube_2
+    3300056: Cube_3
+    3300058: Cube_4
+    3300060: Cylinder
+    3300062: Cylinder_2
+    3300064: Cylinder_3
+    3300066: Cylinder_4
+    3300068: Extrude_1
+    3300070: Extrude_1_2
+    3300072: Extrude_1_3
+    3300074: Extrude_1_4
+    3300076: Extrude_1_5
+    3300078: Extrude_1_6
+    3300080: Extrude_1_7
+    3300082: Extrude_1_8
+    3300084: Null_1_11
+    3300086: Null_1_12
+    3300088: Null_1_13
+    3300090: Null_1_14
+    3300092: Null_1_18
+    3300094: Null_1_19
+    3300096: Null_1_20
+    3300098: Null_1_21
+    3300100: Null_1_25
+    3300102: Null_1_26
+    3300104: Null_1_27
+    3300106: Null_1_28
+    3300108: Null_1_4
+    3300110: Null_1_5
+    3300112: Null_1_6
+    3300114: Null_1_7
+    3300116: pipes
+    3300118: screws_2
+    3300120: shaft_booles_Tube
+    3300122: 1_2
+    3300124: 1_2_2
+    3300126: 1_2_3
+    3300128: 1_2_4
+    3300130: 1_4_new
+    3300132: 1_4_new_4
+    3300134: 1_4_new_5
+    3300136: 1_4_new_6
+    3300138: 1_4_new_7
+    3300140: 1_4_new_8
+    3300142: 3_4_1
+    3300144: 3_4_1_2
+    3300146: 3_4_1_3
+    3300148: 3_4_1_4
+    3300150: Null_1_17
+    3300152: Null_1_23
+    3300154: Null_1_24
+    3300156: Sweep
+    3300158: Sweep_2
+    3300160: Sweep_2_2
+    3300162: Sweep_2_3
+    3300164: Sweep_2_4
+    3300166: Sweep_2_5
+    3300168: Sweep_3
+    3300170: Sweep_4
+    3300172: 1_2_1_10
+    3300174: 1_2_1_11
+    3300176: 1_2_1_12
+    3300178: 1_2_1_13
+    3300180: 1_2_1_14
+    3300182: 1_2_1_15
+    3300184: 1_2_1_16
+    3300186: 1_2_1_9
+    3300188: 1_4_new_10
+    3300190: 1_4_new_11
+    3300192: 1_4_new_12
+    3300194: 1_4_new_13
+    3300196: 1_4_new_14
+    3300198: 1_4_new_15
+    3300200: 1_4_new_16
+    3300202: 1_4_new_9
+    3300204: Extrude_1_10
+    3300206: Extrude_1_11
+    3300208: Extrude_1_12
+    3300210: Extrude_1_13
+    3300212: Extrude_1_14
+    3300214: Extrude_1_15
+    3300216: Extrude_1_16
+    3300218: Extrude_1_9
+    3300220: Null_1_15
+    3300222: Null_1_16
+    3300224: Null_1_31
+    3300226: Null_1_32
+    3300228: Null_1_8
+    3300230: Sweep_2_6
+    3300232: Sweep_2_7
+    3300234: Sweep_2_8
+    3300236: Sweep_2_9
+    4300000: Extrude_1
+    4300002: belts
+    4300004: Extrude_1_2
+    4300006: Cylinder
+    4300008: 1_2_1
+    4300010: 1_2_1_2
+    4300012: 1_4_new_3
+    4300014: 1_4_new_2
+    4300016: 1_4_new_1
+    4300018: Cube
+    4300020: Null_1_4
+    4300022: Null_1_5
+    4300024: Null_1_6
+    4300026: Null_1_7
+    4300028: Extrude_1_3
+    4300030: belts_2
+    4300032: Extrude_1_4
+    4300034: Cylinder_2
+    4300036: 1_2_1_3
+    4300038: 1_2_1_4
+    4300040: 1_4_new_3_2
+    4300042: 1_4_new_2_2
+    4300044: 1_4_new_1_2
+    4300046: Cube_2
+    4300048: Null_1_11
+    4300050: Null_1_12
+    4300052: Null_1_13
+    4300054: Null_1_14
+    4300056: Extrude_1_5
+    4300058: belts_3
+    4300060: Extrude_1_6
+    4300062: Cylinder_3
+    4300064: 1_2_1_5
+    4300066: 1_2_1_6
+    4300068: 1_4_new_3_3
+    4300070: 1_4_new_2_3
+    4300072: 1_4_new_1_3
+    4300074: Cube_3
+    4300076: Null_1_18
+    4300078: Null_1_19
+    4300080: Null_1_20
+    4300082: Null_1_21
+    4300084: Extrude_1_7
+    4300086: belts_4
+    4300088: Extrude_1_8
+    4300090: Cylinder_4
+    4300092: 1_2_1_7
+    4300094: 1_2_1_8
+    4300096: 1_4_new_3_4
+    4300098: 1_4_new_2_4
+    4300100: 1_4_new_1_4
+    4300102: Cube_4
+    4300104: Null_1_25
+    4300106: Null_1_26
+    4300108: Null_1_27
+    4300110: Null_1_28
+    4300112: shaft_booles_Tube
+    4300114: big_rings_1
+    4300116: screws_2
+    4300118: brackets_1
+    4300120: pipes
+    4300122: Sweep_2
+    4300124: 1_4_new
+    4300126: Sweep
+    4300128: 1_2
+    4300130: 3_4_1
+    4300132: Sweep_2_2
+    4300134: 1_4_new_4
+    4300136: Sweep_2_3
+    4300138: 1_2_2
+    4300140: 3_4_1_2
+    4300142: Sweep_2_4
+    4300144: 1_4_new_5
+    4300146: 1_4_new_6
+    4300148: Sweep_3
+    4300150: 1_2_3
+    4300152: 3_4_1_3
+    4300154: Null_1_17
+    4300156: Sweep_2_5
+    4300158: 1_4_new_7
+    4300160: 1_4_new_8
+    4300162: Sweep_4
+    4300164: 1_2_4
+    4300166: 3_4_1_4
+    4300168: Null_1_23
+    4300170: Null_1_24
+    4300172: Null_1_8
+    4300174: Null_1_15
+    4300176: Null_1_16
+    4300178: Sweep_2_6
+    4300180: Extrude_1_9
+    4300182: Extrude_1_10
+    4300184: 1_2_1_9
+    4300186: 1_2_1_10
+    4300188: 1_4_new_9
+    4300190: 1_4_new_10
+    4300192: Sweep_2_7
+    4300194: Extrude_1_11
+    4300196: Extrude_1_12
+    4300198: 1_2_1_11
+    4300200: 1_2_1_12
+    4300202: 1_4_new_11
+    4300204: 1_4_new_12
+    4300206: Sweep_2_8
+    4300208: Extrude_1_13
+    4300210: Extrude_1_14
+    4300212: 1_2_1_13
+    4300214: 1_2_1_14
+    4300216: 1_4_new_13
+    4300218: 1_4_new_14
+    4300220: Sweep_2_9
+    4300222: Extrude_1_15
+    4300224: Extrude_1_16
+    4300226: 1_2_1_15
+    4300228: 1_2_1_16
+    4300230: 1_4_new_15
+    4300232: 1_4_new_16
+    4300234: Null_1_31
+    4300236: Null_1_32
+    7400000: Main
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Main
+      takeName: Main
+      firstFrame: 0
+      lastFrame: 360
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: big_rings_1
+        weight: 1
+      - path: brackets_1
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: gears
+        weight: 1
+      - path: gears/gears_1
+        weight: 1
+      - path: gears/gears_1/Null_1
+        weight: 1
+      - path: gears/gears_1/Null_1/Null
+        weight: 1
+      - path: gears/gears_1/Null_1/Null/Extrude_1
+        weight: 1
+      - path: gears/gears_1/Null_1/Null_1_2
+        weight: 1
+      - path: gears/gears_1/Null_1/Null_1_2/Extrude_1_2
+        weight: 1
+      - path: gears/gears_1/Null_1/Sweep_2
+        weight: 1
+      - path: gears/gears_1/Null_1_6
+        weight: 1
+      - path: gears/gears_1/Null_1_6/Extrude
+        weight: 1
+      - path: gears/gears_1/Null_1_6/Extrude/large
+        weight: 1
+      - path: gears/gears_1/Null_1_6/Extrude/large/1_4
+        weight: 1
+      - path: gears/gears_1/Null_1_6/Extrude/large/1_4/Null_8
+        weight: 1
+      - path: gears/gears_1/Null_1_6/Extrude/large/1_4/Null_8/3_4_1
+        weight: 1
+      - path: gears/gears_1/Null_1_6/Extrude/large/1_4_2
+        weight: 1
+      - path: gears/gears_1/Null_1_6/Extrude/large/1_4_2/Null_1_7
+        weight: 1
+      - path: gears/gears_1/Null_1_6/Extrude/large/1_8
+        weight: 1
+      - path: gears/gears_1/Null_1_6/Extrude/large/1_8/Null_1_8
+        weight: 1
+      - path: gears/gears_1/Null_1_6/Extrude/large/Cube
+        weight: 1
+      - path: gears/gears_1/Null_1_6/Extrude/large/full
+        weight: 1
+      - path: gears/gears_1/Null_1_6/Extrude/large/full/Null_7
+        weight: 1
+      - path: gears/gears_1/Null_1_6/Extrude/large/full/Null_7/1_2
+        weight: 1
+      - path: gears/gears_1/Null_1_6/Sweep
+        weight: 1
+      - path: gears/gears_1/Null_2
+        weight: 1
+      - path: gears/gears_1/Null_2/xtra_big_gear_add
+        weight: 1
+      - path: gears/gears_1/Null_2/xtra_big_gear_add/Null_1_3
+        weight: 1
+      - path: gears/gears_1/Null_2/xtra_big_gear_add/Null_1_3/1_4_new
+        weight: 1
+      - path: gears/gears_1/Null_2/xtra_big_gear_add/Null_2_2
+        weight: 1
+      - path: gears/gears_1/Null_2/xtra_big_gear_add/Null_2_2/1_4_new_2
+        weight: 1
+      - path: gears/gears_1/Null_2/xtra_big_gear_add/pumper_side
+        weight: 1
+      - path: gears/gears_1/Null_2/xtra_big_gear_add/pumper_side/pumper_side_rotate
+        weight: 1
+      - path: gears/gears_1/Null_2/xtra_big_gear_add/pumper_side/pumper_side_rotate/1_2_1
+        weight: 1
+      - path: gears/gears_1/Null_2/xtra_big_gear_add/pumper_side_1
+        weight: 1
+      - path: gears/gears_1/Null_2/xtra_big_gear_add/pumper_side_1/pumper_side_rotate_2
+        weight: 1
+      - path: gears/gears_1/Null_2/xtra_big_gear_add/pumper_side_1/pumper_side_rotate_2/1_2_1_2
+        weight: 1
+      - path: gears/gears_1/Null_5
+        weight: 1
+      - path: gears/gears_1/Null_5/xtra_big_gear_add_2
+        weight: 1
+      - path: gears/gears_1/Null_5/xtra_big_gear_add_2/Null_1_5
+        weight: 1
+      - path: gears/gears_1/Null_5/xtra_big_gear_add_2/Null_1_5/1_4_new_3
+        weight: 1
+      - path: gears/gears_1/Null_5/xtra_big_gear_add_2/Null_2_3
+        weight: 1
+      - path: gears/gears_1/Null_5/xtra_big_gear_add_2/Null_2_3/1_4_new_4
+        weight: 1
+      - path: gears/gears_1/Null_5/xtra_big_gear_add_2/Null_6
+        weight: 1
+      - path: gears/gears_1/Null_5/xtra_big_gear_add_2/Null_6/1_4_new_1
+        weight: 1
+      - path: gears/gears_1/Null_5/xtra_big_gear_add_2/pumper_side_1_2
+        weight: 1
+      - path: gears/gears_1/Null_5/xtra_big_gear_add_2/pumper_side_1_2/pumper_side_rotate_4
+        weight: 1
+      - path: gears/gears_1/Null_5/xtra_big_gear_add_2/pumper_side_1_2/pumper_side_rotate_4/1_2_1_4
+        weight: 1
+      - path: gears/gears_1/Null_5/xtra_big_gear_add_2/pumper_side_2
+        weight: 1
+      - path: gears/gears_1/Null_5/xtra_big_gear_add_2/pumper_side_2/pumper_side_rotate_3
+        weight: 1
+      - path: gears/gears_1/Null_5/xtra_big_gear_add_2/pumper_side_2/pumper_side_rotate_3/1_2_1_3
+        weight: 1
+      - path: gears/gears_1/power_box_1_1
+        weight: 1
+      - path: gears/gears_1/power_box_1_1/Null_3
+        weight: 1
+      - path: gears/gears_1/power_box_1_1/Null_3/Null_1_4
+        weight: 1
+      - path: gears/gears_1/power_box_1_1/Null_3/Null_1_4/Extrude_1_4
+        weight: 1
+      - path: gears/gears_1/power_box_1_1/Null_3/Null_4
+        weight: 1
+      - path: gears/gears_1/power_box_1_1/Null_3/Null_4/Extrude_1_3
+        weight: 1
+      - path: gears/gears_1/power_box_1_1/Null_3/Sweep_2_2
+        weight: 1
+      - path: gears/gears_2
+        weight: 1
+      - path: gears/gears_2/Null_1_9
+        weight: 1
+      - path: gears/gears_2/Null_1_9/Null_1_10
+        weight: 1
+      - path: gears/gears_2/Null_1_9/Null_1_10/Extrude_1_6
+        weight: 1
+      - path: gears/gears_2/Null_1_9/Null_9
+        weight: 1
+      - path: gears/gears_2/Null_1_9/Null_9/Extrude_1_5
+        weight: 1
+      - path: gears/gears_2/Null_1_9/Sweep_2_3
+        weight: 1
+      - path: gears/gears_2/Null_1_14
+        weight: 1
+      - path: gears/gears_2/Null_1_14/Extrude_2
+        weight: 1
+      - path: gears/gears_2/Null_1_14/Extrude_2/large_2
+        weight: 1
+      - path: gears/gears_2/Null_1_14/Extrude_2/large_2/1_4_3
+        weight: 1
+      - path: gears/gears_2/Null_1_14/Extrude_2/large_2/1_4_3/Null_16
+        weight: 1
+      - path: gears/gears_2/Null_1_14/Extrude_2/large_2/1_4_3/Null_16/3_4_1_2
+        weight: 1
+      - path: gears/gears_2/Null_1_14/Extrude_2/large_2/1_4_4
+        weight: 1
+      - path: gears/gears_2/Null_1_14/Extrude_2/large_2/1_4_4/Null_1_15
+        weight: 1
+      - path: gears/gears_2/Null_1_14/Extrude_2/large_2/1_8_2
+        weight: 1
+      - path: gears/gears_2/Null_1_14/Extrude_2/large_2/1_8_2/Null_1_16
+        weight: 1
+      - path: gears/gears_2/Null_1_14/Extrude_2/large_2/Cube_2
+        weight: 1
+      - path: gears/gears_2/Null_1_14/Extrude_2/large_2/full_2
+        weight: 1
+      - path: gears/gears_2/Null_1_14/Extrude_2/large_2/full_2/Null_15
+        weight: 1
+      - path: gears/gears_2/Null_1_14/Extrude_2/large_2/full_2/Null_15/1_2_2
+        weight: 1
+      - path: gears/gears_2/Null_1_14/Sweep_2_5
+        weight: 1
+      - path: gears/gears_2/Null_10
+        weight: 1
+      - path: gears/gears_2/Null_10/xtra_big_gear_add_3
+        weight: 1
+      - path: gears/gears_2/Null_10/xtra_big_gear_add_3/Null_1_11
+        weight: 1
+      - path: gears/gears_2/Null_10/xtra_big_gear_add_3/Null_1_11/1_4_new_5
+        weight: 1
+      - path: gears/gears_2/Null_10/xtra_big_gear_add_3/Null_2_4
+        weight: 1
+      - path: gears/gears_2/Null_10/xtra_big_gear_add_3/Null_2_4/1_4_new_6
+        weight: 1
+      - path: gears/gears_2/Null_10/xtra_big_gear_add_3/pumper_side_1_3
+        weight: 1
+      - path: gears/gears_2/Null_10/xtra_big_gear_add_3/pumper_side_1_3/pumper_side_rotate_6
+        weight: 1
+      - path: gears/gears_2/Null_10/xtra_big_gear_add_3/pumper_side_1_3/pumper_side_rotate_6/1_2_1_6
+        weight: 1
+      - path: gears/gears_2/Null_10/xtra_big_gear_add_3/pumper_side_3
+        weight: 1
+      - path: gears/gears_2/Null_10/xtra_big_gear_add_3/pumper_side_3/pumper_side_rotate_5
+        weight: 1
+      - path: gears/gears_2/Null_10/xtra_big_gear_add_3/pumper_side_3/pumper_side_rotate_5/1_2_1_5
+        weight: 1
+      - path: gears/gears_2/Null_13
+        weight: 1
+      - path: gears/gears_2/Null_13/xtra_big_gear_add_4
+        weight: 1
+      - path: gears/gears_2/Null_13/xtra_big_gear_add_4/Null_1_13
+        weight: 1
+      - path: gears/gears_2/Null_13/xtra_big_gear_add_4/Null_1_13/1_4_new_7
+        weight: 1
+      - path: gears/gears_2/Null_13/xtra_big_gear_add_4/Null_2_5
+        weight: 1
+      - path: gears/gears_2/Null_13/xtra_big_gear_add_4/Null_2_5/1_4_new_8
+        weight: 1
+      - path: gears/gears_2/Null_13/xtra_big_gear_add_4/Null_14
+        weight: 1
+      - path: gears/gears_2/Null_13/xtra_big_gear_add_4/Null_14/1_4_new_1_2
+        weight: 1
+      - path: gears/gears_2/Null_13/xtra_big_gear_add_4/pumper_side_1_4
+        weight: 1
+      - path: gears/gears_2/Null_13/xtra_big_gear_add_4/pumper_side_1_4/pumper_side_rotate_8
+        weight: 1
+      - path: gears/gears_2/Null_13/xtra_big_gear_add_4/pumper_side_1_4/pumper_side_rotate_8/1_2_1_8
+        weight: 1
+      - path: gears/gears_2/Null_13/xtra_big_gear_add_4/pumper_side_4
+        weight: 1
+      - path: gears/gears_2/Null_13/xtra_big_gear_add_4/pumper_side_4/pumper_side_rotate_7
+        weight: 1
+      - path: gears/gears_2/Null_13/xtra_big_gear_add_4/pumper_side_4/pumper_side_rotate_7/1_2_1_7
+        weight: 1
+      - path: gears/gears_2/power_box_1_1_2
+        weight: 1
+      - path: gears/gears_2/power_box_1_1_2/Null_11
+        weight: 1
+      - path: gears/gears_2/power_box_1_1_2/Null_11/Null_1_12
+        weight: 1
+      - path: gears/gears_2/power_box_1_1_2/Null_11/Null_1_12/Extrude_1_8
+        weight: 1
+      - path: gears/gears_2/power_box_1_1_2/Null_11/Null_12
+        weight: 1
+      - path: gears/gears_2/power_box_1_1_2/Null_11/Null_12/Extrude_1_7
+        weight: 1
+      - path: gears/gears_2/power_box_1_1_2/Null_11/Sweep_2_4
+        weight: 1
+      - path: gears/gears_3
+        weight: 1
+      - path: gears/gears_3/Null_1_17
+        weight: 1
+      - path: gears/gears_3/Null_1_17/Null_1_18
+        weight: 1
+      - path: gears/gears_3/Null_1_17/Null_1_18/Extrude_1_10
+        weight: 1
+      - path: gears/gears_3/Null_1_17/Null_17
+        weight: 1
+      - path: gears/gears_3/Null_1_17/Null_17/Extrude_1_9
+        weight: 1
+      - path: gears/gears_3/Null_1_17/Sweep_2_6
+        weight: 1
+      - path: gears/gears_3/Null_1_22
+        weight: 1
+      - path: gears/gears_3/Null_1_22/Extrude_3
+        weight: 1
+      - path: gears/gears_3/Null_1_22/Extrude_3/large_3
+        weight: 1
+      - path: gears/gears_3/Null_1_22/Extrude_3/large_3/1_4_5
+        weight: 1
+      - path: gears/gears_3/Null_1_22/Extrude_3/large_3/1_4_5/Null_24
+        weight: 1
+      - path: gears/gears_3/Null_1_22/Extrude_3/large_3/1_4_5/Null_24/3_4_1_3
+        weight: 1
+      - path: gears/gears_3/Null_1_22/Extrude_3/large_3/1_4_6
+        weight: 1
+      - path: gears/gears_3/Null_1_22/Extrude_3/large_3/1_4_6/Null_1_23
+        weight: 1
+      - path: gears/gears_3/Null_1_22/Extrude_3/large_3/1_8_3
+        weight: 1
+      - path: gears/gears_3/Null_1_22/Extrude_3/large_3/1_8_3/Null_1_24
+        weight: 1
+      - path: gears/gears_3/Null_1_22/Extrude_3/large_3/Cube_3
+        weight: 1
+      - path: gears/gears_3/Null_1_22/Extrude_3/large_3/full_3
+        weight: 1
+      - path: gears/gears_3/Null_1_22/Extrude_3/large_3/full_3/Null_23
+        weight: 1
+      - path: gears/gears_3/Null_1_22/Extrude_3/large_3/full_3/Null_23/1_2_3
+        weight: 1
+      - path: gears/gears_3/Null_1_22/Sweep_3
+        weight: 1
+      - path: gears/gears_3/Null_18
+        weight: 1
+      - path: gears/gears_3/Null_18/xtra_big_gear_add_5
+        weight: 1
+      - path: gears/gears_3/Null_18/xtra_big_gear_add_5/Null_1_19
+        weight: 1
+      - path: gears/gears_3/Null_18/xtra_big_gear_add_5/Null_1_19/1_4_new_9
+        weight: 1
+      - path: gears/gears_3/Null_18/xtra_big_gear_add_5/Null_2_6
+        weight: 1
+      - path: gears/gears_3/Null_18/xtra_big_gear_add_5/Null_2_6/1_4_new_10
+        weight: 1
+      - path: gears/gears_3/Null_18/xtra_big_gear_add_5/pumper_side_1_5
+        weight: 1
+      - path: gears/gears_3/Null_18/xtra_big_gear_add_5/pumper_side_1_5/pumper_side_rotate_10
+        weight: 1
+      - path: gears/gears_3/Null_18/xtra_big_gear_add_5/pumper_side_1_5/pumper_side_rotate_10/1_2_1_10
+        weight: 1
+      - path: gears/gears_3/Null_18/xtra_big_gear_add_5/pumper_side_5
+        weight: 1
+      - path: gears/gears_3/Null_18/xtra_big_gear_add_5/pumper_side_5/pumper_side_rotate_9
+        weight: 1
+      - path: gears/gears_3/Null_18/xtra_big_gear_add_5/pumper_side_5/pumper_side_rotate_9/1_2_1_9
+        weight: 1
+      - path: gears/gears_3/Null_21
+        weight: 1
+      - path: gears/gears_3/Null_21/xtra_big_gear_add_6
+        weight: 1
+      - path: gears/gears_3/Null_21/xtra_big_gear_add_6/Null_1_21
+        weight: 1
+      - path: gears/gears_3/Null_21/xtra_big_gear_add_6/Null_1_21/1_4_new_11
+        weight: 1
+      - path: gears/gears_3/Null_21/xtra_big_gear_add_6/Null_2_7
+        weight: 1
+      - path: gears/gears_3/Null_21/xtra_big_gear_add_6/Null_2_7/1_4_new_12
+        weight: 1
+      - path: gears/gears_3/Null_21/xtra_big_gear_add_6/Null_22
+        weight: 1
+      - path: gears/gears_3/Null_21/xtra_big_gear_add_6/Null_22/1_4_new_1_3
+        weight: 1
+      - path: gears/gears_3/Null_21/xtra_big_gear_add_6/pumper_side_1_6
+        weight: 1
+      - path: gears/gears_3/Null_21/xtra_big_gear_add_6/pumper_side_1_6/pumper_side_rotate_12
+        weight: 1
+      - path: gears/gears_3/Null_21/xtra_big_gear_add_6/pumper_side_1_6/pumper_side_rotate_12/1_2_1_12
+        weight: 1
+      - path: gears/gears_3/Null_21/xtra_big_gear_add_6/pumper_side_6
+        weight: 1
+      - path: gears/gears_3/Null_21/xtra_big_gear_add_6/pumper_side_6/pumper_side_rotate_11
+        weight: 1
+      - path: gears/gears_3/Null_21/xtra_big_gear_add_6/pumper_side_6/pumper_side_rotate_11/1_2_1_11
+        weight: 1
+      - path: gears/gears_3/power_box_1_1_3
+        weight: 1
+      - path: gears/gears_3/power_box_1_1_3/Null_19
+        weight: 1
+      - path: gears/gears_3/power_box_1_1_3/Null_19/Null_1_20
+        weight: 1
+      - path: gears/gears_3/power_box_1_1_3/Null_19/Null_1_20/Extrude_1_12
+        weight: 1
+      - path: gears/gears_3/power_box_1_1_3/Null_19/Null_20
+        weight: 1
+      - path: gears/gears_3/power_box_1_1_3/Null_19/Null_20/Extrude_1_11
+        weight: 1
+      - path: gears/gears_3/power_box_1_1_3/Null_19/Sweep_2_7
+        weight: 1
+      - path: gears/gears_4
+        weight: 1
+      - path: gears/gears_4/Null_1_25
+        weight: 1
+      - path: gears/gears_4/Null_1_25/Null_1_26
+        weight: 1
+      - path: gears/gears_4/Null_1_25/Null_1_26/Extrude_1_14
+        weight: 1
+      - path: gears/gears_4/Null_1_25/Null_25
+        weight: 1
+      - path: gears/gears_4/Null_1_25/Null_25/Extrude_1_13
+        weight: 1
+      - path: gears/gears_4/Null_1_25/Sweep_2_8
+        weight: 1
+      - path: gears/gears_4/Null_1_30
+        weight: 1
+      - path: gears/gears_4/Null_1_30/Extrude_4
+        weight: 1
+      - path: gears/gears_4/Null_1_30/Extrude_4/large_4
+        weight: 1
+      - path: gears/gears_4/Null_1_30/Extrude_4/large_4/1_4_7
+        weight: 1
+      - path: gears/gears_4/Null_1_30/Extrude_4/large_4/1_4_7/Null_32
+        weight: 1
+      - path: gears/gears_4/Null_1_30/Extrude_4/large_4/1_4_7/Null_32/3_4_1_4
+        weight: 1
+      - path: gears/gears_4/Null_1_30/Extrude_4/large_4/1_4_8
+        weight: 1
+      - path: gears/gears_4/Null_1_30/Extrude_4/large_4/1_4_8/Null_1_31
+        weight: 1
+      - path: gears/gears_4/Null_1_30/Extrude_4/large_4/1_8_4
+        weight: 1
+      - path: gears/gears_4/Null_1_30/Extrude_4/large_4/1_8_4/Null_1_32
+        weight: 1
+      - path: gears/gears_4/Null_1_30/Extrude_4/large_4/Cube_4
+        weight: 1
+      - path: gears/gears_4/Null_1_30/Extrude_4/large_4/full_4
+        weight: 1
+      - path: gears/gears_4/Null_1_30/Extrude_4/large_4/full_4/Null_31
+        weight: 1
+      - path: gears/gears_4/Null_1_30/Extrude_4/large_4/full_4/Null_31/1_2_4
+        weight: 1
+      - path: gears/gears_4/Null_1_30/Sweep_4
+        weight: 1
+      - path: gears/gears_4/Null_26
+        weight: 1
+      - path: gears/gears_4/Null_26/xtra_big_gear_add_7
+        weight: 1
+      - path: gears/gears_4/Null_26/xtra_big_gear_add_7/Null_1_27
+        weight: 1
+      - path: gears/gears_4/Null_26/xtra_big_gear_add_7/Null_1_27/1_4_new_13
+        weight: 1
+      - path: gears/gears_4/Null_26/xtra_big_gear_add_7/Null_2_8
+        weight: 1
+      - path: gears/gears_4/Null_26/xtra_big_gear_add_7/Null_2_8/1_4_new_14
+        weight: 1
+      - path: gears/gears_4/Null_26/xtra_big_gear_add_7/pumper_side_1_7
+        weight: 1
+      - path: gears/gears_4/Null_26/xtra_big_gear_add_7/pumper_side_1_7/pumper_side_rotate_14
+        weight: 1
+      - path: gears/gears_4/Null_26/xtra_big_gear_add_7/pumper_side_1_7/pumper_side_rotate_14/1_2_1_14
+        weight: 1
+      - path: gears/gears_4/Null_26/xtra_big_gear_add_7/pumper_side_7
+        weight: 1
+      - path: gears/gears_4/Null_26/xtra_big_gear_add_7/pumper_side_7/pumper_side_rotate_13
+        weight: 1
+      - path: gears/gears_4/Null_26/xtra_big_gear_add_7/pumper_side_7/pumper_side_rotate_13/1_2_1_13
+        weight: 1
+      - path: gears/gears_4/Null_29
+        weight: 1
+      - path: gears/gears_4/Null_29/xtra_big_gear_add_8
+        weight: 1
+      - path: gears/gears_4/Null_29/xtra_big_gear_add_8/Null_1_29
+        weight: 1
+      - path: gears/gears_4/Null_29/xtra_big_gear_add_8/Null_1_29/1_4_new_15
+        weight: 1
+      - path: gears/gears_4/Null_29/xtra_big_gear_add_8/Null_2_9
+        weight: 1
+      - path: gears/gears_4/Null_29/xtra_big_gear_add_8/Null_2_9/1_4_new_16
+        weight: 1
+      - path: gears/gears_4/Null_29/xtra_big_gear_add_8/Null_30
+        weight: 1
+      - path: gears/gears_4/Null_29/xtra_big_gear_add_8/Null_30/1_4_new_1_4
+        weight: 1
+      - path: gears/gears_4/Null_29/xtra_big_gear_add_8/pumper_side_1_8
+        weight: 1
+      - path: gears/gears_4/Null_29/xtra_big_gear_add_8/pumper_side_1_8/pumper_side_rotate_16
+        weight: 1
+      - path: gears/gears_4/Null_29/xtra_big_gear_add_8/pumper_side_1_8/pumper_side_rotate_16/1_2_1_16
+        weight: 1
+      - path: gears/gears_4/Null_29/xtra_big_gear_add_8/pumper_side_8
+        weight: 1
+      - path: gears/gears_4/Null_29/xtra_big_gear_add_8/pumper_side_8/pumper_side_rotate_15
+        weight: 1
+      - path: gears/gears_4/Null_29/xtra_big_gear_add_8/pumper_side_8/pumper_side_rotate_15/1_2_1_15
+        weight: 1
+      - path: gears/gears_4/power_box_1_1_4
+        weight: 1
+      - path: gears/gears_4/power_box_1_1_4/Null_27
+        weight: 1
+      - path: gears/gears_4/power_box_1_1_4/Null_27/Null_1_28
+        weight: 1
+      - path: gears/gears_4/power_box_1_1_4/Null_27/Null_1_28/Extrude_1_16
+        weight: 1
+      - path: gears/gears_4/power_box_1_1_4/Null_27/Null_28
+        weight: 1
+      - path: gears/gears_4/power_box_1_1_4/Null_27/Null_28/Extrude_1_15
+        weight: 1
+      - path: gears/gears_4/power_box_1_1_4/Null_27/Sweep_2_9
+        weight: 1
+      - path: pipes
+        weight: 1
+      - path: screws_2
+        weight: 1
+      - path: shaft_booles_Tube
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: a05ce27ee0246ac4e835044ab859185e
+timeCreated: 1485395498
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BUILDING
+    100002: BUTTONS
+    100004: CINEMA_4D_Editor
+    100006: DESK_02_1
+    100008: DESKBOT_1
+    100010: ELEVATOR_1
+    100012: ELEVATOR_DOORS
+    100014: FURNITURE_1
+    100016: //RootNode
+    100018: PLANTER_1
+    100020: PLANTER_2
+    100022: RACK
+    100024: WINDOW_1
+    100026: ARMREST_1
+    100028: GRAMOPHONE
+    100030: GRAMOPHONE_2
+    100032: GRAMOPHONE_3
+    100034: GRAMOPHONE_4
+    100036: GRAMOPHONE_5
+    100038: KNOBS
+    100040: HOLE_CAP
+    400000: BUILDING
+    400002: BUTTONS
+    400004: CINEMA_4D_Editor
+    400006: DESK_02_1
+    400008: DESKBOT_1
+    400010: ELEVATOR_1
+    400012: ELEVATOR_DOORS
+    400014: FURNITURE_1
+    400016: //RootNode
+    400018: PLANTER_1
+    400020: PLANTER_2
+    400022: RACK
+    400024: WINDOW_1
+    400026: ARMREST_1
+    400028: GRAMOPHONE
+    400030: GRAMOPHONE_2
+    400032: GRAMOPHONE_3
+    400034: GRAMOPHONE_4
+    400036: GRAMOPHONE_5
+    400038: KNOBS
+    400040: HOLE_CAP
+    2300000: BUILDING
+    2300002: BUTTONS
+    2300004: DESK_02_1
+    2300006: DESKBOT_1
+    2300008: ELEVATOR_1
+    2300010: ELEVATOR_DOORS
+    2300012: FURNITURE_1
+    2300014: PLANTER_1
+    2300016: PLANTER_2
+    2300018: RACK
+    2300020: WINDOW_1
+    2300022: ARMREST_1
+    2300024: GRAMOPHONE_2
+    2300026: GRAMOPHONE_3
+    2300028: GRAMOPHONE_4
+    2300030: GRAMOPHONE_5
+    2300032: KNOBS
+    2300034: HOLE_CAP
+    3300000: BUILDING
+    3300002: BUTTONS
+    3300004: DESK_02_1
+    3300006: DESKBOT_1
+    3300008: ELEVATOR_1
+    3300010: ELEVATOR_DOORS
+    3300012: FURNITURE_1
+    3300014: PLANTER_1
+    3300016: PLANTER_2
+    3300018: RACK
+    3300020: WINDOW_1
+    3300022: ARMREST_1
+    3300024: GRAMOPHONE_2
+    3300026: GRAMOPHONE_3
+    3300028: GRAMOPHONE_4
+    3300030: GRAMOPHONE_5
+    3300032: KNOBS
+    3300034: HOLE_CAP
+    4300000: RACK
+    4300002: DESKBOT_1
+    4300004: BUTTONS
+    4300006: ELEVATOR_DOORS
+    4300008: WINDOW_1
+    4300010: ELEVATOR_1
+    4300012: DESK_02_1
+    4300014: PLANTER_1
+    4300016: PLANTER_2
+    4300018: FURNITURE_1
+    4300020: BUILDING
+    4300022: ARMREST_1
+    4300024: GRAMOPHONE_2
+    4300026: GRAMOPHONE_3
+    4300028: GRAMOPHONE_4
+    4300030: GRAMOPHONE_5
+    4300032: KNOBS
+    4300034: HOLE_CAP
+    7400000: Main
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Main
+      takeName: Main
+      firstFrame: 0
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ARMREST_1
+        weight: 1
+      - path: BUILDING
+        weight: 1
+      - path: BUTTONS
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: DESK_02_1
+        weight: 1
+      - path: DESKBOT_1
+        weight: 1
+      - path: ELEVATOR_1
+        weight: 1
+      - path: ELEVATOR_DOORS
+        weight: 1
+      - path: FURNITURE_1
+        weight: 1
+      - path: GRAMOPHONE
+        weight: 1
+      - path: GRAMOPHONE/GRAMOPHONE_2
+        weight: 1
+      - path: GRAMOPHONE/GRAMOPHONE_3
+        weight: 1
+      - path: GRAMOPHONE/GRAMOPHONE_4
+        weight: 1
+      - path: GRAMOPHONE/GRAMOPHONE_5
+        weight: 1
+      - path: KNOBS
+        weight: 1
+      - path: PLANTER_1
+        weight: 1
+      - path: PLANTER_2
+        weight: 1
+      - path: WINDOW_1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eae53d1563ea74f93b2daaee96778917, type: 3}
+  m_Name: FINALE_BOILER_MANUAL_HIHAT_Mask
+  m_EditorClassIdentifier: 
+  clip: {fileID: 8300000, guid: 05aadd5db19424e6a86917686b408ee4, type: 3}
+  values:
+  - 0.08430246
+  - 0.042388093
+  - 0.02489862
+  - 0.015002533
+  - 0.010975281
+  - 0.007481659
+  - 0.0047036437
+  - 0.0030090332
+  - 0.0018197632

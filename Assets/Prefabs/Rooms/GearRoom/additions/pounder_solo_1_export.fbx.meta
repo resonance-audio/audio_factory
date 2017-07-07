@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: a1562e657c733144cbff23959d5be8fb
+timeCreated: 1487029896
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bass_pounder
+    100002: Boole
+    100004: CINEMA_4D_Editor
+    100006: Cogwheel
+    100008: Cylinder_1
+    100010: Cylinder_4
+    100012: Cylinder_5
+    100014: Extrude
+    100016: Extrude_1
+    100018: Extrude_2
+    100020: Extrude_2_2
+    100022: Extrude_Extrude_1
+    100024: lever
+    100026: Null
+    100028: Null_1
+    100030: Null_2
+    100032: pipe
+    100034: pipe_connectors
+    100036: pounder_ani
+    100038: pounder_base
+    100040: pounder_main
+    100042: pounder_pole
+    100044: //RootNode
+    100046: saw
+    100048: stand
+    100050: Sweep_1
+    400000: bass_pounder
+    400002: Boole
+    400004: CINEMA_4D_Editor
+    400006: Cogwheel
+    400008: Cylinder_1
+    400010: Cylinder_4
+    400012: Cylinder_5
+    400014: Extrude
+    400016: Extrude_1
+    400018: Extrude_2
+    400020: Extrude_2_2
+    400022: Extrude_Extrude_1
+    400024: lever
+    400026: Null
+    400028: Null_1
+    400030: Null_2
+    400032: pipe
+    400034: pipe_connectors
+    400036: pounder_ani
+    400038: pounder_base
+    400040: pounder_main
+    400042: pounder_pole
+    400044: //RootNode
+    400046: saw
+    400048: stand
+    400050: Sweep_1
+    2300000: Cylinder_1
+    2300002: Cylinder_4
+    2300004: Cylinder_5
+    2300006: Extrude
+    2300008: Extrude_1
+    2300010: Extrude_2
+    2300012: Extrude_2_2
+    2300014: Extrude_Extrude_1
+    2300016: pipe
+    2300018: pipe_connectors
+    2300020: pounder_ani
+    2300022: pounder_base
+    2300024: pounder_pole
+    2300026: stand
+    2300028: Sweep_1
+    3300000: Cylinder_1
+    3300002: Cylinder_4
+    3300004: Cylinder_5
+    3300006: Extrude
+    3300008: Extrude_1
+    3300010: Extrude_2
+    3300012: Extrude_2_2
+    3300014: Extrude_Extrude_1
+    3300016: pipe
+    3300018: pipe_connectors
+    3300020: pounder_ani
+    3300022: pounder_base
+    3300024: pounder_pole
+    3300026: stand
+    3300028: Sweep_1
+    4300000: pounder_ani
+    4300002: pounder_base
+    4300004: pipe_connectors
+    4300006: pipe
+    4300008: Cylinder_1
+    4300010: Extrude_Extrude_1
+    4300012: stand
+    4300014: Cylinder_4
+    4300016: Extrude
+    4300018: Extrude_2
+    4300020: Extrude_1
+    4300022: Cylinder_5
+    4300024: Sweep_1
+    4300026: Extrude_2_2
+    4300028: pounder_pole
+    7400000: CINEMA_4D_Main
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

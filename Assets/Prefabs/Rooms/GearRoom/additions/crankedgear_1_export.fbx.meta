@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: 7662b050fb25def4a9f29796a0c65cf4
+timeCreated: 1487031357
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 2nd_crank
+    100002: Boole
+    100004: center_gear
+    100006: CINEMA_4D_Editor
+    100008: Cloner
+    100010: Clutch_04
+    100012: //RootNode
+    100014: Cube_Cube_1
+    100016: Cylinder_1
+    100018: Cylinder_2
+    100020: Extrude
+    100022: Extrude_1
+    100024: Extrude_1_2
+    100026: Extrude_2
+    100028: gear
+    100030: handle
+    100032: leftside
+    100034: leftside_null
+    100036: lotsa_keyframe_thing
+    100038: Null
+    100040: Null_1
+    100042: Null_1_2
+    100044: Null_1_3
+    100046: Null_2
+    100048: side_GEAR
+    100050: stand
+    100052: Sweep
+    100054: trio_0
+    100056: trio_1
+    100058: trio_2
+    100060: triple_gear
+    100062: Tube
+    100064: weird_circle_gear_60
+    400000: 2nd_crank
+    400002: Boole
+    400004: center_gear
+    400006: CINEMA_4D_Editor
+    400008: Cloner
+    400010: Clutch_04
+    400012: //RootNode
+    400014: Cube_Cube_1
+    400016: Cylinder_1
+    400018: Cylinder_2
+    400020: Extrude
+    400022: Extrude_1
+    400024: Extrude_1_2
+    400026: Extrude_2
+    400028: gear
+    400030: handle
+    400032: leftside
+    400034: leftside_null
+    400036: lotsa_keyframe_thing
+    400038: Null
+    400040: Null_1
+    400042: Null_1_2
+    400044: Null_1_3
+    400046: Null_2
+    400048: side_GEAR
+    400050: stand
+    400052: Sweep
+    400054: trio_0
+    400056: trio_1
+    400058: trio_2
+    400060: triple_gear
+    400062: Tube
+    400064: weird_circle_gear_60
+    2300000: Clutch_04
+    2300002: Cube_Cube_1
+    2300004: Cylinder_1
+    2300006: Cylinder_2
+    2300008: Extrude
+    2300010: Extrude_1
+    2300012: Extrude_1_2
+    2300014: Extrude_2
+    2300016: handle
+    2300018: Null_1
+    2300020: Null_1_2
+    2300022: Null_1_3
+    2300024: stand
+    2300026: Sweep
+    2300028: Tube
+    3300000: Clutch_04
+    3300002: Cube_Cube_1
+    3300004: Cylinder_1
+    3300006: Cylinder_2
+    3300008: Extrude
+    3300010: Extrude_1
+    3300012: Extrude_1_2
+    3300014: Extrude_2
+    3300016: handle
+    3300018: Null_1
+    3300020: Null_1_2
+    3300022: Null_1_3
+    3300024: stand
+    3300026: Sweep
+    3300028: Tube
+    4300000: Cylinder_2
+    4300002: Extrude_1
+    4300004: handle
+    4300006: Extrude
+    4300008: stand
+    4300010: Cube_Cube_1
+    4300012: Tube
+    4300014: Clutch_04
+    4300016: Sweep
+    4300018: Cylinder_1
+    4300020: Extrude_2
+    4300022: Null_1
+    4300024: Null_1_2
+    4300026: Null_1_3
+    4300028: Extrude_1_2
+    7400000: CINEMA_4D_Main
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: CINEMA_4D_Main
+      takeName: CINEMA_4D_Main
+      firstFrame: 1
+      lastFrame: 360
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: triple_gear
+        weight: 1
+      - path: triple_gear/2nd_crank
+        weight: 1
+      - path: triple_gear/2nd_crank/Cylinder_2
+        weight: 1
+      - path: triple_gear/2nd_crank/Extrude_1
+        weight: 1
+      - path: triple_gear/2nd_crank/handle
+        weight: 1
+      - path: triple_gear/gear
+        weight: 1
+      - path: triple_gear/gear/weird_circle_gear_60
+        weight: 1
+      - path: triple_gear/gear/weird_circle_gear_60/Boole
+        weight: 1
+      - path: triple_gear/gear/weird_circle_gear_60/Boole/Cube_Cube_1
+        weight: 1
+      - path: triple_gear/gear/weird_circle_gear_60/center_gear
+        weight: 1
+      - path: triple_gear/gear/weird_circle_gear_60/center_gear/Extrude_2
+        weight: 1
+      - path: triple_gear/gear/weird_circle_gear_60/Cloner
+        weight: 1
+      - path: triple_gear/gear/weird_circle_gear_60/Cloner/trio_0
+        weight: 1
+      - path: triple_gear/gear/weird_circle_gear_60/Cloner/trio_0/Null_1
+        weight: 1
+      - path: triple_gear/gear/weird_circle_gear_60/Cloner/trio_1
+        weight: 1
+      - path: triple_gear/gear/weird_circle_gear_60/Cloner/trio_1/Null_1_2
+        weight: 1
+      - path: triple_gear/gear/weird_circle_gear_60/Cloner/trio_2
+        weight: 1
+      - path: triple_gear/gear/weird_circle_gear_60/Cloner/trio_2/Null_1_3
+        weight: 1
+      - path: triple_gear/gear/weird_circle_gear_60/Null_2
+        weight: 1
+      - path: triple_gear/gear/weird_circle_gear_60/Null_2/Extrude_1_2
+        weight: 1
+      - path: triple_gear/gear/weird_circle_gear_60/side_GEAR
+        weight: 1
+      - path: triple_gear/gear/weird_circle_gear_60/side_GEAR/Null
+        weight: 1
+      - path: triple_gear/gear/weird_circle_gear_60/side_GEAR/Null/Tube
+        weight: 1
+      - path: triple_gear/gear/weird_circle_gear_60/side_GEAR/Null/Tube/Clutch_04
+        weight: 1
+      - path: triple_gear/gear/weird_circle_gear_60/side_GEAR/Null/Tube/Sweep
+        weight: 1
+      - path: triple_gear/gear/weird_circle_gear_60/side_GEAR/Null/Tube/Sweep/leftside
+        weight: 1
+      - path: triple_gear/gear/weird_circle_gear_60/side_GEAR/Null/Tube/Sweep/leftside/Cylinder_1
+        weight: 1
+      - path: triple_gear/gear/weird_circle_gear_60/side_GEAR/Null/Tube/Sweep/leftside/leftside_null
+        weight: 1
+      - path: triple_gear/gear/weird_circle_gear_60/stand
+        weight: 1
+      - path: triple_gear/lotsa_keyframe_thing
+        weight: 1
+      - path: triple_gear/lotsa_keyframe_thing/Extrude
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
