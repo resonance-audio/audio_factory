@@ -1,4 +1,4 @@
-﻿
+
 // <copyright file="AutoPlayVideo.cs" company="Google Inc.">
 // Copyright (C) 2016 Google Inc. All Rights Reserved.
 //
