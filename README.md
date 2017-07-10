@@ -6,4 +6,10 @@ Work your way through each factory floor to experience evocative sound design, c
 
 For more information on how you can add spatial audio to your VR experiences, please see our [spatial audio developer pages](https://developers.google.com/vr/concepts/spatial-audio)
 
+
+Building Instructions:
+
+Audio Factory is a Unity3d Projecy. To build, open the project, set the the build platform to Android and build an APK.
+
+
 Copyright (c) 2017 Google Inc. All rights reserved.
